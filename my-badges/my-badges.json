@@ -1,0 +1,100 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/gl0bal01/exegol-config/commit/aed52324f5f98c24fdef9bea7133ca186240f43c\"><strong>a</strong>ed52324f5f98c24fdef9bea7133ca186240f43c</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/gl0bal01/gl0bal01/commit/abd0b266bece86cc733d1a82641ba0128b908817\"><strong>ab</strong>d0b266bece86cc733d1a82641ba0128b908817</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/scripts/commit/ed302ec26c103b5e6d20d1b67946a83facbdb105\">ed302ec</a>\n- <a href=\"https://github.com/gl0bal01/exegol-config/commit/8b12be1d5f1d1b36922670065030346f1bc919fa\">8b12be1</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "emoji-only-commit",
+    "tier": 0,
+    "desc": "I used only emojis in my commit message.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/games/commit/7550ac57a2dd0b65d19ec439702ecf0d9c9f167d\">7550ac5</a>: 🕹️\n- <a href=\"https://github.com/gl0bal01/games/commit/c0cd2170e139fc5d89f4f333bfc17ac680da4908\">c0cd217</a>: 🕹️\n- <a href=\"https://github.com/gl0bal01/games/commit/1dcb57a65d2f81c247538d815830900cdf0ca9e5\">1dcb57a</a>: ❤️\n\n❤️❤️",
+    "image": "https://my-badges.github.io/my-badges/emoji-only-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/games/commit/d7a4c8b262f00be3f893df86e39e06318a925217\">d7a4c8b</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 49 times)\n2. added (used 40 times)\n3. create (used 37 times)\n4. readme.md (used 12 times)\n5. sop (used 11 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/wordpress-plugins/commit/39f5605e3b265a0b5cd7523bb5686d5bddc1063b\">39f5605</a>\n- <a href=\"https://github.com/gl0bal01/wordpress-plugins/commit/8cb4bd191cd4fd73ad96dd5efaf04442fd7ec770\">8cb4bd1</a>\n- <a href=\"https://github.com/gl0bal01/wordpress-plugins/commit/04a98fb7f4a96e8b75f2d38d077a71a5674cf725\">04a98fb</a>\n- <a href=\"https://github.com/gl0bal01/wordpress-plugins/commit/2b3bd95c08bae224f719203eab9ce0412153753a\">2b3bd95</a>\n- <a href=\"https://github.com/gl0bal01/wordpress-plugins/commit/9b217d7d7454a9dd5878b5da7e6a6fbcd849edb5\">9b217d7</a>\n- <a href=\"https://github.com/gl0bal01/wordpress-plugins/commit/808a980c93c9725db8cba72848af51bcdb93d64a\">808a980</a>\n- <a href=\"https://github.com/gl0bal01/wordpress-plugins/commit/31913f1b98564a8a66502fa23694ff590cf5c3d7\">31913f1</a>\n- <a href=\"https://github.com/gl0bal01/wordpress-plugins/commit/32d73523bdc4f20da993f3982b8906556c08af95\">32d7352</a>\n- <a href=\"https://github.com/gl0bal01/wordpress-plugins/commit/d522263bd81f36c00ba57c188e99898897c99d12\">d522263</a>\n- <a href=\"https://github.com/gl0bal01/wordpress-plugins/commit/5f50dd4edb40b184d33119d3de576f8bc0bd5fbc\">5f50dd4</a>\n- <a href=\"https://github.com/gl0bal01/bookmarklets/commit/47435cbc8fe9c30a83a317076db2a1f703b0ba03\">47435cb</a>\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/549e58284c5710cc583ab83b2f323703a38bb65b\">549e582</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/wordpress-plugins/commit/31913f1b98564a8a66502fa23694ff590cf5c3d7\">31913f1</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/playbooks/commit/12c0f07c757f42ea1528e616293e599bd11f67da\">12c0f07</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/gl0bal01/games\">gl0bal01/games</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/1b70f807a426c7ae4b94c6b85b2478a461b2d71d\">1b70f80</a>\n- <a href=\"https://github.com/gl0bal01/wordpress-plugins/commit/96136baa3d7addb7cf20dc4d7ee32c1eef9e1cd1\">96136ba</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/wordpress-plugins/commit/5cd15007f68be8c54c32626afbdb516d3161170b\">5cd1500</a>\n- <a href=\"https://github.com/gl0bal01/intel-codex/commit/e772ef04354a685b149f11dbb5252b9e16636653\">e772ef0</a>\n- <a href=\"https://github.com/gl0bal01/intel-codex/commit/4ea6bfb1b86f5979cb4010c89d8611dfd889f46e\">4ea6bfb</a>\n- <a href=\"https://github.com/gl0bal01/intel-codex/commit/495f8d8c5ec37da81b2df5cf12cfcd39c600de04\">495f8d8</a>\n- <a href=\"https://github.com/gl0bal01/intel-codex/commit/f0adddf9748cd99a3a2a38191c63b8253c0e5c04\">f0adddf</a>\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/64c7278332fadc2944d850fffb5d66bff1a0c294\">64c7278</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/writeups/commit/e9c08f5f7509d92a5d1eef74b806aa731d630b7f\">e9c08f5</a>\n- <a href=\"https://github.com/gl0bal01/writeups/commit/e7864a8e2bcaaba23a7c56ab1057e909b845ae30\">e7864a8</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
