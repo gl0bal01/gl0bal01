@@ -1,0 +1,77 @@
+name: Update Latest Blog Post
+
+on:
+  schedule:
+    # Run daily at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual triggers
+  push:
+    branches:
+      - main
+
+jobs:
+  update-blog-post:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and update latest blog posts
+        run: |
+          # Fetch RSS feed
+          curl -s "https://gl0bal01.com/blog/rss.xml" > rss.xml
+
+          # Start building the blog section
+          echo "## Latest Blog Posts" > blog_section.md
+          echo "" >> blog_section.md
+
+          # Extract titles, links, and descriptions (skip first title which is the feed title)
+          TITLES=($(xmllint --xpath '//item/title/text()' rss.xml 2>/dev/null | head -10))
+          LINKS=($(xmllint --xpath '//item/link/text()' rss.xml 2>/dev/null | head -10))
+          DESCRIPTIONS=($(xmllint --xpath '//item/description/text()' rss.xml 2>/dev/null | head -10))
+
+          # Process each post (up to 10)
+          for i in {0..9}; do
+            if [ ! -z "${LINKS[$i]}" ]; then
+              TITLE=$(echo "${TITLES[$i]}" | sed 's/&amp;/\&/g; s/&lt;/</g; s/&gt;/>/g; s/&quot;/"/g')
+              LINK="${LINKS[$i]}"
+              DESC=$(echo "${DESCRIPTIONS[$i]}" | sed 's/<[^>]*>//g; s/&amp;/\&/g; s/&lt;/</g; s/&gt;/>/g; s/&quot;/"/g' | cut -c1-200)
+
+              echo "- **[$TITLE]($LINK)** - $DESC..." >> blog_section.md
+            fi
+          done
+
+          echo "" >> blog_section.md
+          echo "[**View More →**](https://gl0bal01.com/blog/)" >> blog_section.md
+
+          # Update README.md
+          if grep -q "<!-- blog-post start -->" README.md; then
+            # Replace content between markers
+            sed -i "/<!-- blog-post start -->/,/<!-- blog-post end -->/d" README.md
+            sed -i "/<!-- my-badges end -->/r blog_section.md" README.md
+            sed -i "/<!-- my-badges end -->/a <!-- blog-post start -->" README.md
+            sed -i "/\[\\*\\*View More →\\*\\*\]/a <!-- blog-post end -->" README.md
+          else
+            echo "" >> README.md
+            echo "<!-- blog-post start -->" >> README.md
+            cat blog_section.md >> README.md
+            echo "<!-- blog-post end -->" >> README.md
+          fi
+
+          # Cleanup
+          rm rss.xml blog_section.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update latest blog post"
+            git push
+          fi
