@@ -26,43 +26,56 @@ jobs:
           import re
           import html
 
-          # Fetch RSS
-          with urllib.request.urlopen('https://gl0bal01.com/blog/rss.xml') as r:
-              rss = r.read().decode('utf-8')
+          # Fetch RSS feed
+          with urllib.request.urlopen('https://gl0bal01.com/blog/rss.xml') as response:
+              rss_content = response.read().decode('utf-8')
 
-          # Find all items
-          items = re.findall(r'<item>(.*?)</item>', rss, re.DOTALL)[:10]
+          # Extract up to 10 items from RSS feed
+          rss_items = re.findall(r'<item>(.*?)</item>', rss_content, re.DOTALL)[:10]
 
-          posts = []
-          for item in items:
-              title = re.search(r'<title>(.*?)</title>', item)
-              link = re.search(r'<link>(.*?)</link>', item)
-              desc = re.search(r'<description>(.*?)</description>', item)
+          # Parse each blog post
+          blog_posts = []
+          for item_xml in rss_items:
+              title_match = re.search(r'<title>(.*?)</title>', item_xml)
+              link_match = re.search(r'<link>(.*?)</link>', item_xml)
+              desc_match = re.search(r'<description>(.*?)</description>', item_xml)
 
-              if title and link:
-                  t = html.unescape(title.group(1))
-                  l = link.group(1)
-                  d = html.unescape(re.sub(r'<[^>]+>', '', desc.group(1) if desc else ''))[:200]
-                  posts.append(f'- **[{t}]({l})** - {d}...')
+              if title_match and link_match:
+                  # Strip CDATA wrappers and clean content
+                  post_title = re.sub(r'<!\[CDATA\[(.*?)\]\]>', r'\1', title_match.group(1))
+                  post_title = html.unescape(post_title.strip())
 
-          # Write content
-          with open('blog_content.txt', 'w') as f:
-              f.write('## Latest Blog Posts\n\n')
-              f.write('\n'.join(posts))
-              f.write('\n\n[**View More →**](https://gl0bal01.com/blog/)\n')
+                  post_link = link_match.group(1).strip()
 
-          # Update README
-          with open('README.md', 'r') as f:
-              readme = f.read()
+                  post_desc = re.sub(r'<!\[CDATA\[(.*?)\]\]>', r'\1', desc_match.group(1) if desc_match else '')
+                  post_desc = html.unescape(re.sub(r'<[^>]+>', '', post_desc))[:200].strip()
 
-          start = readme.find('<!-- blog-post start -->')
-          end = readme.find('<!-- blog-post end -->') + len('<!-- blog-post end -->')
+                  blog_posts.append(f'- **[{post_title}]({post_link})** - {post_desc}...')
 
-          with open('blog_content.txt', 'r') as f:
-              new_content = f.read()
+          # Build blog section content
+          with open('blog_content.txt', 'w') as content_file:
+              content_file.write('## Latest Blog Posts\n\n')
+              content_file.write('\n'.join(blog_posts))
+              content_file.write('\n\n[**View More →**](https://gl0bal01.com/blog/)\n')
 
-          with open('README.md', 'w') as f:
-              f.write(readme[:start] + '<!-- blog-post start -->\n' + new_content + '<!-- blog-post end -->\n' + readme[end:])
+          # Update README.md between markers
+          with open('README.md', 'r') as readme_file:
+              readme_content = readme_file.read()
+
+          marker_start = readme_content.find('<!-- blog-post start -->')
+          marker_end = readme_content.find('<!-- blog-post end -->') + len('<!-- blog-post end -->')
+
+          with open('blog_content.txt', 'r') as content_file:
+              blog_section = content_file.read()
+
+          with open('README.md', 'w') as readme_file:
+              readme_file.write(
+                  readme_content[:marker_start] +
+                  '<!-- blog-post start -->\n' +
+                  blog_section +
+                  '<!-- blog-post end -->\n' +
+                  readme_content[marker_end:]
+              )
           "
 
           rm -f blog_content.txt
