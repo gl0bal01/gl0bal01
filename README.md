@@ -14,9 +14,10 @@
 <a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <!-- my-badges end -->
-
 <!-- blog-post start -->
-## Latest Blog Post
+## Latest Blog Posts
 
-Fetching latest blog post...
+
+[**View More →**](https://gl0bal01.com/blog/)
 <!-- blog-post end -->
+
