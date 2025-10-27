@@ -21,54 +21,39 @@ jobs:
 
       - name: Fetch and update latest blog posts
         run: |
-          # Fetch RSS feed
-          curl -s "https://gl0bal01.com/blog/rss.xml" > rss.xml
+          # Fetch RSS and build content
+          CONTENT="## Latest Blog Posts\n\n"
 
-          # Start building the blog section
-          echo "## Latest Blog Posts" > blog_section.md
-          echo "" >> blog_section.md
-
-          # Count total items
-          ITEM_COUNT=$(xmllint --xpath 'count(//item)' rss.xml 2>/dev/null)
-          MAX_POSTS=10
-
-          if [ "$ITEM_COUNT" -lt "$MAX_POSTS" ]; then
-            MAX_POSTS=$ITEM_COUNT
-          fi
-
-          # Process each post (up to 10)
-          for i in $(seq 1 $MAX_POSTS); do
-            TITLE=$(xmllint --xpath "string(//item[$i]/title)" rss.xml 2>/dev/null)
-            LINK=$(xmllint --xpath "string(//item[$i]/link)" rss.xml 2>/dev/null)
-            DESC=$(xmllint --xpath "string(//item[$i]/description)" rss.xml 2>/dev/null)
-
-            if [ ! -z "$LINK" ]; then
-              # Clean description: remove HTML tags and entities, truncate
-              DESC=$(echo "$DESC" | sed 's/<[^>]*>//g; s/&amp;/\&/g; s/&lt;/</g; s/&gt;/>/g; s/&quot;/"/g; s/&#39;/'"'"'/g' | cut -c1-200)
-
-              echo "- **[$TITLE]($LINK)** - $DESC..." >> blog_section.md
+          curl -s "https://gl0bal01.com/blog/rss.xml" | xmllint --format - | grep -A 3 "<item>" | head -40 | while read line; do
+            if echo "$line" | grep -q "<title>"; then
+              TITLE=$(echo "$line" | sed 's/<[^>]*>//g' | sed 's/^[ \t]*//')
+            elif echo "$line" | grep -q "<link>"; then
+              LINK=$(echo "$line" | sed 's/<[^>]*>//g' | sed 's/^[ \t]*//')
+            elif echo "$line" | grep -q "<description>"; then
+              DESC=$(echo "$line" | sed 's/<[^>]*>//g' | sed 's/^[ \t]*//' | cut -c1-200)
+              if [ ! -z "$LINK" ]; then
+                echo "- **[$TITLE]($LINK)** - $DESC..." >> /tmp/posts.txt
+              fi
             fi
           done
 
-          echo "" >> blog_section.md
-          echo "[**View More →**](https://gl0bal01.com/blog/)" >> blog_section.md
+          # Build final content
+          {
+            echo "## Latest Blog Posts"
+            echo ""
+            head -10 /tmp/posts.txt 2>/dev/null || true
+            echo ""
+            echo "[**View More →**](https://gl0bal01.com/blog/)"
+          } > /tmp/blog_content.txt
 
-          # Update README.md
-          if grep -q "<!-- blog-post start -->" README.md; then
-            # Replace content between markers
-            sed -i "/<!-- blog-post start -->/,/<!-- blog-post end -->/d" README.md
-            sed -i "/<!-- my-badges end -->/r blog_section.md" README.md
-            sed -i "/<!-- my-badges end -->/a <!-- blog-post start -->" README.md
-            sed -i "/\[\\*\\*View More →\\*\\*\]/a <!-- blog-post end -->" README.md
-          else
-            echo "" >> README.md
-            echo "<!-- blog-post start -->" >> README.md
-            cat blog_section.md >> README.md
-            echo "<!-- blog-post end -->" >> README.md
-          fi
+          # Replace content between markers
+          awk '
+            /<!-- blog-post start -->/ {print; system("cat /tmp/blog_content.txt"); f=1; next}
+            /<!-- blog-post end -->/ {f=0}
+            !f
+          ' README.md > README.tmp && mv README.tmp README.md
 
-          # Cleanup
-          rm rss.xml blog_section.md
+          rm -f /tmp/posts.txt /tmp/blog_content.txt
 
       - name: Commit and push changes
         run: |
