@@ -21,27 +21,23 @@ jobs:
 
       - name: Fetch and update latest blog posts
         run: |
-          # Fetch RSS and build content
-          CONTENT="## Latest Blog Posts\n\n"
+          # Fetch RSS
+          curl -s "https://gl0bal01.com/blog/rss.xml" > feed.xml
 
-          curl -s "https://gl0bal01.com/blog/rss.xml" | xmllint --format - | grep -A 3 "<item>" | head -40 | while read line; do
-            if echo "$line" | grep -q "<title>"; then
-              TITLE=$(echo "$line" | sed 's/<[^>]*>//g' | sed 's/^[ \t]*//')
-            elif echo "$line" | grep -q "<link>"; then
-              LINK=$(echo "$line" | sed 's/<[^>]*>//g' | sed 's/^[ \t]*//')
-            elif echo "$line" | grep -q "<description>"; then
-              DESC=$(echo "$line" | sed 's/<[^>]*>//g' | sed 's/^[ \t]*//' | cut -c1-200)
-              if [ ! -z "$LINK" ]; then
-                echo "- **[$TITLE]($LINK)** - $DESC..." >> /tmp/posts.txt
-              fi
-            fi
+          # Extract posts using grep and sed
+          grep -o '<item>.*</item>' feed.xml | head -10 | while IFS= read -r item; do
+            TITLE=$(echo "$item" | grep -o '<title>[^<]*</title>' | sed 's/<[^>]*>//g')
+            LINK=$(echo "$item" | grep -o '<link>[^<]*</link>' | sed 's/<[^>]*>//g')
+            DESC=$(echo "$item" | grep -o '<description>[^<]*</description>' | sed 's/<[^>]*>//g' | sed 's/&[^;]*;//g' | cut -c1-200)
+
+            echo "- **[$TITLE]($LINK)** - $DESC..." >> /tmp/posts.txt
           done
 
           # Build final content
           {
             echo "## Latest Blog Posts"
             echo ""
-            head -10 /tmp/posts.txt 2>/dev/null || true
+            cat /tmp/posts.txt
             echo ""
             echo "[**View More →**](https://gl0bal01.com/blog/)"
           } > /tmp/blog_content.txt
@@ -53,7 +49,7 @@ jobs:
             !f
           ' README.md > README.tmp && mv README.tmp README.md
 
-          rm -f /tmp/posts.txt /tmp/blog_content.txt
+          rm -f feed.xml /tmp/posts.txt /tmp/blog_content.txt
 
       - name: Commit and push changes
         run: |
