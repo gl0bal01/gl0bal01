@@ -21,35 +21,51 @@ jobs:
 
       - name: Fetch and update latest blog posts
         run: |
-          # Fetch RSS and convert to single line
-          curl -s "https://gl0bal01.com/blog/rss.xml" | tr '\n' ' ' > feed.xml
+          python3 -c "
+          import urllib.request
+          import re
+          import html
 
-          # Extract first 10 items
-          grep -oP '<item>.*?</item>' feed.xml | head -10 | while IFS= read -r item; do
-            TITLE=$(echo "$item" | grep -oP '<title>\K[^<]+' || echo "No title")
-            LINK=$(echo "$item" | grep -oP '<link>\K[^<]+' || echo "#")
-            DESC=$(echo "$item" | grep -oP '<description>\K[^<]+' | sed 's/&[^;]*;//g' | cut -c1-200 || echo "")
+          # Fetch RSS
+          with urllib.request.urlopen('https://gl0bal01.com/blog/rss.xml') as r:
+              rss = r.read().decode('utf-8')
 
-            echo "- **[$TITLE]($LINK)** - $DESC..." >> posts.txt
-          done
+          # Find all items
+          items = re.findall(r'<item>(.*?)</item>', rss, re.DOTALL)[:10]
 
-          # Build final content
-          {
-            echo "## Latest Blog Posts"
-            echo ""
-            cat posts.txt 2>/dev/null || echo "No posts found"
-            echo ""
-            echo "[**View More →**](https://gl0bal01.com/blog/)"
-          } > blog_content.txt
+          posts = []
+          for item in items:
+              title = re.search(r'<title>(.*?)</title>', item)
+              link = re.search(r'<link>(.*?)</link>', item)
+              desc = re.search(r'<description>(.*?)</description>', item)
 
-          # Replace content between markers
-          awk '
-            /<!-- blog-post start -->/ {print; system("cat blog_content.txt"); f=1; next}
-            /<!-- blog-post end -->/ {f=0}
-            !f
-          ' README.md > README.tmp && mv README.tmp README.md
+              if title and link:
+                  t = html.unescape(title.group(1))
+                  l = link.group(1)
+                  d = html.unescape(re.sub(r'<[^>]+>', '', desc.group(1) if desc else ''))[:200]
+                  posts.append(f'- **[{t}]({l})** - {d}...')
 
-          rm -f feed.xml posts.txt blog_content.txt
+          # Write content
+          with open('blog_content.txt', 'w') as f:
+              f.write('## Latest Blog Posts\n\n')
+              f.write('\n'.join(posts))
+              f.write('\n\n[**View More →**](https://gl0bal01.com/blog/)\n')
+
+          # Update README
+          with open('README.md', 'r') as f:
+              readme = f.read()
+
+          start = readme.find('<!-- blog-post start -->')
+          end = readme.find('<!-- blog-post end -->') + len('<!-- blog-post end -->')
+
+          with open('blog_content.txt', 'r') as f:
+              new_content = f.read()
+
+          with open('README.md', 'w') as f:
+              f.write(readme[:start] + '<!-- blog-post start -->\n' + new_content + '<!-- blog-post end -->\n' + readme[end:])
+          "
+
+          rm -f blog_content.txt
 
       - name: Commit and push changes
         run: |
