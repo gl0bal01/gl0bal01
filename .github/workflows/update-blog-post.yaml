@@ -28,17 +28,23 @@ jobs:
           echo "## Latest Blog Posts" > blog_section.md
           echo "" >> blog_section.md
 
-          # Extract titles, links, and descriptions (skip first title which is the feed title)
-          TITLES=($(xmllint --xpath '//item/title/text()' rss.xml 2>/dev/null | head -10))
-          LINKS=($(xmllint --xpath '//item/link/text()' rss.xml 2>/dev/null | head -10))
-          DESCRIPTIONS=($(xmllint --xpath '//item/description/text()' rss.xml 2>/dev/null | head -10))
+          # Count total items
+          ITEM_COUNT=$(xmllint --xpath 'count(//item)' rss.xml 2>/dev/null)
+          MAX_POSTS=10
+
+          if [ "$ITEM_COUNT" -lt "$MAX_POSTS" ]; then
+            MAX_POSTS=$ITEM_COUNT
+          fi
 
           # Process each post (up to 10)
-          for i in {0..9}; do
-            if [ ! -z "${LINKS[$i]}" ]; then
-              TITLE=$(echo "${TITLES[$i]}" | sed 's/&amp;/\&/g; s/&lt;/</g; s/&gt;/>/g; s/&quot;/"/g')
-              LINK="${LINKS[$i]}"
-              DESC=$(echo "${DESCRIPTIONS[$i]}" | sed 's/<[^>]*>//g; s/&amp;/\&/g; s/&lt;/</g; s/&gt;/>/g; s/&quot;/"/g' | cut -c1-200)
+          for i in $(seq 1 $MAX_POSTS); do
+            TITLE=$(xmllint --xpath "string(//item[$i]/title)" rss.xml 2>/dev/null)
+            LINK=$(xmllint --xpath "string(//item[$i]/link)" rss.xml 2>/dev/null)
+            DESC=$(xmllint --xpath "string(//item[$i]/description)" rss.xml 2>/dev/null)
+
+            if [ ! -z "$LINK" ]; then
+              # Clean description: remove HTML tags and entities, truncate
+              DESC=$(echo "$DESC" | sed 's/<[^>]*>//g; s/&amp;/\&/g; s/&lt;/</g; s/&gt;/>/g; s/&quot;/"/g; s/&#39;/'"'"'/g' | cut -c1-200)
 
               echo "- **[$TITLE]($LINK)** - $DESC..." >> blog_section.md
             fi
