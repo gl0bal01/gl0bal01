@@ -32,7 +32,7 @@ jobs:
           
           # Repositories to skip
           SKIP_REPOS = {
-              #'private-experiments',
+              'gl0bal01.github.io',
           }
           
           MAX_RELEASES = 8 # Number of releases to show
