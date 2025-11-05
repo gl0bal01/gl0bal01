@@ -31,7 +31,27 @@
 <!-- blog-post end -->
 
 <!-- releases start -->
+## Latest Releases
+
+[wp-quick-dev - v1.0.0](https://github.com/gl0bal01/wp-quick-dev/releases/tag/v1.0.0) - 2025-10-28
+
+[docusaurus-plugin-multi-rss v1.0.0](https://github.com/gl0bal01/docusaurus-plugin-multi-rss/releases/tag/V1.0.0) - 2025-10-22
+
+[intel-codex Intel Codex — Operational OSINT & Security Manual (Obsidian Edition)](https://github.com/gl0bal01/intel-codex/releases/tag/v1.0.0) - 2025-10-21
+
+[gl0bal01.github.io Initial release of gl0bal01 security research website](https://github.com/gl0bal01/gl0bal01.github.io/releases/tag/V1.0.0) - 2025-10-16
+
+[discord-watchlists v1.0.0](https://github.com/gl0bal01/discord-watchlists/releases/tag/v1.0.0) - 2025-07-01
+
+[discord-osint-assistant v1.0.0](https://github.com/gl0bal01/discord-osint-assistant/releases/tag/v1.0.0) - 2025-06-25
+
+[discord-judge-bot v1.0.0](https://github.com/gl0bal01/discord-judge-bot/releases/tag/v1.0.0) - 2025-06-25
+
+[discord-ai-assistant v1.0.0](https://github.com/gl0bal01/discord-ai-assistant/releases/tag/v1.0.0) - 2025-06-23
+
+*Showing 8 of 12 releases*
 <!-- releases end -->
+
 
 
 
