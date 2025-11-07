@@ -16,7 +16,11 @@
 <!-- my-badges end -->
 
 <!-- openbadges start -->
+<details>
+<summary>🏆 OpenBadges</summary>
+<br>
 <img src="my-badges/openbadges/10.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/20.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/23.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/40.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/47.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/49.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/50.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/51.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/52.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/53.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/54.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/55.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/56.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/57.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/70.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/99.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/100.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/101.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/102.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/103.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/104.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/105.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/106.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/107.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/109.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/111.png" alt="OpenBadge" width="64">
+</details>
 <!-- openbadges end -->
 
 <!-- blog-post start -->

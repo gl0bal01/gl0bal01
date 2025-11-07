@@ -50,11 +50,17 @@ jobs:
               print('No badge images found, skipping update')
               exit(0)
 
-          # Generate badge HTML
-          badge_html = ' '.join([
+          # Generate badge HTML with collapsible section
+          badges_html = ' '.join([
               f'<img src=\"my-badges/openbadges/{badge.name}\" alt=\"OpenBadge\" width=\"64\">'
               for badge in badge_files
           ])
+
+          badge_html = f'''<details>
+<summary>🏆 OpenBadges</summary>
+<br>
+{badges_html}
+</details>'''
 
           # Read README
           with open('README.md', 'r') as f:
