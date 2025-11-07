@@ -51,7 +51,7 @@ jobs:
               exit(0)
 
           # Generate badge HTML
-          badge_html = '\n'.join([
+          badge_html = ' '.join([
               f'<img src=\"my-badges/openbadges/{badge.name}\" alt=\"OpenBadge\" width=\"64\">'
               for badge in badge_files
           ])
