@@ -38,6 +38,8 @@
 <!-- releases start -->
 ## Latest Releases
 
+[docusaurus-plugin-obsidian-vault v1.0.0](https://github.com/gl0bal01/docusaurus-plugin-obsidian-vault/releases/tag/v1.0.0) - 2025-11-06
+
 [wp-quick-dev - v1.0.0](https://github.com/gl0bal01/wp-quick-dev/releases/tag/v1.0.0) - 2025-10-28
 
 [docusaurus-plugin-multi-rss v1.0.0](https://github.com/gl0bal01/docusaurus-plugin-multi-rss/releases/tag/V1.0.0) - 2025-10-22
@@ -52,10 +54,9 @@
 
 [discord-ai-assistant v1.0.0](https://github.com/gl0bal01/discord-ai-assistant/releases/tag/v1.0.0) - 2025-06-23
 
-[discord-amazon-rekognition v1.0.0](https://github.com/gl0bal01/discord-amazon-rekognition/releases/tag/v1.0.0) - 2025-06-23
-
-*Showing 8 of 11 releases*
+*Showing 8 of 12 releases*
 <!-- releases end -->
+
 
 
 
