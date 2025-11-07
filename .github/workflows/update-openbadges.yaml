@@ -1,0 +1,102 @@
+name: Update OpenBadges
+
+on:
+  push:
+    paths:
+      - 'my-badges/openbadges/*.png'
+      - 'my-badges/openbadges/*.jpg'
+      - 'my-badges/openbadges/*.jpeg'
+      - 'my-badges/openbadges/*.svg'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-openbadges:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update OpenBadges in README
+        run: |
+          python3 -c "
+          import os
+          import re
+          from pathlib import Path
+
+          # Find all badge images
+          badge_dir = Path('my-badges/openbadges')
+          if not badge_dir.exists():
+              print('Error: Badge directory not found')
+              exit(1)
+
+          # Collect all image files
+          badge_files = []
+          for ext in ['png', 'jpg', 'jpeg', 'svg']:
+              badge_files.extend(badge_dir.glob(f'*.{ext}'))
+
+          # Sort numerically by filename
+          def numeric_sort_key(path):
+              try:
+                  return int(path.stem)
+              except ValueError:
+                  return float('inf')
+
+          badge_files = sorted(badge_files, key=numeric_sort_key)
+
+          if not badge_files:
+              print('No badge images found, skipping update')
+              exit(0)
+
+          # Generate badge HTML
+          badge_html = '\n'.join([
+              f'<img src=\"my-badges/openbadges/{badge.name}\" alt=\"OpenBadge\" width=\"64\">'
+              for badge in badge_files
+          ])
+
+          # Read README
+          with open('README.md', 'r') as f:
+              readme_content = f.read()
+
+          # Verify markers exist
+          if '<!-- openbadges start -->' not in readme_content:
+              print('Error: openbadges start marker not found in README.md')
+              exit(1)
+          if '<!-- openbadges end -->' not in readme_content:
+              print('Error: openbadges end marker not found in README.md')
+              exit(1)
+
+          # Find marker positions
+          marker_start = readme_content.find('<!-- openbadges start -->')
+          marker_end = readme_content.find('<!-- openbadges end -->') + len('<!-- openbadges end -->')
+
+          # Build new content with blank line after end marker
+          new_readme = (
+              readme_content[:marker_start] +
+              '<!-- openbadges start -->\n' +
+              badge_html + '\n' +
+              '<!-- openbadges end -->\n\n' +
+              readme_content[marker_end:].lstrip('\n')
+          )
+
+          # Write updated README
+          with open('README.md', 'w') as f:
+              f.write(new_readme)
+
+          print(f'Updated {len(badge_files)} badges in README.md')
+          "
+
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update OpenBadges section [skip ci]"
+            git push
+          fi
