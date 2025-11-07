@@ -57,7 +57,7 @@ jobs:
           ])
 
           badge_html = f'''<details>
-<summary>🏆 OpenBadges</summary>
+<summary>OpenBadges</summary>
 <br>
 {badges_html}
 </details>'''
