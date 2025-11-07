@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 56 times)\n2. added (used 50 times)\n3. create (used 38 times)\n4. add (used 20 times)\n5. workflow (used 16 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 56 times)\n2. added (used 52 times)\n3. create (used 38 times)\n4. add (used 20 times)\n5. workflow (used 16 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/discord-osint-assistant/commit/87429e400bade4ddc224871da26d50a58d6d14d8\">87429e4</a>\n- <a href=\"https://github.com/gl0bal01/writeups/commit/e9c08f5f7509d92a5d1eef74b806aa731d630b7f\">e9c08f5</a>\n- <a href=\"https://github.com/gl0bal01/writeups/commit/e7864a8e2bcaaba23a7c56ab1057e909b845ae30\">e7864a8</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/gl0bal01/commit/210a03c57004630a4d60387da96dc5d962f465e9\">210a03c</a>\n- <a href=\"https://github.com/gl0bal01/gl0bal01/commit/912ecae0e6d4b76839e97d07b44247a0f3544ec4\">912ecae</a>\n- <a href=\"https://github.com/gl0bal01/discord-osint-assistant/commit/87429e400bade4ddc224871da26d50a58d6d14d8\">87429e4</a>\n- <a href=\"https://github.com/gl0bal01/writeups/commit/e9c08f5f7509d92a5d1eef74b806aa731d630b7f\">e9c08f5</a>\n- <a href=\"https://github.com/gl0bal01/writeups/commit/e7864a8e2bcaaba23a7c56ab1057e909b845ae30\">e7864a8</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   }
 ]
