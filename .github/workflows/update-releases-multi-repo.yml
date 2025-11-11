@@ -216,13 +216,22 @@ jobs:
               f.write('---\\n\\n')
 
               for release in releases:
-                  f.write(f'### [{release[\\\"repo\\\"]} {release[\\\"release\\\"]}]({release[\\\"url\\\"]})\\n\\n')
-                  if release['description']:
-                      f.write(f'{release[\\\"description\\\"]}\\n\\n')
-                  f.write(f'- **Tag:** {release[\\\"tag\\\"]}\\n')
-                  f.write(f'- **Published:** {release[\\\"published_day\\\"]}\\n')
-                  f.write(f'- **Repository:** [{release[\\\"repo\\\"]}]({release[\\\"repo_url\\\"]})\\n')
-                  f.write(f'- **Total releases in repo:** {release[\\\"total_releases\\\"]}\\n')
+                  repo = release['repo']
+                  rel_name = release['release']
+                  rel_url = release['url']
+                  repo_url = release['repo_url']
+                  tag = release['tag']
+                  pub_day = release['published_day']
+                  total = release['total_releases']
+                  desc = release['description']
+
+                  f.write(f'### [{repo} {rel_name}]({rel_url})\\n\\n')
+                  if desc:
+                      f.write(f'{desc}\\n\\n')
+                  f.write(f'- **Tag:** {tag}\\n')
+                  f.write(f'- **Published:** {pub_day}\\n')
+                  f.write(f'- **Repository:** [{repo}]({repo_url})\\n')
+                  f.write(f'- **Total releases in repo:** {total}\\n')
                   f.write('\\n---\\n\\n')
 
           print('RELEASES.md generated successfully!')
