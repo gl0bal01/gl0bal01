@@ -71,11 +71,6 @@
 
 [discord-watchlists v1.0.0](https://github.com/gl0bal01/discord-watchlists/releases/tag/v1.0.0) - 2025-07-01
 
-[discord-osint-assistant v1.0.0](https://github.com/gl0bal01/discord-osint-assistant/releases/tag/v1.0.0) - 2025-06-25
-
-[discord-judge-bot v1.0.0](https://github.com/gl0bal01/discord-judge-bot/releases/tag/v1.0.0) - 2025-06-25
-
-[discord-ai-assistant v1.0.0](https://github.com/gl0bal01/discord-ai-assistant/releases/tag/v1.0.0) - 2025-06-23
-
-*Showing 8 of 12 releases*
+*Showing 5 of 12 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
