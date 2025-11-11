@@ -1,4 +1,5 @@
-"We build, we contribute, and we step aside—knowing the work belongs to the collective body of knowledge, not to us."
+**We build, we contribute, and we step aside—knowing the work belongs to the collective body of knowledge, not to us.**
+
 
 <!-- openbadges start -->
 <details>
@@ -28,6 +29,8 @@
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <!-- my-badges end -->
 </details>
+
+<br>
 
 <!-- blog-post start -->
 ## Latest Blog Posts
