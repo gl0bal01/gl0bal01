@@ -52,9 +52,17 @@
 
 
 
+<!-- openbadges start -->
+<details>
+<summary>OpenBadges</summary>
+<br>
+<img src="my-badges/openbadges/10.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/20.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/23.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/40.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/47.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/49.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/50.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/51.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/52.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/53.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/54.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/55.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/56.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/57.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/70.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/99.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/100.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/101.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/102.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/103.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/104.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/105.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/106.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/107.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/109.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/111.png" alt="OpenBadge" width="64">
+</details>
+<!-- openbadges end -->
 
-
-
+<details>
+<summary>FunnyBadges</summary>
+<br>
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
@@ -71,19 +79,4 @@
 <a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <!-- my-badges end -->
-
-<!-- openbadges start -->
-<details>
-<summary>OpenBadges</summary>
-<br>
-<img src="my-badges/openbadges/10.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/20.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/23.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/40.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/47.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/49.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/50.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/51.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/52.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/53.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/54.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/55.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/56.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/57.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/70.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/99.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/100.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/101.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/102.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/103.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/104.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/105.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/106.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/107.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/109.png" alt="OpenBadge" width="64"> <img src="my-badges/openbadges/111.png" alt="OpenBadge" width="64">
 </details>
-<!-- openbadges end -->
-
-
-
-
-
-
-
-

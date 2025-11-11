@@ -1,7 +1,7 @@
 name: Update Latest Releases
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -17,7 +17,7 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
+
       - name: Fetch and update latest releases
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -29,14 +29,14 @@ jobs:
           import os
 
           OWNERS = ['gl0bal01']  # Add multiple: ['user1', 'user2', 'org1']
-          
+
           # Repositories to skip
           SKIP_REPOS = {
               'gl0bal01.github.io',
           }
-          
-          MAX_RELEASES = 8 # Number of releases to show
-          
+
+          MAX_RELEASES = 5 # Number of releases to show in README
+
           def fetch_graphql(query, token):
               '''Execute GraphQL query against GitHub API'''
               url = 'https://api.github.com/graphql'
@@ -46,14 +46,14 @@ jobs:
               }
               data = json.dumps({'query': query}).encode('utf-8')
               req = urllib.request.Request(url, data=data, headers=headers)
-              
+
               with urllib.request.urlopen(req) as response:
                   return json.loads(response.read().decode('utf-8'))
-          
+
           def make_query(owner, after_cursor=None):
               '''Build GraphQL query for fetching releases'''
               after = f', after: \"{after_cursor}\"' if after_cursor else ''
-              
+
               return f'''
               query {{
                 search(
@@ -88,46 +88,46 @@ jobs:
                 }}
               }}
               '''
-          
+
           def fetch_all_releases(owners, skip_repos, token):
               '''Fetch releases from all repositories'''
               all_releases = []
-              
+
               for owner in owners:
                   print(f'Fetching repos for {owner}...')
                   has_next_page = True
                   after_cursor = None
-                  
+
                   while has_next_page:
                       query = make_query(owner, after_cursor)
                       result = fetch_graphql(query, token)
-                      
+
                       if 'errors' in result:
                           print(f'GraphQL Error: {result[\"errors\"]}')
                           break
-                      
+
                       search_data = result['data']['search']
                       repos = search_data['nodes']
-                      
+
                       for repo in repos:
                           if not repo:  # Skip null nodes
                               continue
-                          
+
                           repo_name = repo['name']
-                          
+
                           # Skip repos without releases or in skip list
-                          if (repo['releases']['totalCount'] == 0 or 
+                          if (repo['releases']['totalCount'] == 0 or
                               repo_name in skip_repos):
                               continue
-                          
+
                           release = repo['releases']['nodes'][0]
-                          
+
                           # Clean release name (remove repo name if present)
                           release_name = release['name'] or release['tagName']
                           release_name = release_name.replace(repo_name, '').strip()
                           if not release_name:
                               release_name = release['tagName']
-                          
+
                           all_releases.append({
                               'repo': repo_name,
                               'repo_url': repo['url'],
@@ -139,28 +139,28 @@ jobs:
                               'url': release['url'],
                               'total_releases': repo['releases']['totalCount'],
                           })
-                      
+
                       # Check pagination
                       page_info = search_data['pageInfo']
                       has_next_page = page_info['hasNextPage']
                       after_cursor = page_info['endCursor']
-              
+
               return all_releases
-          
+
           # Main execution
           token = os.environ.get('GITHUB_TOKEN')
           if not token:
               print('Error: GITHUB_TOKEN not found')
               exit(1)
-          
+
           print('Fetching releases...')
           releases = fetch_all_releases(OWNERS, SKIP_REPOS, token)
-          
+
           # Sort by published date (newest first)
           releases.sort(key=lambda r: r['published_at'], reverse=True)
-          
+
           print(f'Found {len(releases)} total releases')
-          
+
           # Generate markdown for README
           release_items = []
           for release in releases[:MAX_RELEASES]:
@@ -169,32 +169,35 @@ jobs:
                   f\"{release['published_day']}\"
               )
               release_items.append(entry)
-          
+
           releases_md = '\n\n'.join(release_items)
-          
-          # Build releases section
+
+          # Build releases section for README
           with open('releases_content.txt', 'w') as f:
               f.write('## Latest Releases\n\n')
               if releases_md:
                   f.write(releases_md)
               else:
                   f.write('No releases yet.')
-              f.write(f'\n\n*Showing {min(MAX_RELEASES, len(releases))} of {len(releases)} releases*\n')
-          
+              if len(releases) > MAX_RELEASES:
+                  f.write(f'\n\n*Showing {MAX_RELEASES} of {len(releases)} releases* • [View More →](RELEASES.md)\n')
+              else:
+                  f.write(f'\n\n*Showing all {len(releases)} releases*\n')
+
           # Update README.md
           with open('README.md', 'r') as f:
               readme_content = f.read()
-          
+
           marker_start = readme_content.find('<!-- releases start -->')
           marker_end = readme_content.find('<!-- releases end -->') + len('<!-- releases end -->')
-          
+
           if marker_start == -1:
               print('Warning: Could not find release markers in README.md')
               exit(1)
-          
+
           with open('releases_content.txt', 'r') as f:
               releases_section = f.read()
-          
+
           with open('README.md', 'w') as f:
               f.write(
                   readme_content[:marker_start] +
@@ -203,16 +206,34 @@ jobs:
                   '<!-- releases end -->\n' +
                   readme_content[marker_end:]
               )
-          
+
           print('README.md updated successfully!')
+
+          # Generate full RELEASES.md file
+          with open('RELEASES.md', 'w') as f:
+              f.write('# All Releases\\n\\n')
+              f.write(f'Total releases: {len(releases)}\\n\\n')
+              f.write('---\\n\\n')
+
+              for release in releases:
+                  f.write(f'### [{release[\\\"repo\\\"]} {release[\\\"release\\\"]}]({release[\\\"url\\\"]})\\n\\n')
+                  if release['description']:
+                      f.write(f'{release[\\\"description\\\"]}\\n\\n')
+                  f.write(f'- **Tag:** {release[\\\"tag\\\"]}\\n')
+                  f.write(f'- **Published:** {release[\\\"published_day\\\"]}\\n')
+                  f.write(f'- **Repository:** [{release[\\\"repo\\\"]}]({release[\\\"repo_url\\\"]})\\n')
+                  f.write(f'- **Total releases in repo:** {release[\\\"total_releases\\\"]}\\n')
+                  f.write('\\n---\\n\\n')
+
+          print('RELEASES.md generated successfully!')
           "
           rm -f releases_content.txt
-      
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md
+          git add README.md RELEASES.md
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
