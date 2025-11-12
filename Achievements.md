@@ -1,6 +1,6 @@
-# 🔐 Certifications & Achievements
+# Certifications & Achievements
 
-## 📜 Key Certifications
+## Key Certifications
 
 ### Offensive Security & Penetration Testing
 - **Practical Ethical Hacking - The Complete Course** - TCM Security
@@ -37,7 +37,7 @@
 
 ---
 
-## 🏆 Notable Achievements
+## Notable Achievements
 
 ### CTF & Competition Wins
 - 🥈 **Bpifrance - Mission Vérité - Hacko - 2nd Place** (Présentiel)
@@ -52,22 +52,22 @@
 
 ---
 
-## 💼 Core Technical Skills
+## Core Technical Skills
 
 **Security Expertise:**
 Penetration Testing • OSINT • Malware Analysis • Digital Forensics • DFIR • Reverse Engineering • API Security • Active Directory
 
 **Languages & Technologies:**
-Bash • Symfony • PHP • Docker • Typescript • Python • REST APIs • MySQL • Git • C • Go
+Bash • Symfony • PHP • Docker • Typescript • Python • MySQL • Git • C • Go • REST APIs
 
 ---
 
-# 🏆 Latest Competition Results
+# Latest Competition Results
 
 | Competition | Result | Placement |
 |-------------|--------|-----------|
 | **Bpifrance Hackosint** | **2nd Place** 🥈 | 2/370 |
-| **Tracelab Search Party 25** | **7th Place** 🥉 | 7 |
+| **Tracelab Search Party 25** | **7th Place** | 7 |
 | **Le Bruit des Bottes 25** | **Finalist** | 15/189 |
 | **Medileak 25** | **Finalist** | 8/170 |
 | **CyberGameWorld 25** | Solo | 76/1409 |
