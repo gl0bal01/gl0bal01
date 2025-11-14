@@ -1,5 +1,39 @@
-**We build, we contribute, and we step aside—knowing the work belongs to the collective body of knowledge, not to us.**
+I'm a constant learner and **builder** specializing in application security, penetration testing, OSINT and the human side of cyber-threats.
 
+I create tools that empower the **digital investigation** community, including [Intel Codex](https://github.com/gl0bal01/intel-codex) - a **comprehensive operational manual** for security researchers and analysts.
+
+My current projects include open-source tools like [discord-judge-bot](https://github.com/gl0bal01/discord-judge-bot) (a challenge & reward system for Discord), [discord-osint-assistant](https://github.com/gl0bal01/discord-osint-assistant) (an OSINT-gathering Discord bot) and other [utilities](https://github.com/gl0bal01/bookmarklets) designed to empower investigations, awareness and automation.
+
+I believe in sharing what I learn and collaborating in the trench-work of security: from identifying vulnerabilities to building [resilient systems](https://github.com/gl0bal01/black-box-architecture) — and building tools that **others can use or adapt**.
+
+If you’re into OSINT, bots, security automation or just want to chat about what’s next in cyber risk — **hit me up**.
+
+
+## OSINT & Cyber Games Community
+
+I run a Discord community for all skill levels — a place to explore cybersecurity puzzles, OSINT hunts, and capture-the-flag challenges in a friendly, collaborative environment.
+Join us, play, learn, and contribute your own challenges.
+
+[Join our Discord community](https://discord.gg/T5tc9Rq8DV)
+
+## Latest Projects
+
+### [Osint](https://github.com/gl0bal01?tab=repositories&q=osint&type=&language=&sort=name) 
+- [Intel Codex](https://github.com/gl0bal01/intel-codex): Comprehensive knowledge base covering OSINT, reverse engineering, malware analysis, cryptography, and intelligence frameworks for security researchers.
+- [Bookmarklets](https://github.com/gl0bal01/bookmarklets): Curated Bookmarks for OSINT & Investigations 
+- [CaseBandit](https://github.com/gl0bal01/CaseBandit): Chrome extension for tracking, organizing, and managing URLs during OSINT/CTF investigations.
+- [Discord OSINT Assistant](https://github.com/gl0bal01/discord-osint-assistant): Multi-tool Discord bot for Open Source Intelligence (OSINT) gathering and analysis.
+- [Discord AWS Rekognition](https://github.com/gl0bal01/discord-amazon-rekognition): Discord bot that leverages AWS Rekognition.
+- [DORK OSINT Missing Person Finder](https://github.com/gl0bal01/dork-missing-person-finder): Script to automate the search process across multiple engines.
+
+### [Docusaurus Plugins](https://github.com/gl0bal01?tab=repositories&q=topic%3Adocusaurus-plugin&type=&language=&sort=)
+- [docusaurus-plugin-obsidian-vault](https://github.com/gl0bal01/docusaurus-plugin-obsidian-vault): Seamlessly integrate your Obsidian vault with Docusaurus
+- [docusaurus-plugin-multi-rss](https://github.com/gl0bal01/docusaurus-plugin-multi-rss): Aggregate multiple RSS feeds in your Docusaurus site
+
+
+## Fun GitHub Badges and Openbadges
+I’ve earned a few quirky ones — from commits made on Programmer’s Day (256th) to emoji-only commits and even Friday the 13th pushes.
+It’s a reminder that code should be serious in intent, but **playful in spirit.**
 
 <!-- openbadges start -->
 <details>
@@ -82,6 +116,8 @@
 *Showing 5 of 12 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
 
+---
 
+**We build, we contribute, and we step aside—knowing the work belongs to the collective body of knowledge, not to us.**
 
 
