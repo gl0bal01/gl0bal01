@@ -4,6 +4,17 @@ Total releases: 12
 
 ---
 
+### [docusaurus-plugin-multi-rss V1.0.1](https://github.com/gl0bal01/docusaurus-plugin-multi-rss/releases/tag/V1.0.1)
+
+A powerful Docusaurus plugin for aggregating multiple RSS feeds
+
+- **Tag:** V1.0.1
+- **Published:** 2025-11-13
+- **Repository:** [docusaurus-plugin-multi-rss](https://github.com/gl0bal01/docusaurus-plugin-multi-rss)
+- **Total releases in repo:** 2
+
+---
+
 ### [docusaurus-plugin-obsidian-vault v1.0.0](https://github.com/gl0bal01/docusaurus-plugin-obsidian-vault/releases/tag/v1.0.0)
 
 A Docusaurus plugin that seamlessly integrates your Obsidian vault with Docusaurus, automatically transforming Obsidian-specific syntax (wikilinks, callouts) into Docusaurus-compatible markdown.
@@ -22,17 +33,6 @@ Lightning-fast WordPress development environment for rapid plugin and theme prot
 - **Tag:** v1.0.0
 - **Published:** 2025-10-28
 - **Repository:** [wp-quick-dev](https://github.com/gl0bal01/wp-quick-dev)
-- **Total releases in repo:** 1
-
----
-
-### [docusaurus-plugin-multi-rss v1.0.0](https://github.com/gl0bal01/docusaurus-plugin-multi-rss/releases/tag/V1.0.0)
-
-A powerful Docusaurus plugin for aggregating multiple RSS feeds
-
-- **Tag:** V1.0.0
-- **Published:** 2025-10-22
-- **Repository:** [docusaurus-plugin-multi-rss](https://github.com/gl0bal01/docusaurus-plugin-multi-rss)
 - **Total releases in repo:** 1
 
 ---
