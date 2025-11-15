@@ -30,8 +30,8 @@ jobs:
           with urllib.request.urlopen('https://gl0bal01.com/blog/rss.xml') as response:
               rss_content = response.read().decode('utf-8')
 
-          # Extract up to 6 items from RSS feed
-          rss_items = re.findall(r'<item>(.*?)</item>', rss_content, re.DOTALL)[:6]
+          # Extract up to 5 items from RSS feed
+          rss_items = re.findall(r'<item>(.*?)</item>', rss_content, re.DOTALL)[:5]
 
           # Parse each blog post
           blog_posts = []
