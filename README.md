@@ -14,7 +14,7 @@ If you’re into OSINT, bots, security automation or just want to chat about wha
 I run a Discord community for all skill levels — a place to explore funny cybersecurity **puzzles**, OSINT hunts, and capture-the-flag challenges in a friendly, collaborative environment.
 Join us, play, learn, and contribute your **own challenges**.
 
-[Join our Discord community](https://discord.gg/T5tc9Rq8DV)
+**[Game list](CHALLENGES.md)** - [Join our Discord community](https://discord.gg/T5tc9Rq8DV)
 
 ## Latest Projects
 
