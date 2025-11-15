@@ -170,7 +170,7 @@ jobs:
               )
               release_items.append(entry)
 
-          releases_md = '\n\n'.join(release_items)
+          releases_md = '\n'.join(release_items)
 
           # Build releases section for README
           with open('releases_content.txt', 'w') as f:
