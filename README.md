@@ -93,18 +93,15 @@ Join us, play, learn, and contribute your **own challenges**.
 <!-- releases start -->
 ## Latest Releases
 
-[docusaurus-plugin-multi-rss V1.0.1](https://github.com/gl0bal01/docusaurus-plugin-multi-rss/releases/tag/V1.0.1) - 2025-11-13
-
-[docusaurus-plugin-obsidian-vault v1.0.0](https://github.com/gl0bal01/docusaurus-plugin-obsidian-vault/releases/tag/v1.0.0) - 2025-11-06
-
-[wp-quick-dev - v1.0.0](https://github.com/gl0bal01/wp-quick-dev/releases/tag/v1.0.0) - 2025-10-28
-
-[intel-codex Intel Codex — Operational OSINT & Security Manual (Obsidian Edition)](https://github.com/gl0bal01/intel-codex/releases/tag/v1.0.0) - 2025-10-21
-
+[docusaurus-plugin-multi-rss V1.0.1](https://github.com/gl0bal01/docusaurus-plugin-multi-rss/releases/tag/V1.0.1) - 2025-11-13  
+[docusaurus-plugin-obsidian-vault v1.0.0](https://github.com/gl0bal01/docusaurus-plugin-obsidian-vault/releases/tag/v1.0.0) - 2025-11-06  
+[wp-quick-dev - v1.0.0](https://github.com/gl0bal01/wp-quick-dev/releases/tag/v1.0.0) - 2025-10-28  
+[intel-codex Intel Codex — Operational OSINT & Security Manual (Obsidian Edition)](https://github.com/gl0bal01/intel-codex/releases/tag/v1.0.0) - 2025-10-21  
 [discord-watchlists v1.0.0](https://github.com/gl0bal01/discord-watchlists/releases/tag/v1.0.0) - 2025-07-01
 
 *Showing 5 of 12 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
 
 
 ## Achievements Badges
