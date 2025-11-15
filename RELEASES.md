@@ -83,7 +83,7 @@ A powerful Discord bot for creating and managing challenges with rewards and pro
 
 ### [discord-ai-assistant v1.0.0](https://github.com/gl0bal01/discord-ai-assistant/releases/tag/v1.0.0)
 
-A Discord bot that provides AI chat functionality with multiple models including GPT-4o, Claude, Gemini...
+A Discord bot using 1min api that provides AI chat functionality with multiple models including GPT-4o, Claude, Gemini...
 
 - **Tag:** v1.0.0
 - **Published:** 2025-06-23
