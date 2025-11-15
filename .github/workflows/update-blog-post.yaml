@@ -9,6 +9,10 @@ on:
     branches:
       - main
 
+concurrency:
+  group: readme-updates
+  cancel-in-progress: false
+
 jobs:
   update-blog-post:
     runs-on: ubuntu-latest
@@ -88,6 +92,25 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update latest blog post"
-            git push
+            git commit -m "Update latest blog post [skip ci]"
+
+            # Retry logic for push (max 5 attempts)
+            max_attempts=5
+            attempt=1
+            while [ $attempt -le $max_attempts ]; do
+              echo "Push attempt $attempt of $max_attempts"
+              git pull --rebase origin main
+              if git push; then
+                echo "Successfully pushed changes"
+                break
+              else
+                if [ $attempt -eq $max_attempts ]; then
+                  echo "Failed to push after $max_attempts attempts"
+                  exit 1
+                fi
+                echo "Push failed, retrying..."
+                attempt=$((attempt + 1))
+                sleep 2
+              fi
+            done
           fi
