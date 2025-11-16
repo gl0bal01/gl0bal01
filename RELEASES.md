@@ -4,12 +4,12 @@ Total releases: 13
 
 ---
 
-### [llm-1minai Llm-1minai - v1.0.0](https://github.com/gl0bal01/llm-1minai/releases/tag/v1.0.0)
+### [llm-1minai Llm-1minai - v.0.3.0](https://github.com/gl0bal01/llm-1minai/releases/tag/v.0.3.0)
 
 LLM plugin providing access to 66+ AI models through 1min.ai API with web search, mixed context, and persistent options
 
-- **Tag:** v1.0.0
-- **Published:** 2025-11-15
+- **Tag:** v.0.3.0
+- **Published:** 2025-11-16
 - **Repository:** [llm-1minai](https://github.com/gl0bal01/llm-1minai)
 - **Total releases in repo:** 1
 

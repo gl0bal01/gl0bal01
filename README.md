@@ -96,7 +96,7 @@ Join us, play, learn, and contribute your **own challenges**.
 <!-- releases start -->
 ## Latest Releases
 
-[llm-1minai Llm-1minai - v1.0.0](https://github.com/gl0bal01/llm-1minai/releases/tag/v1.0.0) - 2025-11-15  
+[llm-1minai Llm-1minai - v.0.3.0](https://github.com/gl0bal01/llm-1minai/releases/tag/v.0.3.0) - 2025-11-16  
 [docusaurus-plugin-multi-rss V1.0.1](https://github.com/gl0bal01/docusaurus-plugin-multi-rss/releases/tag/V1.0.1) - 2025-11-13  
 [docusaurus-plugin-obsidian-vault v1.0.0](https://github.com/gl0bal01/docusaurus-plugin-obsidian-vault/releases/tag/v1.0.0) - 2025-11-06  
 [wp-quick-dev - v1.0.0](https://github.com/gl0bal01/wp-quick-dev/releases/tag/v1.0.0) - 2025-10-28  
@@ -104,6 +104,7 @@ Join us, play, learn, and contribute your **own challenges**.
 
 *Showing 5 of 13 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
 
 
 
