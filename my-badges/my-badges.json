@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 71 times)\n2. added (used 66 times)\n3. add (used 40 times)\n4. create (used 38 times)\n5. updated (used 27 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 71 times)\n2. added (used 66 times)\n3. add (used 43 times)\n4. create (used 38 times)\n5. updated (used 27 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,14 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/llm-1minai/commit/ca87d04581d7c2ae9145b2ea7479ed52364f40b6\">ca87d04</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/llm-1minai/commit/d1d7333650387c01464660a8a10bc5b9afba75f8\">d1d7333</a>\n- <a href=\"https://github.com/gl0bal01/llm-1minai/commit/ca87d04581d7c2ae9145b2ea7479ed52364f40b6\">ca87d04</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/llm-1minai/commit/999b68e2bc585bf687bd14add07642bb707c9aa6\">999b68e</a>: chore: bump version to 0.3.0",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   }
 ]
