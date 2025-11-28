@@ -1,6 +1,17 @@
 # All Releases
 
-Total releases: 13
+Total releases: 14
+
+---
+
+### [black-box-architecture v1.0.0](https://github.com/gl0bal01/black-box-architecture/releases/tag/v1.0.0)
+
+Transform any codebase into modular, maintainable "black boxes" using Eskil Steenberg's architecture principles
+
+- **Tag:** v1.0.0
+- **Published:** 2025-11-27
+- **Repository:** [black-box-architecture](https://github.com/gl0bal01/black-box-architecture)
+- **Total releases in repo:** 1
 
 ---
 
@@ -48,7 +59,7 @@ Lightning-fast WordPress development environment for rapid plugin and theme prot
 
 ---
 
-### [intel-codex Intel Codex — Operational OSINT & Security Manual (Obsidian Edition)](https://github.com/gl0bal01/intel-codex/releases/tag/v1.0.0)
+### [intel-codex Intel Codex - v1.0.0](https://github.com/gl0bal01/intel-codex/releases/tag/v1.0.0)
 
 Comprehensive knowledge base covering osint, reverse engineering, malware analysis, cryptography and intelligence frameworks for security researchers
 
