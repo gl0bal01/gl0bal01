@@ -125,8 +125,6 @@ Join us, play, learn, and contribute your **own challenges**.
 
 ## Achievements
 
-Recognitions for consistency, ctf competition, community contributions, commit practices, and long-term activity across GitHub and open-source projects.
-
 [Achievements →](Achievements.md)
 
 ---
