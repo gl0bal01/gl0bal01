@@ -4,6 +4,17 @@ Total releases: 14
 
 ---
 
+### [bookmarklets v.1.1.0](https://github.com/gl0bal01/bookmarklets/releases/tag/v.1.1.0)
+
+Curated Bookmarks for OSINT & Investigations
+
+- **Tag:** v.1.1.0
+- **Published:** 2025-12-29
+- **Repository:** [bookmarklets](https://github.com/gl0bal01/bookmarklets)
+- **Total releases in repo:** 2
+
+---
+
 ### [black-box-architecture v1.1.0](https://github.com/gl0bal01/black-box-architecture/releases/tag/v1.1.0)
 
 Transform any codebase into modular, maintainable "black boxes" using Eskil Steenberg's architecture principles
@@ -121,17 +132,6 @@ A powerful Discord bot that leverages AWS Rekognition.
 - **Tag:** v1.0.0
 - **Published:** 2025-06-23
 - **Repository:** [discord-amazon-rekognition](https://github.com/gl0bal01/discord-amazon-rekognition)
-- **Total releases in repo:** 1
-
----
-
-### [bookmarklets Version 1.0.0](https://github.com/gl0bal01/bookmarklets/releases/tag/v1.0.0)
-
-Curated Bookmarks for OSINT & Investigations
-
-- **Tag:** v1.0.0
-- **Published:** 2025-06-23
-- **Repository:** [bookmarklets](https://github.com/gl0bal01/bookmarklets)
 - **Total releases in repo:** 1
 
 ---
