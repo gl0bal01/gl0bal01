@@ -23,7 +23,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update OpenBadges in README
+      - name: Update OpenBadges in Achievements
         run: |
           python3 -c "
           import os
@@ -66,16 +66,16 @@ jobs:
 {badges_html}
 </details>'''
 
-          # Read README
-          with open('README.md', 'r') as f:
+          # Read Achievements
+          with open('Achievements.md', 'r') as f:
               readme_content = f.read()
 
           # Verify markers exist
           if '<!-- openbadges start -->' not in readme_content:
-              print('Error: openbadges start marker not found in README.md')
+              print('Error: openbadges start marker not found in Achievements.md')
               exit(1)
           if '<!-- openbadges end -->' not in readme_content:
-              print('Error: openbadges end marker not found in README.md')
+              print('Error: openbadges end marker not found in Achievements.md')
               exit(1)
 
           # Find marker positions
@@ -92,7 +92,7 @@ jobs:
           )
 
           # Write updated README
-          with open('README.md', 'w') as f:
+          with open('Achievements.md', 'w') as f:
               f.write(new_readme)
 
           print(f'Updated {len(badge_files)} badges in README.md')
@@ -103,7 +103,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md
+          git add Achievements.md
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
