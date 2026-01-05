@@ -13,7 +13,7 @@
 
 ### Utilities
 
-- [DevBox](https://gl0bal01.com/devbox): DevBox: Zero-Trust Dev Environment with AI & Pentesting Built-In.
+- [DevBox](https://github.com/gl0bal01/devbox): DevBox: Zero-Trust Dev Environment with AI & Pentesting Built-In.
 - [WP Quick Dev](https://github.com/gl0bal01/wp-quick-dev): Get a fully functional WordPress setup with plugin/theme development workflow in under 60 seconds.
 - [Black Box Architecture](https://github.com/gl0bal01/black-box-architecture): Transform any codebase into modular, maintainable "black boxes".
 - [Claude E2E Workflow](https://github.com/gl0bal01/claude-e2e-workflow): Persistent memory and delivery workflow system for Claude Code projects.
