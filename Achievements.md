@@ -7,6 +7,7 @@
 - **API Penetration Testing** - APIsec University
 - **CompTIA Pentest+** - TryHackMe
 - **Offensive Pentesting** - TryHackMe
+- **Satellite Cybersecurity Foundations** - Angelina Tsuboi
 
 ### Digital Forensics & Incident Response
 - **CSI Linux Certified Investigator** - CSI Linux & Linux Academy
@@ -73,3 +74,8 @@ Bash • Symfony • PHP • Docker • Typescript • Python • MySQL • Git 
 | **CyberGameWorld 25** | Solo | 76/1409 |
 | **Medileak 24** | **Finalist** | 8/150 |
 | **Objectif-Eagle 24** | **Finalist** | 16/250 |
+
+---
+
+<!-- openbadges start -->
+<!-- openbadges end-->
