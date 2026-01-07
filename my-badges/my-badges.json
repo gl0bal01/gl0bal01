@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 82 times)\n2. added (used 74 times)\n3. add (used 66 times)\n4. create (used 39 times)\n5. workflow (used 33 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 82 times)\n2. added (used 76 times)\n3. add (used 67 times)\n4. create (used 39 times)\n5. workflow (used 33 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -61,13 +61,6 @@
     "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
     "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/playbooks/commit/12c0f07c757f42ea1528e616293e599bd11f67da\">12c0f07</a>",
     "image": "https://my-badges.github.io/my-badges/programmers-day.png"
-  },
-  {
-    "id": "public-keys-3",
-    "tier": 3,
-    "desc": "I have three public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
   },
   {
     "id": "self-star",
@@ -110,5 +103,12 @@
     "desc": "I did a little housekeeping! 🧹",
     "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/llm-1minai/commit/999b68e2bc585bf687bd14add07642bb707c9aa6\">999b68e</a>: chore: bump version to 0.3.0",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "public-keys-4",
+    "tier": 4,
+    "desc": "I have four public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
   }
 ]
