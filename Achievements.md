@@ -78,4 +78,5 @@ Bash • Symfony • PHP • Docker • Typescript • Python • MySQL • Git 
 ---
 
 <!-- openbadges start -->
-<!-- openbadges end-->
+
+<!-- openbadges end -->
