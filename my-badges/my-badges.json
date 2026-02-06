@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 84 times)\n2. added (used 78 times)\n3. add (used 59 times)\n4. create (used 39 times)\n5. updated (used 34 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 87 times)\n2. added (used 78 times)\n3. add (used 60 times)\n4. create (used 41 times)\n5. updated (used 34 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/wordpress-plugins/commit/31913f1b98564a8a66502fa23694ff590cf5c3d7\">31913f1</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/black-box-architecture/commit/c2943af7f00e7fea6de0cf02e1c0574259b04e96\">c2943af</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
