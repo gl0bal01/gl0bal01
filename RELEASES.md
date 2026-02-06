@@ -1,6 +1,28 @@
 # All Releases
 
-Total releases: 14
+Total releases: 15
+
+---
+
+### [devbox v0.2.0](https://github.com/gl0bal01/devbox/releases/tag/v0.2.0)
+
+DevBox: Zero-Trust Dev Environment with AI & Pentesting Built-In
+
+- **Tag:** v0.2.0
+- **Published:** 2026-02-05
+- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
+- **Total releases in repo:** 2
+
+---
+
+### [black-box-architecture v1.1.0-contract](https://github.com/gl0bal01/black-box-architecture/releases/tag/v1.1.0-contract)
+
+Transform any codebase into modular, maintainable "black boxes" using Eskil Steenberg's architecture principles
+
+- **Tag:** v1.1.0-contract
+- **Published:** 2026-02-05
+- **Repository:** [black-box-architecture](https://github.com/gl0bal01/black-box-architecture)
+- **Total releases in repo:** 3
 
 ---
 
@@ -11,17 +33,6 @@ Curated Bookmarks for OSINT & Investigations
 - **Tag:** v.1.1.0
 - **Published:** 2025-12-29
 - **Repository:** [bookmarklets](https://github.com/gl0bal01/bookmarklets)
-- **Total releases in repo:** 2
-
----
-
-### [black-box-architecture v1.1.0](https://github.com/gl0bal01/black-box-architecture/releases/tag/v1.1.0)
-
-Transform any codebase into modular, maintainable "black boxes" using Eskil Steenberg's architecture principles
-
-- **Tag:** v1.1.0
-- **Published:** 2025-12-01
-- **Repository:** [black-box-architecture](https://github.com/gl0bal01/black-box-architecture)
 - **Total releases in repo:** 2
 
 ---

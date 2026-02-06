@@ -134,14 +134,15 @@
 <!-- releases start -->
 ## Latest Releases
 
+- [devbox v0.2.0](https://github.com/gl0bal01/devbox/releases/tag/v0.2.0) - 2026-02-05
+- [black-box-architecture v1.1.0-contract](https://github.com/gl0bal01/black-box-architecture/releases/tag/v1.1.0-contract) - 2026-02-05
 - [bookmarklets v.1.1.0](https://github.com/gl0bal01/bookmarklets/releases/tag/v.1.1.0) - 2025-12-29
-- [black-box-architecture v1.1.0](https://github.com/gl0bal01/black-box-architecture/releases/tag/v1.1.0) - 2025-12-01
 - [llm-1minai v.0.3.0](https://github.com/gl0bal01/llm-1minai/releases/tag/v.0.3.0) - 2025-11-16
 - [docusaurus-plugin-multi-rss V1.0.1](https://github.com/gl0bal01/docusaurus-plugin-multi-rss/releases/tag/V1.0.1) - 2025-11-13
-- [docusaurus-plugin-obsidian-vault v1.0.0](https://github.com/gl0bal01/docusaurus-plugin-obsidian-vault/releases/tag/v1.0.0) - 2025-11-06
 
-*Showing 5 of 14 releases* • [View More →](RELEASES.md)
+*Showing 5 of 15 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
 
 
 
