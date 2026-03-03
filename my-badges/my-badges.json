@@ -31,14 +31,14 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/llm-1minai/commit/270a8aab691ea6e6475a1ce500bed5279a595ecd\">270a8aa</a>\n- <a href=\"https://github.com/gl0bal01/llm-1minai/commit/2f8aec76a4d3af1773a8bc0e10300216995eea79\">2f8aec7</a>\n- <a href=\"https://github.com/gl0bal01/black-box-architecture/commit/1fbdc95d3d08fcde319960a8e6535731cf24d057\">1fbdc95</a>\n- <a href=\"https://github.com/gl0bal01/black-box-architecture/commit/4b482382f1ccac7444b56243fac2121fb3d69236\">4b48238</a>\n- <a href=\"https://github.com/gl0bal01/games/commit/d7a4c8b262f00be3f893df86e39e06318a925217\">d7a4c8b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/devbox/commit/e933e4874ca1b343cf51b2dc0363578485a9cd18\">e933e48</a>\n- <a href=\"https://github.com/gl0bal01/devbox/commit/7e45c250cedd0deee2389aa35c21cfd4bde8984a\">7e45c25</a>\n- <a href=\"https://github.com/gl0bal01/llm-1minai/commit/270a8aab691ea6e6475a1ce500bed5279a595ecd\">270a8aa</a>\n- <a href=\"https://github.com/gl0bal01/llm-1minai/commit/2f8aec76a4d3af1773a8bc0e10300216995eea79\">2f8aec7</a>\n- <a href=\"https://github.com/gl0bal01/black-box-architecture/commit/1fbdc95d3d08fcde319960a8e6535731cf24d057\">1fbdc95</a>\n- <a href=\"https://github.com/gl0bal01/black-box-architecture/commit/4b482382f1ccac7444b56243fac2121fb3d69236\">4b48238</a>\n- <a href=\"https://github.com/gl0bal01/games/commit/d7a4c8b262f00be3f893df86e39e06318a925217\">d7a4c8b</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 87 times)\n2. added (used 78 times)\n3. add (used 67 times)\n4. create (used 41 times)\n5. updated (used 34 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 99 times)\n2. added (used 78 times)\n3. add (used 76 times)\n4. create (used 41 times)\n5. updated (used 34 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
