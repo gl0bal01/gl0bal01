@@ -17,12 +17,14 @@
 - [WP Quick Dev](https://github.com/gl0bal01/wp-quick-dev): Get a fully functional WordPress setup with plugin/theme development workflow in under 60 seconds.
 - [Black Box Architecture](https://github.com/gl0bal01/black-box-architecture): Transform any codebase into modular, maintainable "black boxes".
 - [Claude E2E Workflow](https://github.com/gl0bal01/claude-e2e-workflow): Persistent memory and delivery workflow system for Claude Code projects.
+- [Contract Agents](https://github.com/gl0bal01/contract-agents): AI agents governed by a shared contract across engineering, design, marketing, product, and more.
 - [Llm 1minAI](https://github.com/gl0bal01/llm-1minai): LLM plugin providing access to 66+ AI models through 1min.ai API with web search, mixed context, and persistent options.
 - [Discord AI Assistant](https://github.com/gl0bal01/discord-ai-assistant): A Discord bot that provides AI chat functionality with memory through 1min API.
 - [Malware Analysis Claude](https://github.com/gl0bal01/malware-analysis-claude-skills): Package covering every phase of malware analysis from initial triage to production-ready detection rules.
 - [Volatility Windows Analysis](https://github.com/gl0bal01/volatility-windows-analysis): Fast forensics investigation on Windows memory dumps using Volatility 2+3.
 - [Discord Watchlists](https://github.com/gl0bal01/discord-watchlists): Stay Ahead of Threats — Get Real-Time Ransomware, CVE, FBI & Europol Alerts in Your Discord Server.
 - [Scripts](https://github.com/gl0bal01/scripts): Image stega analysis, ghidra turbo, word permutator, user gen, ip2cidr...
+- [Pocketflow Internal Link](https://github.com/gl0bal01/pocketflow-internal-link): AI-powered internal linking suggestions for large editorial sites using hybrid BM25 + embedding retrieval and LLM-powered anchor text placement.
 
 ### Osint
 
