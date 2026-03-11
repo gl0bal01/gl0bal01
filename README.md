@@ -16,7 +16,6 @@
 - [DevBox](https://github.com/gl0bal01/devbox): DevBox: Zero-Trust Dev Environment with AI & Pentesting Built-In.
 - [WP Quick Dev](https://github.com/gl0bal01/wp-quick-dev): Get a fully functional WordPress setup with plugin/theme development workflow in under 60 seconds.
 - [Black Box Architecture](https://github.com/gl0bal01/black-box-architecture): Transform any codebase into modular, maintainable "black boxes".
-- [Claude E2E Workflow](https://github.com/gl0bal01/claude-e2e-workflow): Persistent memory and delivery workflow system for Claude Code projects.
 - [Contract Agents](https://github.com/gl0bal01/contract-agents): AI agents governed by a shared contract across engineering, design, marketing, product, and more.
 - [Llm 1minAI](https://github.com/gl0bal01/llm-1minai): LLM plugin providing access to 66+ AI models through 1min.ai API with web search, mixed context, and persistent options.
 - [Discord AI Assistant](https://github.com/gl0bal01/discord-ai-assistant): A Discord bot that provides AI chat functionality with memory through 1min API.
@@ -24,13 +23,11 @@
 - [Volatility Windows Analysis](https://github.com/gl0bal01/volatility-windows-analysis): Fast forensics investigation on Windows memory dumps using Volatility 2+3.
 - [Discord Watchlists](https://github.com/gl0bal01/discord-watchlists): Stay Ahead of Threats — Get Real-Time Ransomware, CVE, FBI & Europol Alerts in Your Discord Server.
 - [Scripts](https://github.com/gl0bal01/scripts): Image stega analysis, ghidra turbo, word permutator, user gen, ip2cidr...
-- [Pocketflow Internal Link](https://github.com/gl0bal01/pocketflow-internal-link): AI-powered internal linking suggestions for large editorial sites using hybrid BM25 + embedding retrieval and LLM-powered anchor text placement.
 
 ### Osint
 
 - [Intel Codex](https://github.com/gl0bal01/intel-codex): Comprehensive knowledge base covering OSINT, reverse engineering, malware analysis, cryptography, and intelligence frameworks for security researchers.
 - [Bookmarklets](https://github.com/gl0bal01/bookmarklets): Curated Bookmarks for OSINT & Investigations
-- [CaseBandit](https://github.com/gl0bal01/CaseBandit): Chrome extension for tracking, organizing, and managing URLs during OSINT/CTF investigations.
 - [Discord OSINT Assistant](https://github.com/gl0bal01/discord-osint-assistant): Multi-tool Discord bot for Open Source Intelligence (OSINT) gathering and analysis.
 - [Discord AWS Rekognition](https://github.com/gl0bal01/discord-amazon-rekognition): Discord bot that leverages AWS Rekognition.
 - [DORK OSINT Missing Person Finder](https://github.com/gl0bal01/dork-missing-person-finder): Script to automate the search process across multiple engines.
@@ -39,6 +36,16 @@
 
 - [docusaurus-plugin-obsidian-vault](https://github.com/gl0bal01/docusaurus-plugin-obsidian-vault): Seamlessly integrate your Obsidian vault with Docusaurus
 - [docusaurus-plugin-multi-rss](https://github.com/gl0bal01/docusaurus-plugin-multi-rss): Aggregate multiple RSS feeds in your Docusaurus site
+
+### Oz
+- [X-Bot](https://github.com/gl0bal01/x-bot): Autonomous X profile manager.
+- [CaseBandit](https://github.com/gl0bal01/CaseBandit): An OSINT investigation note-taking tool with browser extension and web app.
+- [Claude E2E Workflow](https://github.com/gl0bal01/claude-e2e-workflow): Persistent memory and delivery workflow system for Claude Code projects.
+- [Pocketflow Content Generator](https://github.com/gl0bal01/pocketflow-content-generator): 7-agent pipeline: Idea, Research, Writer, Image, SEO, Quality, and Publisher agents.
+- [Pocketflow Repurpose Machine](https://github.com/gl0bal01/pocketflow-repurpose-machine): Transforms existing content into platform-optimized outputs for 7 social and publishing channels.
+- [Pocketflow Thumbnail Forge](https://github.com/gl0bal01/thumbnail-forge): Get click-optimized thumbnails for socials with 2 pics. 
+- [Pocketflow Internal Link](https://github.com/gl0bal01/pocketflow-internal-link): AI-powered internal linking suggestions for large editorial sites.
+- [Cygnus Trading Framework](https://github.com/gl0bal01/cygnus): A multi-strategy trading framework for Interactive Brokers.
 
 <!-- blog-post start -->
 ## Latest Blog Posts
