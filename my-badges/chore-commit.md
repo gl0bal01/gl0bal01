@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/gl0bal01/llm-1minai/commit/999b68e2bc585bf687bd14add07642bb707c9aa6">999b68e</a>: chore: bump version to 0.3.0
+- <a href="https://github.com/gl0bal01/contract-agents/commit/4e1f1b9f997273185e9038f898f4f55d17b7e534">4e1f1b9</a>: chore: cleanup folders and update tests
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
