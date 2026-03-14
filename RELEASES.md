@@ -4,14 +4,14 @@ Total releases: 16
 
 ---
 
-### [contract-agents v1.3.0 - Contract v2.0](https://github.com/gl0bal01/contract-agents/releases/tag/v1.3.0)
+### [contract-agents v1.5.0](https://github.com/gl0bal01/contract-agents/releases/tag/v1.5.0)
 
-AI agents governed by a shared contract for efficient, coordinated AI-assisted development. Includes engineering, testing, design, marketing, product, game dev, and specialized agents. Installable via Makefile for Kilo, Claude Code, Cursor, Goose, and OpenCode.
+You are the CEO. They are your executive team. 121 specialized agents, one shared contract, zero arguments.
 
-- **Tag:** v1.3.0
-- **Published:** 2026-03-12
+- **Tag:** v1.5.0
+- **Published:** 2026-03-13
 - **Repository:** [contract-agents](https://github.com/gl0bal01/contract-agents)
-- **Total releases in repo:** 2
+- **Total releases in repo:** 3
 
 ---
 
