@@ -124,5 +124,12 @@
     "desc": "One of my commit sha starts with \"abc\".",
     "body": "- <a href=\"https://github.com/gl0bal01/contract-agents/commit/abcc297da730141413ba9477f102b5660eb2e61c\"><strong>abc</strong>c297da730141413ba9477f102b5660eb2e61c</a>",
     "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/contract-agents/commit/a27ac665fb5ac2f0154e53c2ebac10d007fcb23c\">a27ac66</a>\n- <a href=\"https://github.com/gl0bal01/contract-agents/commit/ec02038c6cef70e9fec0df66f5b4ee363d1071bb\">ec02038</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
