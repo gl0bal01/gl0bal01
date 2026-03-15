@@ -4,14 +4,14 @@ Total releases: 16
 
 ---
 
-### [contract-agents v1.5.0](https://github.com/gl0bal01/contract-agents/releases/tag/v1.5.0)
+### [contract-agents v1.3.1 - Stable Release](https://github.com/gl0bal01/contract-agents/releases/tag/v1.3.1)
 
 You are the CEO. They are your executive team. 121 specialized agents, one shared contract, zero arguments.
 
-- **Tag:** v1.5.0
-- **Published:** 2026-03-13
+- **Tag:** v1.3.1
+- **Published:** 2026-03-14
 - **Repository:** [contract-agents](https://github.com/gl0bal01/contract-agents)
-- **Total releases in repo:** 3
+- **Total releases in repo:** 4
 
 ---
 
