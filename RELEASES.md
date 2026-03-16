@@ -1,6 +1,17 @@
 # All Releases
 
-Total releases: 16
+Total releases: 17
+
+---
+
+### [malware-analysis-claude-skills v1.0.0 — Initial Release](https://github.com/gl0bal01/malware-analysis-claude-skills/releases/tag/v1.0.0)
+
+Complete Claude skills toolkit for professional malware analysis. 5 specialized skills covering triage, dynamic analysis, detection engineering, and reporting. Works with   REMnux/FlareVM offline environments.
+
+- **Tag:** v1.0.0
+- **Published:** 2026-03-15
+- **Repository:** [malware-analysis-claude-skills](https://github.com/gl0bal01/malware-analysis-claude-skills)
+- **Total releases in repo:** 2
 
 ---
 
