@@ -192,14 +192,15 @@
 <!-- releases start -->
 ## Latest Releases
 
+- [dorkhound v1.0.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.0.0) - 2026-03-17
+- [zellij-layouts Tmux -> zellij](https://github.com/gl0bal01/zellij-layouts/releases/tag/v1.0.0) - 2026-03-17
 - [malware-analysis-claude-skills v1.0.0 — Initial Release](https://github.com/gl0bal01/malware-analysis-claude-skills/releases/tag/v1.0.0) - 2026-03-15
 - [contract-agents v1.3.1 - Stable Release](https://github.com/gl0bal01/contract-agents/releases/tag/v1.3.1) - 2026-03-14
 - [devbox v0.2.0](https://github.com/gl0bal01/devbox/releases/tag/v0.2.0) - 2026-02-05
-- [black-box-architecture v1.1.0-contract](https://github.com/gl0bal01/black-box-architecture/releases/tag/v1.1.0-contract) - 2026-02-05
-- [bookmarklets v.1.1.0](https://github.com/gl0bal01/bookmarklets/releases/tag/v.1.1.0) - 2025-12-29
 
-*Showing 5 of 17 releases* • [View More →](RELEASES.md)
+*Showing 5 of 19 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
 
 
 

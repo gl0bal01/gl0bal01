@@ -1,6 +1,28 @@
 # All Releases
 
-Total releases: 17
+Total releases: 19
+
+---
+
+### [dorkhound v1.0.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.0.0)
+
+Fast Google dork URL generator for finding missing persons and TraceLab CTF competitions
+
+- **Tag:** v1.0.0
+- **Published:** 2026-03-17
+- **Repository:** [dorkhound](https://github.com/gl0bal01/dorkhound)
+- **Total releases in repo:** 1
+
+---
+
+### [zellij-layouts Tmux -> zellij](https://github.com/gl0bal01/zellij-layouts/releases/tag/v1.0.0)
+
+Opinionated Zellij layouts for multi-project   development, Docker workflows, and security operations (pentest, malware   analysis, OSINT)
+
+- **Tag:** v1.0.0
+- **Published:** 2026-03-17
+- **Repository:** [zellij-layouts](https://github.com/gl0bal01/zellij-layouts)
+- **Total releases in repo:** 1
 
 ---
 
