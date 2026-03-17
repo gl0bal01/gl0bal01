@@ -1,4 +1,4 @@
-**Specializing in the intersection of application security, offensive operations, and open-source intelligence (OSINT).**
+**Security & OSINT practitioner — building investigation tools, AI agent systems, and automation pipelines.**
 
 ## Latest Projects
 
@@ -11,26 +11,34 @@
   - [Penetration Testing SOPs](https://gl0bal01.com/intel-codex/Security/Pentesting/Pentesting-Index)
 - Practical Resources: [Cyber](https://gl0bal01.com/cyber), [Reverse](https://gl0bal01.com/reverse-engineering), [Osint](https://gl0bal01.com/osint), [Cheatsheets](https://gl0bal01.com/cheatsheets)
 
-### Utilities
+### Security & Forensics
 
-- [DevBox](https://github.com/gl0bal01/devbox): DevBox: Zero-Trust Dev Environment with AI & Pentesting Built-In.
-- [WP Quick Dev](https://github.com/gl0bal01/wp-quick-dev): Get a fully functional WordPress setup with plugin/theme development workflow in under 60 seconds.
-- [Black Box Architecture](https://github.com/gl0bal01/black-box-architecture): Transform any codebase into modular, maintainable "black boxes".
-- [Contract Agents](https://github.com/gl0bal01/contract-agents): AI agents governed by a shared contract across engineering, design, marketing, product, and more.
-- [Llm 1minAI](https://github.com/gl0bal01/llm-1minai): LLM plugin providing access to 66+ AI models through 1min.ai API with web search, mixed context, and persistent options.
-- [Discord AI Assistant](https://github.com/gl0bal01/discord-ai-assistant): A Discord bot that provides AI chat functionality with memory through 1min API.
 - [Malware Analysis Claude](https://github.com/gl0bal01/malware-analysis-claude-skills): Package covering every phase of malware analysis from initial triage to production-ready detection rules.
 - [Volatility Windows Analysis](https://github.com/gl0bal01/volatility-windows-analysis): Fast forensics investigation on Windows memory dumps using Volatility 2+3.
-- [Discord Watchlists](https://github.com/gl0bal01/discord-watchlists): Stay Ahead of Threats — Get Real-Time Ransomware, CVE, FBI & Europol Alerts in Your Discord Server.
+- [Volatility](https://github.com/gl0bal01/volatility): Comprehensive guide detailing features, commands, and usage of the Volatility framework.
 - [Scripts](https://github.com/gl0bal01/scripts): Image stega analysis, ghidra turbo, word permutator, user gen, ip2cidr...
 
-### Osint
+### Dev Tools
 
-- [Intel Codex](https://github.com/gl0bal01/intel-codex): Comprehensive knowledge base covering OSINT, reverse engineering, malware analysis, cryptography, and intelligence frameworks for security researchers.
+- [DevBox](https://github.com/gl0bal01/devbox): Zero-Trust Dev Environment with AI & Pentesting Built-In.
+- [Zellij Layouts](https://github.com/gl0bal01/zellij-layouts): Opinionated Zellij layouts for multi-project development, Docker workflows, and security operations.
+- [Black Box Architecture](https://github.com/gl0bal01/black-box-architecture): Transform any codebase into modular, maintainable "black boxes".
+- [Contract Agents](https://github.com/gl0bal01/contract-agents): AI agents governed by a shared contract across engineering, design, marketing, product, and more.
+- [WP Quick Dev](https://github.com/gl0bal01/wp-quick-dev): Get a fully functional WordPress setup with plugin/theme development workflow in under 60 seconds.
+- [Llm 1minAI](https://github.com/gl0bal01/llm-1minai): LLM plugin providing access to 66+ AI models through 1min.ai API with web search, mixed context, and persistent options.
+
+### Discord Bots
+
+- [Discord Judge Bot](https://github.com/gl0bal01/discord-judge-bot): Challenge management with rewards, progress tracking, and automated reward distribution.
+- [Discord AI Assistant](https://github.com/gl0bal01/discord-ai-assistant): AI chat functionality with memory through 1min API.
+- [Discord Watchlists](https://github.com/gl0bal01/discord-watchlists): Real-Time Ransomware, CVE, FBI & Europol Alerts in your Discord server.
+
+### OSINT
+
 - [Bookmarklets](https://github.com/gl0bal01/bookmarklets): Curated Bookmarks for OSINT & Investigations
+- [DorkHound](https://github.com/gl0bal01/dorkhound): Fast Google dork URL generator for finding missing persons and TraceLab CTF competitions.
 - [Discord OSINT Assistant](https://github.com/gl0bal01/discord-osint-assistant): Multi-tool Discord bot for Open Source Intelligence (OSINT) gathering and analysis.
 - [Discord AWS Rekognition](https://github.com/gl0bal01/discord-amazon-rekognition): Discord bot that leverages AWS Rekognition.
-- [DORK OSINT Missing Person Finder](https://github.com/gl0bal01/dork-missing-person-finder): Script to automate the search process across multiple engines.
 
 ### Docusaurus Plugins
 
