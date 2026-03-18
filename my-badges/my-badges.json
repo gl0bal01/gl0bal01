@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/gl0bal01/exegol-config/commit/aed52324f5f98c24fdef9bea7133ca186240f43c\"><strong>a</strong>ed52324f5f98c24fdef9bea7133ca186240f43c</a>",
+    "body": "- <a href=\"https://github.com/gl0bal01/gl0bal01/commit/a2959061c69a231d9a20c6ec966165f52ee0a2a5\"><strong>a</strong>2959061c69a231d9a20c6ec966165f52ee0a2a5</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -31,14 +31,14 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/devbox/commit/e933e4874ca1b343cf51b2dc0363578485a9cd18\">e933e48</a>\n- <a href=\"https://github.com/gl0bal01/devbox/commit/7e45c250cedd0deee2389aa35c21cfd4bde8984a\">7e45c25</a>\n- <a href=\"https://github.com/gl0bal01/llm-1minai/commit/270a8aab691ea6e6475a1ce500bed5279a595ecd\">270a8aa</a>\n- <a href=\"https://github.com/gl0bal01/llm-1minai/commit/2f8aec76a4d3af1773a8bc0e10300216995eea79\">2f8aec7</a>\n- <a href=\"https://github.com/gl0bal01/black-box-architecture/commit/1fbdc95d3d08fcde319960a8e6535731cf24d057\">1fbdc95</a>\n- <a href=\"https://github.com/gl0bal01/black-box-architecture/commit/4b482382f1ccac7444b56243fac2121fb3d69236\">4b48238</a>\n- <a href=\"https://github.com/gl0bal01/games/commit/d7a4c8b262f00be3f893df86e39e06318a925217\">d7a4c8b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/dorkhound/commit/409baa590c23f8ff851579605212a56021b8ab9d\">409baa5</a>\n- <a href=\"https://github.com/gl0bal01/dorkhound/commit/e2d66a30700dcf15c33d0ddac40ec59a8ff069ad\">e2d66a3</a>\n- <a href=\"https://github.com/gl0bal01/devbox/commit/e933e4874ca1b343cf51b2dc0363578485a9cd18\">e933e48</a>\n- <a href=\"https://github.com/gl0bal01/devbox/commit/7e45c250cedd0deee2389aa35c21cfd4bde8984a\">7e45c25</a>\n- <a href=\"https://github.com/gl0bal01/llm-1minai/commit/270a8aab691ea6e6475a1ce500bed5279a595ecd\">270a8aa</a>\n- <a href=\"https://github.com/gl0bal01/llm-1minai/commit/2f8aec76a4d3af1773a8bc0e10300216995eea79\">2f8aec7</a>\n- <a href=\"https://github.com/gl0bal01/black-box-architecture/commit/1fbdc95d3d08fcde319960a8e6535731cf24d057\">1fbdc95</a>\n- <a href=\"https://github.com/gl0bal01/black-box-architecture/commit/4b482382f1ccac7444b56243fac2121fb3d69236\">4b48238</a>\n- <a href=\"https://github.com/gl0bal01/games/commit/d7a4c8b262f00be3f893df86e39e06318a925217\">d7a4c8b</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 109 times)\n2. add (used 102 times)\n3. added (used 79 times)\n4. create (used 41 times)\n5. updated (used 34 times)",
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 118 times)\n2. update (used 108 times)\n3. added (used 80 times)\n4. updated (used 36 times)\n5. readme (used 32 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/black-box-architecture/commit/c2943af7f00e7fea6de0cf02e1c0574259b04e96\">c2943af</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/dorkhound/commit/ba9b0d7c5b021d5886fafe1bbf204d79ccc0a967\">ba9b0d7</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/236191461632017dc26b7bdcdce2e3f30886076f\">2361914</a>\n- <a href=\"https://github.com/gl0bal01/docusaurus-plugin-multi-rss/commit/01de9b0dc1aa5b3a62e942e8973c9c37f5e6d126\">01de9b0</a>\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/1b70f807a426c7ae4b94c6b85b2478a461b2d71d\">1b70f80</a>\n- <a href=\"https://github.com/gl0bal01/wordpress-plugins/commit/96136baa3d7addb7cf20dc4d7ee32c1eef9e1cd1\">96136ba</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/dorkhound/commit/ba9b0d7c5b021d5886fafe1bbf204d79ccc0a967\">ba9b0d7</a>\n- <a href=\"https://github.com/gl0bal01/dorkhound/commit/409baa590c23f8ff851579605212a56021b8ab9d\">409baa5</a>\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/236191461632017dc26b7bdcdce2e3f30886076f\">2361914</a>\n- <a href=\"https://github.com/gl0bal01/docusaurus-plugin-multi-rss/commit/01de9b0dc1aa5b3a62e942e8973c9c37f5e6d126\">01de9b0</a>\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/1b70f807a426c7ae4b94c6b85b2478a461b2d71d\">1b70f80</a>\n- <a href=\"https://github.com/gl0bal01/wordpress-plugins/commit/96136baa3d7addb7cf20dc4d7ee32c1eef9e1cd1\">96136ba</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
@@ -131,5 +131,12 @@
     "desc": "Happy March 14th! I committed on a Pi Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/contract-agents/commit/a27ac665fb5ac2f0154e53c2ebac10d007fcb23c\">a27ac66</a>\n- <a href=\"https://github.com/gl0bal01/contract-agents/commit/ec02038c6cef70e9fec0df66f5b4ee363d1071bb\">ec02038</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/61e96e44fbb78f63d930c548f10e3ba3a605a624\">61e96e4</a>\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/50070f01b32530fa55f0dda1c04988ebf18cdcf5\">50070f0</a>\n- <a href=\"https://github.com/gl0bal01/gl0bal01/commit/a2959061c69a231d9a20c6ec966165f52ee0a2a5\">a295906</a>\n- <a href=\"https://github.com/gl0bal01/dorkhound/commit/ba9b0d7c5b021d5886fafe1bbf204d79ccc0a967\">ba9b0d7</a>\n- <a href=\"https://github.com/gl0bal01/dorkhound/commit/409baa590c23f8ff851579605212a56021b8ab9d\">409baa5</a>\n- <a href=\"https://github.com/gl0bal01/dorkhound/commit/e2d66a30700dcf15c33d0ddac40ec59a8ff069ad\">e2d66a3</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]

@@ -345,7 +345,7 @@ Join us, play, learn, and contribute your **own challenges**.
 <a href="my-badges/delorean.md"><img src="https://my-badges.github.io/my-badges/delorean.png" alt="I committed on the day Doctor Emmett Brown invented the flux capacitor!" title="I committed on the day Doctor Emmett Brown invented the flux capacitor!" width="64"></a>
 <a href="my-badges/emoji-only-commit.md"><img src="https://my-badges.github.io/my-badges/emoji-only-commit.png" alt="I used only emojis in my commit message." title="I used only emojis in my commit message." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;update&quot;." title="My favorite word is &quot;update&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
 <a href="my-badges/mass-delete-commit.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
 <a href="my-badges/programmers-day.md"><img src="https://my-badges.github.io/my-badges/programmers-day.png" alt="Happy Programmers Day! I committed on a 256 Day of Year!" title="Happy Programmers Day! I committed on a 256 Day of Year!" width="64"></a>
@@ -359,4 +359,5 @@ Join us, play, learn, and contribute your **own challenges**.
 <a href="my-badges/public-keys-5.md"><img src="https://my-badges.github.io/my-badges/public-keys-5.png" alt="I have five or more public keys" title="I have five or more public keys" width="64"></a>
 <a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
 <a href="my-badges/pi-day.md"><img src="https://my-badges.github.io/my-badges/pi-day.png" alt="Happy March 14th! I committed on a Pi Day!" title="Happy March 14th! I committed on a Pi Day!" width="64"></a>
+<a href="my-badges/st-patricks-day.md"><img src="https://my-badges.github.io/my-badges/st-patricks-day.png" alt="I committed on St. Patrick&apos;s Day!" title="I committed on St. Patrick&apos;s Day!" width="64"></a>
 <!-- my-badges end -->
