@@ -362,4 +362,6 @@ Join us, play, learn, and contribute your **own challenges**.
 <a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
 <a href="my-badges/pi-day.md"><img src="https://my-badges.github.io/my-badges/pi-day.png" alt="Happy March 14th! I committed on a Pi Day!" title="Happy March 14th! I committed on a Pi Day!" width="64"></a>
 <a href="my-badges/st-patricks-day.md"><img src="https://my-badges.github.io/my-badges/st-patricks-day.png" alt="I committed on St. Patrick&apos;s Day!" title="I committed on St. Patrick&apos;s Day!" width="64"></a>
+<a href="my-badges/fix-2.md"><img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
+<a href="my-badges/fix-5.md"><img src="https://my-badges.github.io/my-badges/fix-5.png" alt="I did 5 sequential fixes." title="I did 5 sequential fixes." width="64"></a>
 <!-- my-badges end -->
