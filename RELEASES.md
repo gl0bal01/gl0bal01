@@ -4,6 +4,17 @@ Total releases: 19
 
 ---
 
+### [discord-osint-assistant v2.1.0 — Security Hardening & Production Readiness](https://github.com/gl0bal01/discord-osint-assistant/releases/tag/v2.1.0)
+
+A powerful Discord bot for Open Source Intelligence (OSINT) gathering and analysis
+
+- **Tag:** v2.1.0
+- **Published:** 2026-03-19
+- **Repository:** [discord-osint-assistant](https://github.com/gl0bal01/discord-osint-assistant)
+- **Total releases in repo:** 1
+
+---
+
 ### [dorkhound v1.0.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.0.0)
 
 Fast Google dork URL generator for finding missing persons and TraceLab CTF competitions
@@ -39,7 +50,7 @@ Complete Claude skills toolkit for professional malware analysis. 5 specialized 
 
 ### [contract-agents v1.3.1 - Stable Release](https://github.com/gl0bal01/contract-agents/releases/tag/v1.3.1)
 
-You are the CEO. They are your executive team. 121 specialized agents, one shared contract, zero arguments.
+You are the CEO. They are your executive team. 125 specialized agents, one shared contract, zero arguments
 
 - **Tag:** v1.3.1
 - **Published:** 2026-03-14
@@ -143,17 +154,6 @@ Stay Ahead of Threats — Get Real-Time Ransomware, CVE, FBI & Europol Alerts in
 - **Tag:** v1.0.0
 - **Published:** 2025-07-01
 - **Repository:** [discord-watchlists](https://github.com/gl0bal01/discord-watchlists)
-- **Total releases in repo:** 1
-
----
-
-### [discord-osint-assistant v1.0.0](https://github.com/gl0bal01/discord-osint-assistant/releases/tag/v1.0.0)
-
-A powerful Discord bot for Open Source Intelligence (OSINT) gathering and analysis
-
-- **Tag:** v1.0.0
-- **Published:** 2025-06-25
-- **Repository:** [discord-osint-assistant](https://github.com/gl0bal01/discord-osint-assistant)
 - **Total releases in repo:** 1
 
 ---

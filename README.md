@@ -196,14 +196,15 @@
 <!-- releases start -->
 ## Latest Releases
 
+- [discord-osint-assistant v2.1.0 — Security Hardening & Production Readiness](https://github.com/gl0bal01/discord-osint-assistant/releases/tag/v2.1.0) - 2026-03-19
 - [dorkhound v1.0.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.0.0) - 2026-03-17
 - [zellij-layouts Tmux -> zellij](https://github.com/gl0bal01/zellij-layouts/releases/tag/v1.0.0) - 2026-03-17
 - [malware-analysis-claude-skills v1.0.0 — Initial Release](https://github.com/gl0bal01/malware-analysis-claude-skills/releases/tag/v1.0.0) - 2026-03-15
 - [contract-agents v1.3.1 - Stable Release](https://github.com/gl0bal01/contract-agents/releases/tag/v1.3.1) - 2026-03-14
-- [devbox v0.2.0](https://github.com/gl0bal01/devbox/releases/tag/v0.2.0) - 2026-02-05
 
 *Showing 5 of 19 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
 
 
 
