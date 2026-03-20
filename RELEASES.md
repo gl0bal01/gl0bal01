@@ -4,6 +4,28 @@ Total releases: 19
 
 ---
 
+### [bookmarklets v2.0.0 — Website Recon Scanner & HN Launch](https://github.com/gl0bal01/bookmarklets/releases/tag/v2.0.0)
+
+9 JavaScript bookmarklets for OSINT, security research, and CTF — no install, no tracking, runs locally
+
+- **Tag:** v2.0.0
+- **Published:** 2026-03-20
+- **Repository:** [bookmarklets](https://github.com/gl0bal01/bookmarklets)
+- **Total releases in repo:** 3
+
+---
+
+### [discord-ai-assistant v1.1.0 — Security Hardening & Dependency Updates](https://github.com/gl0bal01/discord-ai-assistant/releases/tag/v1.1.0)
+
+A Discord bot using 1min api that provides AI chat functionality with multiple models including GPT-4o, Claude, Gemini...
+
+- **Tag:** v1.1.0
+- **Published:** 2026-03-20
+- **Repository:** [discord-ai-assistant](https://github.com/gl0bal01/discord-ai-assistant)
+- **Total releases in repo:** 2
+
+---
+
 ### [discord-osint-assistant v2.1.0 — Security Hardening & Production Readiness](https://github.com/gl0bal01/discord-osint-assistant/releases/tag/v2.1.0)
 
 A powerful Discord bot for Open Source Intelligence (OSINT) gathering and analysis
@@ -81,17 +103,6 @@ Transform any codebase into modular, maintainable "black boxes" using Eskil Stee
 
 ---
 
-### [bookmarklets v.1.1.0](https://github.com/gl0bal01/bookmarklets/releases/tag/v.1.1.0)
-
-Curated Bookmarks for OSINT & Investigations
-
-- **Tag:** v.1.1.0
-- **Published:** 2025-12-29
-- **Repository:** [bookmarklets](https://github.com/gl0bal01/bookmarklets)
-- **Total releases in repo:** 2
-
----
-
 ### [llm-1minai v.0.3.0](https://github.com/gl0bal01/llm-1minai/releases/tag/v.0.3.0)
 
 LLM plugin providing access to AI models through 1min.ai API with web search, mixed context, and persistent options
@@ -165,17 +176,6 @@ A powerful Discord bot for creating and managing challenges with rewards and pro
 - **Tag:** v1.0.0
 - **Published:** 2025-06-25
 - **Repository:** [discord-judge-bot](https://github.com/gl0bal01/discord-judge-bot)
-- **Total releases in repo:** 1
-
----
-
-### [discord-ai-assistant v1.0.0](https://github.com/gl0bal01/discord-ai-assistant/releases/tag/v1.0.0)
-
-A Discord bot using 1min api that provides AI chat functionality with multiple models including GPT-4o, Claude, Gemini...
-
-- **Tag:** v1.0.0
-- **Published:** 2025-06-23
-- **Repository:** [discord-ai-assistant](https://github.com/gl0bal01/discord-ai-assistant)
 - **Total releases in repo:** 1
 
 ---
