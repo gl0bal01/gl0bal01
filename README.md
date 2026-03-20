@@ -20,11 +20,11 @@
 
 ### Dev Tools
 
-- [Zero-Trust Lifestyle](https://github.com/gl0bal01/zero-trust-lifestyle): 33 bash scripts for the paranoid developer. Based on a true story.
-- [DevBox](https://github.com/gl0bal01/devbox): Zero-Trust Dev Environment with AI & Pentesting Built-In.
+- [Zero-Trust Lifestyle](https://github.com/gl0bal01/zero-trust-lifestyle): Bash scripts for the paranoid developer. Based on a true story.
+- [DevBox](https://github.com/gl0bal01/devbox): Security-hardened dev environment provisioning script with AI tooling and pentesting utilities included.
 - [Zellij Layouts](https://github.com/gl0bal01/zellij-layouts): Opinionated Zellij layouts for multi-project development, Docker workflows, and security operations.
 - [Black Box Architecture](https://github.com/gl0bal01/black-box-architecture): Transform any codebase into modular, maintainable "black boxes".
-- [Contract Agents](https://github.com/gl0bal01/contract-agents): AI agents governed by a shared contract across engineering, design, marketing, product, and more.
+- [Contract Agents](https://github.com/gl0bal01/contract-agents): AI agent configurations governed by a shared contract to reduce drift and improve consistency across engineering, design, marketing, and product tasks.
 - [WP Quick Dev](https://github.com/gl0bal01/wp-quick-dev): Get a fully functional WordPress setup with plugin/theme development workflow in under 60 seconds.
 - [Llm 1minAI](https://github.com/gl0bal01/llm-1minai): LLM plugin providing access to 66+ AI models through 1min.ai API with web search, mixed context, and persistent options.
 
@@ -60,15 +60,14 @@
 <!-- blog-post start -->
 ## Latest Blog Posts
 
-- **[Contract Agents: 125 AI Specialists That Actually Follow the Rules](https://gl0bal01.com/blog/contract-agents-ai-workforce)** - AI agents are powerful but chaotic — they hallucinate workflows, ignore constraints, and forget rules between sessions. Contract Agents solves this with 125 specialized agents governed by a single sha...
-- **[DevBox: Zero-Trust Dev Environment with AI & Pentesting Built-In](https://gl0bal01.com/blog/devbox-secure-remote-development)** - Building a secure, feature-rich development environment shouldn't require weeks of configuration and security research. That's why I created DevBox — an automated provisioning script that transforms a...
+- **[Contract Agents: AI Specialists with Shared Governance](https://gl0bal01.com/blog/contract-agents-ai-workforce)** - AI agents can hallucinate workflows, ignore constraints, and lose context between sessions. Contract Agents addresses these challenges with role-specific configurations governed by a single sha...
+- **[DevBox: Security-Hardened Dev Environment with AI & Pentesting Tools](https://gl0bal01.com/blog/devbox-secure-remote-development)** - Building a secure, feature-rich development environment shouldn't require weeks of configuration and security research. That's why I created DevBox — an automated provisioning script that transforms a...
 - **[Stop Your Code from Rotting: AI Prompts for Modular Architecture](https://gl0bal01.com/blog/black-box-architecture-ai-prompts)** - Transform codebases into modular, maintainable systems using AI. Specialized prompts teach Claude Code to apply Eskil Steenberg's battle-tested architecture principles for constant developer velocity....
 - **[Why I Built Intel Codex](https://gl0bal01.com/blog/why-intel-codex)** - The story behind creating a comprehensive operational manual for digital investigators, security analysts, and OSINT practitioners....
 - **[Claude Skills — Packaged workflows that make Claude truly work-ready](https://gl0bal01.com/blog/anthropic-claude-skills)** - Overview of Anthropic’s new Claude Skills: what they are, why they matter, how they differ from prompts, where they run (Claude.ai, Claude Code, API/Agent SDK), and how to get started....
 
 [**View More →**](https://gl0bal01.com/blog/)
 <!-- blog-post end -->
-
 
 
 
@@ -207,7 +206,6 @@
 
 *Showing 5 of 19 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
-
 
 
 
