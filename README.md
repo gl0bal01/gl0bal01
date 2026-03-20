@@ -20,6 +20,7 @@
 
 ### Dev Tools
 
+- [Zero-Trust Lifestyle](https://github.com/gl0bal01/zero-trust-lifestyle): 33 bash scripts for the paranoid developer. Based on a true story.
 - [DevBox](https://github.com/gl0bal01/devbox): Zero-Trust Dev Environment with AI & Pentesting Built-In.
 - [Zellij Layouts](https://github.com/gl0bal01/zellij-layouts): Opinionated Zellij layouts for multi-project development, Docker workflows, and security operations.
 - [Black Box Architecture](https://github.com/gl0bal01/black-box-architecture): Transform any codebase into modular, maintainable "black boxes".
@@ -46,9 +47,10 @@
 - [docusaurus-plugin-multi-rss](https://github.com/gl0bal01/docusaurus-plugin-multi-rss): Aggregate multiple RSS feeds in your Docusaurus site
 
 ### Oz
+- [Oracle](https://github.com/gl0bal01/brand-search): French brand intelligence platform — INPI trademark search, brand directories, and sponsored media detection.
+- [Scout](https://github.com/gl0bal01/scout-contracts): Merit-based content curation — LLM-scored RSS digests, pure signal, no fame bias.
 - [X-Bot](https://github.com/gl0bal01/x-bot): Autonomous X profile manager.
 - [CaseBandit](https://github.com/gl0bal01/CaseBandit): An OSINT investigation note-taking tool with browser extension and web app.
-- [Claude E2E Workflow](https://github.com/gl0bal01/claude-e2e-workflow): Persistent memory and delivery workflow system for Claude Code projects.
 - [Pocketflow Content Generator](https://github.com/gl0bal01/pocketflow-content-generator): 7-agent pipeline: Idea, Research, Writer, Image, SEO, Quality, and Publisher agents.
 - [Pocketflow Repurpose Machine](https://github.com/gl0bal01/pocketflow-repurpose-machine): Transforms existing content into platform-optimized outputs for 7 social and publishing channels.
 - [Pocketflow Thumbnail Forge](https://github.com/gl0bal01/thumbnail-forge): Get click-optimized thumbnails for socials with 2 pics. 
