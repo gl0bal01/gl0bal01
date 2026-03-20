@@ -13,6 +13,8 @@ Commits:
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/1fbdc95d3d08fcde319960a8e6535731cf24d057">1fbdc95</a>
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/4b482382f1ccac7444b56243fac2121fb3d69236">4b48238</a>
 - <a href="https://github.com/gl0bal01/discord-judge-bot/commit/129ec9e96f0ce94d71c6988c8aacccec9c9a5986">129ec9e</a>
+- <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/46f8c48007448a381d82996e7524b0950d415b71">46f8c48</a>
+- <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/e3c21503d90dc4abf4f6ea13683fc342822ca366">e3c2150</a>
 - <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/687dbc81a97cb6f3da9505aa969fe90eb3641313">687dbc8</a>
 - <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/3925ae93ecd024a2abf0016ff777b5230bc04452">3925ae9</a>
 - <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/04a3afe2e1746c1fc0c72ea9980c26808054532e">04a3afe</a>
