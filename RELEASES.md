@@ -1,10 +1,10 @@
 # All Releases
 
-Total releases: 19
+Total releases: 18
 
 ---
 
-### [bookmarklets v2.0.0 — Website Recon Scanner & HN Launch](https://github.com/gl0bal01/bookmarklets/releases/tag/v2.0.0)
+### [bookmarklets v2.0.0 — Website Recon Scanner & Documentation Overhaul](https://github.com/gl0bal01/bookmarklets/releases/tag/v2.0.0)
 
 9 JavaScript bookmarklets for OSINT, security research, and CTF — no install, no tracking, runs locally
 
@@ -89,17 +89,6 @@ DevBox: Zero-Trust Dev Environment with AI & Pentesting Built-In
 - **Published:** 2026-02-05
 - **Repository:** [devbox](https://github.com/gl0bal01/devbox)
 - **Total releases in repo:** 2
-
----
-
-### [black-box-architecture v1.1.0-contract](https://github.com/gl0bal01/black-box-architecture/releases/tag/v1.1.0-contract)
-
-Transform any codebase into modular, maintainable "black boxes" using Eskil Steenberg's architecture principles
-
-- **Tag:** v1.1.0-contract
-- **Published:** 2026-02-05
-- **Repository:** [black-box-architecture](https://github.com/gl0bal01/black-box-architecture)
-- **Total releases in repo:** 3
 
 ---
 
