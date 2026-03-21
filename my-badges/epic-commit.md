@@ -10,9 +10,11 @@ Commits:
 - <a href="https://github.com/gl0bal01/devbox/commit/7e45c250cedd0deee2389aa35c21cfd4bde8984a">7e45c25</a>
 - <a href="https://github.com/gl0bal01/llm-1minai/commit/270a8aab691ea6e6475a1ce500bed5279a595ecd">270a8aa</a>
 - <a href="https://github.com/gl0bal01/llm-1minai/commit/2f8aec76a4d3af1773a8bc0e10300216995eea79">2f8aec7</a>
+- <a href="https://github.com/gl0bal01/black-box-architecture/commit/d0eb8c8c119e16838a589d4fac217d993559723c">d0eb8c8</a>
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/1fbdc95d3d08fcde319960a8e6535731cf24d057">1fbdc95</a>
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/4b482382f1ccac7444b56243fac2121fb3d69236">4b48238</a>
 - <a href="https://github.com/gl0bal01/discord-judge-bot/commit/129ec9e96f0ce94d71c6988c8aacccec9c9a5986">129ec9e</a>
+- <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/29a14ed79df579b4e65cfd8c935ff8107b0b1d12">29a14ed</a>
 - <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/46f8c48007448a381d82996e7524b0950d415b71">46f8c48</a>
 - <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/e3c21503d90dc4abf4f6ea13683fc342822ca366">e3c2150</a>
 - <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/687dbc81a97cb6f3da9505aa969fe90eb3641313">687dbc8</a>
@@ -27,6 +29,7 @@ Commits:
 - <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/edec7899c6b045f21f543e5017e2e8723c7b741d">edec789</a>
 - <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/3c38dc4de63515c25c0bb2b57a5614d1c45fb3d5">3c38dc4</a>
 - <a href="https://github.com/gl0bal01/discord-amazon-rekognition/commit/fe1327b689742c68d0cd178f9f37fbd6ba196791">fe1327b</a>
+- <a href="https://github.com/gl0bal01/discord-ai-assistant/commit/c9e653b21b8c6b4c4db53ee099ab6d56baa01381">c9e653b</a>
 - <a href="https://github.com/gl0bal01/games/commit/d7a4c8b262f00be3f893df86e39e06318a925217">d7a4c8b</a>
 
 
