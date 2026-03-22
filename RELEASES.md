@@ -4,6 +4,17 @@ Total releases: 18
 
 ---
 
+### [zellij-layouts v1.1.0 — CTF layout & alias fixes](https://github.com/gl0bal01/zellij-layouts/releases/tag/v1.1.0)
+
+Opinionated Zellij layouts for multi-project   development, Docker workflows, and security operations (pentest, malware   analysis, OSINT)
+
+- **Tag:** v1.1.0
+- **Published:** 2026-03-21
+- **Repository:** [zellij-layouts](https://github.com/gl0bal01/zellij-layouts)
+- **Total releases in repo:** 2
+
+---
+
 ### [bookmarklets v2.0.0 — Website Recon Scanner & Documentation Overhaul](https://github.com/gl0bal01/bookmarklets/releases/tag/v2.0.0)
 
 9 JavaScript bookmarklets for OSINT, security research, and CTF — no install, no tracking, runs locally
@@ -44,17 +55,6 @@ Fast Google dork URL generator for finding missing persons and TraceLab CTF comp
 - **Tag:** v1.0.0
 - **Published:** 2026-03-17
 - **Repository:** [dorkhound](https://github.com/gl0bal01/dorkhound)
-- **Total releases in repo:** 1
-
----
-
-### [zellij-layouts Tmux -> zellij](https://github.com/gl0bal01/zellij-layouts/releases/tag/v1.0.0)
-
-Opinionated Zellij layouts for multi-project   development, Docker workflows, and security operations (pentest, malware   analysis, OSINT)
-
-- **Tag:** v1.0.0
-- **Published:** 2026-03-17
-- **Repository:** [zellij-layouts](https://github.com/gl0bal01/zellij-layouts)
 - **Total releases in repo:** 1
 
 ---
