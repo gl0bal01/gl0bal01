@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 253 times)\n2. update (used 158 times)\n3. fix (used 102 times)\n4. added (used 84 times)\n5. remove (used 66 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 258 times)\n2. update (used 160 times)\n3. fix (used 103 times)\n4. added (used 84 times)\n5. remove (used 66 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -61,13 +61,6 @@
     "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
     "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/playbooks/commit/12c0f07c757f42ea1528e616293e599bd11f67da\">12c0f07</a>",
     "image": "https://my-badges.github.io/my-badges/programmers-day.png"
-  },
-  {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/gl0bal01/games\">gl0bal01/games</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
   },
   {
     "id": "sleepy-coder",
