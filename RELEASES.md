@@ -1,6 +1,17 @@
 # All Releases
 
-Total releases: 18
+Total releases: 19
+
+---
+
+### [pwndocker-reverse v1.0.0](https://github.com/gl0bal01/pwndocker-reverse/releases/tag/v1.0.0)
+
+Complete CTF pwn/reverse-engineering Docker image — 45+ tools, 5 disassemblers, GDB plugin switching, ready to go
+
+- **Tag:** v1.0.0
+- **Published:** 2026-03-22
+- **Repository:** [pwndocker-reverse](https://github.com/gl0bal01/pwndocker-reverse)
+- **Total releases in repo:** 1
 
 ---
 

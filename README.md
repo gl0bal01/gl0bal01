@@ -202,14 +202,15 @@
 <!-- releases start -->
 ## Latest Releases
 
+- [pwndocker-reverse v1.0.0](https://github.com/gl0bal01/pwndocker-reverse/releases/tag/v1.0.0) - 2026-03-22
 - [zellij-layouts v1.1.0 — CTF layout & alias fixes](https://github.com/gl0bal01/zellij-layouts/releases/tag/v1.1.0) - 2026-03-21
 - [bookmarklets v2.0.0 — Website Recon Scanner & Documentation Overhaul](https://github.com/gl0bal01/bookmarklets/releases/tag/v2.0.0) - 2026-03-20
 - [discord-ai-assistant v1.1.0 — Security Hardening & Dependency Updates](https://github.com/gl0bal01/discord-ai-assistant/releases/tag/v1.1.0) - 2026-03-20
 - [discord-osint-assistant v2.1.0 — Security Hardening & Production Readiness](https://github.com/gl0bal01/discord-osint-assistant/releases/tag/v2.1.0) - 2026-03-19
-- [dorkhound v1.0.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.0.0) - 2026-03-17
 
-*Showing 5 of 18 releases* • [View More →](RELEASES.md)
+*Showing 5 of 19 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
 
 
 
