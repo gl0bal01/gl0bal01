@@ -4,6 +4,28 @@ Total releases: 19
 
 ---
 
+### [dorkhound v1.1.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.1.0)
+
+Fast Google dork URL generator for finding missing persons and TraceLab CTF competitions
+
+- **Tag:** v1.1.0
+- **Published:** 2026-04-11
+- **Repository:** [dorkhound](https://github.com/gl0bal01/dorkhound)
+- **Total releases in repo:** 2
+
+---
+
+### [contract-agents v3.0.0 — Quality over count](https://github.com/gl0bal01/contract-agents/releases/tag/v3.0.0)
+
+Governance system for 52 specialized agents under a single contract: aligned, consistent, human-guided. You set the direction. They do the work. That’s the deal.
+
+- **Tag:** v3.0.0
+- **Published:** 2026-04-11
+- **Repository:** [contract-agents](https://github.com/gl0bal01/contract-agents)
+- **Total releases in repo:** 5
+
+---
+
 ### [pwndocker-reverse v1.0.0](https://github.com/gl0bal01/pwndocker-reverse/releases/tag/v1.0.0)
 
 Complete CTF pwn/reverse-engineering Docker image — 45+ tools, 5 disassemblers, GDB plugin switching, ready to go
@@ -59,17 +81,6 @@ A powerful Discord bot for Open Source Intelligence (OSINT) gathering and analys
 
 ---
 
-### [dorkhound v1.0.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.0.0)
-
-Fast Google dork URL generator for finding missing persons and TraceLab CTF competitions
-
-- **Tag:** v1.0.0
-- **Published:** 2026-03-17
-- **Repository:** [dorkhound](https://github.com/gl0bal01/dorkhound)
-- **Total releases in repo:** 1
-
----
-
 ### [malware-analysis-claude-skills v1.0.0 — Initial Release](https://github.com/gl0bal01/malware-analysis-claude-skills/releases/tag/v1.0.0)
 
 Complete Claude skills toolkit for professional malware analysis. 5 specialized skills covering triage, dynamic analysis, detection engineering, and reporting. Works with   REMnux/FlareVM offline environments.
@@ -78,17 +89,6 @@ Complete Claude skills toolkit for professional malware analysis. 5 specialized 
 - **Published:** 2026-03-15
 - **Repository:** [malware-analysis-claude-skills](https://github.com/gl0bal01/malware-analysis-claude-skills)
 - **Total releases in repo:** 2
-
----
-
-### [contract-agents v1.3.1 - Stable Release](https://github.com/gl0bal01/contract-agents/releases/tag/v1.3.1)
-
-You are the CEO. They are your executive team. 125 specialized agents, one shared contract, zero arguments
-
-- **Tag:** v1.3.1
-- **Published:** 2026-03-14
-- **Repository:** [contract-agents](https://github.com/gl0bal01/contract-agents)
-- **Total releases in repo:** 4
 
 ---
 
