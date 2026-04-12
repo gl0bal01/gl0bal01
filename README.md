@@ -5,17 +5,13 @@
 ### Writings
 
 - [Intel Codex Vault](https://github.com/gl0bal01/intel-codex): 28+ SOPs for digital investigators, security analysts, and OSINT practitioners
-- [Intel Codex Online](https://gl0bal01.com/intel-codex):
-  - [Investigations](https://gl0bal01.com/intel-codex/category/investigations) & [Techniques](https://gl0bal01.com/intel-codex/category/investigation-techniques)
-  - [Security Analysis SOPs](https://gl0bal01.com/intel-codex/Security/Analysis/Analysis-Index)
-  - [Penetration Testing SOPs](https://gl0bal01.com/intel-codex/Security/Pentesting/Pentesting-Index)
+- [Intel Codex Online](https://gl0bal01.com/intel-codex): [Investigations](https://gl0bal01.com/intel-codex/category/investigations) & [Techniques](https://gl0bal01.com/intel-codex/category/investigation-techniques) - [Security Analysis SOPs](https://gl0bal01.com/intel-codex/Security/Analysis/Analysis-Index) - [Penetration Testing SOPs](https://gl0bal01.com/intel-codex/Security/Pentesting/Pentesting-Index)
 - Practical Resources: [Cyber](https://gl0bal01.com/cyber), [Reverse](https://gl0bal01.com/reverse-engineering), [Osint](https://gl0bal01.com/osint), [Cheatsheets](https://gl0bal01.com/cheatsheets)
 
 ### Security & Forensics
 
 - [Malware Analysis Claude](https://github.com/gl0bal01/malware-analysis-claude-skills): Package covering every phase of malware analysis from initial triage to production-ready detection rules.
-- [Volatility Windows Analysis](https://github.com/gl0bal01/volatility-windows-analysis): Fast forensics investigation on Windows memory dumps using Volatility 2+3.
-- [Volatility](https://github.com/gl0bal01/volatility): Comprehensive guide detailing features, commands, and usage of the Volatility framework.
+- [Volatility Toolkit](https://github.com/gl0bal01/volatility-toolkit): Automated memory forensics for Windows, Linux, and macOS - *[Legacy](https://github.com/gl0bal01/volatility-windows-analysis)*
 - [Scripts](https://github.com/gl0bal01/scripts): Image stega analysis, ghidra turbo, word permutator, user gen, ip2cidr...
 
 ### Dev Tools
