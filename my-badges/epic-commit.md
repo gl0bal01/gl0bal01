@@ -5,6 +5,13 @@
 Commits:
 
 - <a href="https://github.com/gl0bal01/pwndocker-reverse/commit/a46afac73f1d6d9b2070a20b9926e096fbeb6220">a46afac</a>
+- <a href="https://github.com/gl0bal01/volatility-toolkit/commit/88a1063ac2c1416bdf9e65ab34b9534c05d72e48">88a1063</a>
+- <a href="https://github.com/gl0bal01/zero-trust-lifestyle/commit/580c38a362a058d36972b89d30891c4a8edbbd80">580c38a</a>
+- <a href="https://github.com/gl0bal01/zero-trust-lifestyle/commit/cf13e0337a75395eeb3f09c649bc3aad02e4ac34">cf13e03</a>
+- <a href="https://github.com/gl0bal01/zero-trust-lifestyle/commit/f9848d627e69b639bffeb2c5702befe3227f0edb">f9848d6</a>
+- <a href="https://github.com/gl0bal01/zero-trust-lifestyle/commit/74933009f25833fdc1d3a3526562546c30cfa235">7493300</a>
+- <a href="https://github.com/gl0bal01/zero-trust-lifestyle/commit/f375feed7428c360c58a27cb7f47c7b013124105">f375fee</a>
+- <a href="https://github.com/gl0bal01/zero-trust-lifestyle/commit/fde368c710958df1c93263a03a2ce3b7a060759b">fde368c</a>
 - <a href="https://github.com/gl0bal01/dorkhound/commit/c694bc7a9e5b9877ada0e95fa21537d1ecd4c4a2">c694bc7</a>
 - <a href="https://github.com/gl0bal01/dorkhound/commit/a50f2fbc3f0fe1c883ba3a1c95fbe8403f3f1c2f">a50f2fb</a>
 - <a href="https://github.com/gl0bal01/dorkhound/commit/4bc2111c247f69cfd266346511814925d67d8f23">4bc2111</a>
@@ -23,6 +30,7 @@ Commits:
 - <a href="https://github.com/gl0bal01/devbox/commit/7e45c250cedd0deee2389aa35c21cfd4bde8984a">7e45c25</a>
 - <a href="https://github.com/gl0bal01/llm-1minai/commit/270a8aab691ea6e6475a1ce500bed5279a595ecd">270a8aa</a>
 - <a href="https://github.com/gl0bal01/llm-1minai/commit/2f8aec76a4d3af1773a8bc0e10300216995eea79">2f8aec7</a>
+- <a href="https://github.com/gl0bal01/malware-analysis-claude-skills/commit/09f91e4d69d6d15629b9fa09c889b4b93c02bed5">09f91e4</a>
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/d0eb8c8c119e16838a589d4fac217d993559723c">d0eb8c8</a>
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/1fbdc95d3d08fcde319960a8e6535731cf24d057">1fbdc95</a>
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/4b482382f1ccac7444b56243fac2121fb3d69236">4b48238</a>
