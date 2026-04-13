@@ -1,6 +1,28 @@
 # All Releases
 
-Total releases: 19
+Total releases: 20
+
+---
+
+### [zero-trust-lifestyle v1.0.0 — Production hardening](https://github.com/gl0bal01/zero-trust-lifestyle/releases/tag/v1.0.0)
+
+▎ 33 bash scripts that automate OPSEC, meetings, Slack, relationships, and everything else a paranoid developer needs. Based on a true story.
+
+- **Tag:** v1.0.0
+- **Published:** 2026-04-12
+- **Repository:** [zero-trust-lifestyle](https://github.com/gl0bal01/zero-trust-lifestyle)
+- **Total releases in repo:** 1
+
+---
+
+### [malware-analysis-claude-skills v1.2.0 — Production-Readiness Pass](https://github.com/gl0bal01/malware-analysis-claude-skills/releases/tag/v1.2.0)
+
+Complete Claude skills toolkit for professional malware analysis. 5 specialized skills covering triage, dynamic analysis, detection engineering, and reporting. Works with   REMnux/FlareVM offline environments.
+
+- **Tag:** v1.2.0
+- **Published:** 2026-04-12
+- **Repository:** [malware-analysis-claude-skills](https://github.com/gl0bal01/malware-analysis-claude-skills)
+- **Total releases in repo:** 3
 
 ---
 
@@ -78,17 +100,6 @@ A powerful Discord bot for Open Source Intelligence (OSINT) gathering and analys
 - **Published:** 2026-03-19
 - **Repository:** [discord-osint-assistant](https://github.com/gl0bal01/discord-osint-assistant)
 - **Total releases in repo:** 1
-
----
-
-### [malware-analysis-claude-skills v1.0.0 — Initial Release](https://github.com/gl0bal01/malware-analysis-claude-skills/releases/tag/v1.0.0)
-
-Complete Claude skills toolkit for professional malware analysis. 5 specialized skills covering triage, dynamic analysis, detection engineering, and reporting. Works with   REMnux/FlareVM offline environments.
-
-- **Tag:** v1.0.0
-- **Published:** 2026-03-15
-- **Repository:** [malware-analysis-claude-skills](https://github.com/gl0bal01/malware-analysis-claude-skills)
-- **Total releases in repo:** 2
 
 ---
 
