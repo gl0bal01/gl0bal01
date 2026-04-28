@@ -4,7 +4,7 @@
 
 ### Writings
 
-- [Intel Codex Vault](https://github.com/gl0bal01/intel-codex): 28+ SOPs for digital investigators, security analysts, and OSINT practitioners
+- [Intel Codex Vault](https://github.com/gl0bal01/intel-codex): SOPs for digital investigators, security analysts, reserchers, and OSINT practitioners.
 - [Intel Codex Online](https://gl0bal01.com/intel-codex): [Investigations](https://gl0bal01.com/intel-codex/category/investigations) & [Techniques](https://gl0bal01.com/intel-codex/category/investigation-techniques) - [Security Analysis SOPs](https://gl0bal01.com/intel-codex/Security/Analysis/Analysis-Index) - [Penetration Testing SOPs](https://gl0bal01.com/intel-codex/Security/Pentesting/Pentesting-Index)
 - Practical Resources: [Cyber](https://gl0bal01.com/cyber), [Reverse](https://gl0bal01.com/reverse-engineering), [Osint](https://gl0bal01.com/osint), [Cheatsheets](https://gl0bal01.com/cheatsheets)
 
@@ -16,13 +16,14 @@
 
 ### Dev Tools
 
-- [Zero-Trust Lifestyle](https://github.com/gl0bal01/zero-trust-lifestyle): Bash scripts for the paranoid developer. Based on a true story.
+- [Pwndocker Reverse](https://github.com/gl0bal01/pwndocker-reverse): Complete CTF pwn/reverse-engineering Docker image.
 - [DevBox](https://github.com/gl0bal01/devbox): Security-hardened dev environment provisioning script with AI tooling and pentesting utilities included.
 - [Zellij Layouts](https://github.com/gl0bal01/zellij-layouts): Opinionated Zellij layouts for multi-project development, Docker workflows, and security operations.
 - [Black Box Architecture](https://github.com/gl0bal01/black-box-architecture): Transform any codebase into modular, maintainable "black boxes".
 - [Contract Agents](https://github.com/gl0bal01/contract-agents): AI agent configurations governed by a shared contract to reduce drift and improve consistency across engineering, design, marketing, and product tasks.
 - [WP Quick Dev](https://github.com/gl0bal01/wp-quick-dev): Get a fully functional WordPress setup with plugin/theme development workflow in under 60 seconds.
 - [Llm 1minAI](https://github.com/gl0bal01/llm-1minai): LLM plugin providing access to 66+ AI models through 1min.ai API with web search, mixed context, and persistent options.
+- [Zero-Trust Lifestyle](https://github.com/gl0bal01/zero-trust-lifestyle): Bash scripts for the paranoid developer. Based on a true story.
 
 ### Discord Bots
 
@@ -52,6 +53,7 @@
 - [Pocketflow Thumbnail Forge](https://github.com/gl0bal01/thumbnail-forge): Get click-optimized thumbnails for socials with 2 pics. 
 - [Pocketflow Internal Link](https://github.com/gl0bal01/pocketflow-internal-link): AI-powered internal linking suggestions for large editorial sites.
 - [Cygnus Trading Framework](https://github.com/gl0bal01/cygnus): A multi-strategy trading framework for Interactive Brokers.
+- [Ctf Warboard](https://github.com/gl0bal01/ctfd-warboard): A rate-limited CTFd parser with CLI + Discord bot for small-team collaboration.
 
 <!-- blog-post start -->
 ## Latest Blog Posts
