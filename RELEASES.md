@@ -4,6 +4,17 @@ Total releases: 20
 
 ---
 
+### [intel-codex Intel Codex - v2.0.0](https://github.com/gl0bal01/intel-codex/releases/tag/v2.0.0)
+
+Comprehensive operational knowledge base: OSINT, forensics, reverse engineering,   malware analysis, cryptography, smart-contract audit, cloud/AD/web pentesting,   blockchain tracing, and intelligence frameworks for security researchers and CTF players.
+
+- **Tag:** v2.0.0
+- **Published:** 2026-04-27
+- **Repository:** [intel-codex](https://github.com/gl0bal01/intel-codex)
+- **Total releases in repo:** 2
+
+---
+
 ### [zero-trust-lifestyle v1.0.0 — Production hardening](https://github.com/gl0bal01/zero-trust-lifestyle/releases/tag/v1.0.0)
 
 ▎ 33 bash scripts that automate OPSEC, meetings, Slack, relationships, and everything else a paranoid developer needs. Based on a true story.
@@ -154,17 +165,6 @@ Lightning-fast WordPress development environment for rapid plugin and theme prot
 - **Tag:** v1.0.0
 - **Published:** 2025-10-28
 - **Repository:** [wp-quick-dev](https://github.com/gl0bal01/wp-quick-dev)
-- **Total releases in repo:** 1
-
----
-
-### [intel-codex Intel Codex - v1.0.0](https://github.com/gl0bal01/intel-codex/releases/tag/v1.0.0)
-
-Comprehensive knowledge base covering osint, reverse engineering, malware analysis, cryptography and intelligence frameworks for security researchers
-
-- **Tag:** v1.0.0
-- **Published:** 2025-10-21
-- **Repository:** [intel-codex](https://github.com/gl0bal01/intel-codex)
 - **Total releases in repo:** 1
 
 ---
