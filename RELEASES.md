@@ -4,6 +4,17 @@ Total releases: 20
 
 ---
 
+### [discord-amazon-rekognition v1.1.0](https://github.com/gl0bal01/discord-amazon-rekognition/releases/tag/v1.1.0)
+
+A powerful Discord bot that leverages AWS Rekognition.
+
+- **Tag:** v1.1.0
+- **Published:** 2026-04-28
+- **Repository:** [discord-amazon-rekognition](https://github.com/gl0bal01/discord-amazon-rekognition)
+- **Total releases in repo:** 2
+
+---
+
 ### [intel-codex Intel Codex - v2.0.0](https://github.com/gl0bal01/intel-codex/releases/tag/v2.0.0)
 
 Comprehensive operational knowledge base: OSINT, forensics, reverse engineering,   malware analysis, cryptography, smart-contract audit, cloud/AD/web pentesting,   blockchain tracing, and intelligence frameworks for security researchers and CTF players.
@@ -187,17 +198,6 @@ A powerful Discord bot for creating and managing challenges with rewards and pro
 - **Tag:** v1.0.0
 - **Published:** 2025-06-25
 - **Repository:** [discord-judge-bot](https://github.com/gl0bal01/discord-judge-bot)
-- **Total releases in repo:** 1
-
----
-
-### [discord-amazon-rekognition v1.0.0](https://github.com/gl0bal01/discord-amazon-rekognition/releases/tag/v1.0.0)
-
-A powerful Discord bot that leverages AWS Rekognition.
-
-- **Tag:** v1.0.0
-- **Published:** 2025-06-23
-- **Repository:** [discord-amazon-rekognition](https://github.com/gl0bal01/discord-amazon-rekognition)
 - **Total releases in repo:** 1
 
 ---
