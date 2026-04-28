@@ -34,6 +34,11 @@ Commits:
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/d0eb8c8c119e16838a589d4fac217d993559723c">d0eb8c8</a>
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/1fbdc95d3d08fcde319960a8e6535731cf24d057">1fbdc95</a>
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/4b482382f1ccac7444b56243fac2121fb3d69236">4b48238</a>
+- <a href="https://github.com/gl0bal01/intel-codex/commit/1e64dba265b3054825d0e8452c7e423f3fcd0379">1e64dba</a>
+- <a href="https://github.com/gl0bal01/intel-codex/commit/149afe214182dda3102417cb8dd960640cadbb9c">149afe2</a>
+- <a href="https://github.com/gl0bal01/intel-codex/commit/2fbec80fb33be3efd4014b34aa6a39184a2df933">2fbec80</a>
+- <a href="https://github.com/gl0bal01/intel-codex/commit/2e47d70ada97c0eff18b55734479cc6688a94078">2e47d70</a>
+- <a href="https://github.com/gl0bal01/intel-codex/commit/4369e5b6d0b96b19f34c95a43886b4bf96027c79">4369e5b</a>
 - <a href="https://github.com/gl0bal01/discord-judge-bot/commit/129ec9e96f0ce94d71c6988c8aacccec9c9a5986">129ec9e</a>
 - <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/29a14ed79df579b4e65cfd8c935ff8107b0b1d12">29a14ed</a>
 - <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/46f8c48007448a381d82996e7524b0950d415b71">46f8c48</a>
