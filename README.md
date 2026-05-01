@@ -392,6 +392,7 @@
 
 
 
+
 ## OSINT & Cyber Games Community
 
 I run a Discord community for all skill levels — a place to explore funny cybersecurity **puzzles**, OSINT hunts, and capture-the-flag challenges in a friendly, collaborative environment.
