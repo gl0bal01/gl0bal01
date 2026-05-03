@@ -8,12 +8,6 @@
 - [Intel Codex Online](https://gl0bal01.com/intel-codex): [Investigations](https://gl0bal01.com/intel-codex/category/investigations) & [Techniques](https://gl0bal01.com/intel-codex/category/investigation-techniques) - [Security Analysis SOPs](https://gl0bal01.com/intel-codex/Security/Analysis/Analysis-Index) - [Penetration Testing SOPs](https://gl0bal01.com/intel-codex/Security/Pentesting/Pentesting-Index)
 - Practical Resources: [Cyber](https://gl0bal01.com/cyber), [Reverse](https://gl0bal01.com/reverse-engineering), [Osint](https://gl0bal01.com/osint), [Cheatsheets](https://gl0bal01.com/cheatsheets)
 
-### Security & Forensics
-
-- [Malware Analysis Claude](https://github.com/gl0bal01/malware-analysis-claude-skills): Package covering every phase of malware analysis from initial triage to production-ready detection rules.
-- [Volatility Toolkit](https://github.com/gl0bal01/volatility-toolkit): Automated memory forensics for Windows, Linux, and macOS - *[Legacy](https://github.com/gl0bal01/volatility-windows-analysis)*
-- [Scripts](https://github.com/gl0bal01/scripts): Image stega analysis, ghidra turbo, word permutator, user gen, ip2cidr...
-
 ### Dev Tools
 
 - [Pwndocker Reverse](https://github.com/gl0bal01/pwndocker-reverse): Complete CTF pwn/reverse-engineering Docker image.
@@ -23,7 +17,6 @@
 - [Contract Agents](https://github.com/gl0bal01/contract-agents): AI agent configurations governed by a shared contract to reduce drift and improve consistency across engineering, design, marketing, and product tasks.
 - [WP Quick Dev](https://github.com/gl0bal01/wp-quick-dev): Get a fully functional WordPress setup with plugin/theme development workflow in under 60 seconds.
 - [Llm 1minAI](https://github.com/gl0bal01/llm-1minai): LLM plugin providing access to 66+ AI models through 1min.ai API with web search, mixed context, and persistent options.
-- [Zero-Trust Lifestyle](https://github.com/gl0bal01/zero-trust-lifestyle): Bash scripts for the paranoid developer. Based on a true story.
 
 ### Discord Bots
 
@@ -43,6 +36,12 @@
 - [docusaurus-plugin-obsidian-vault](https://github.com/gl0bal01/docusaurus-plugin-obsidian-vault): Seamlessly integrate your Obsidian vault with Docusaurus
 - [docusaurus-plugin-multi-rss](https://github.com/gl0bal01/docusaurus-plugin-multi-rss): Aggregate multiple RSS feeds in your Docusaurus site
 
+### Security & Forensics
+
+- [Malware Analysis Claude](https://github.com/gl0bal01/malware-analysis-claude-skills): Package covering every phase of malware analysis from initial triage to production-ready detection rules.
+- [Volatility Toolkit](https://github.com/gl0bal01/volatility-toolkit): Automated memory forensics for Windows, Linux, and macOS - *[Legacy](https://github.com/gl0bal01/volatility-windows-analysis)*
+- [Scripts](https://github.com/gl0bal01/scripts): Image stega analysis, ghidra turbo, word permutator, user gen, ip2cidr...
+
 ### Oz
 - [Oracle](https://github.com/gl0bal01/brand-search): French brand intelligence platform — INPI trademark search, brand directories, and sponsored media detection.
 - [Scout](https://github.com/gl0bal01/scout-contracts): Merit-based content curation — LLM-scored RSS digests, pure signal, no fame bias.
@@ -54,6 +53,8 @@
 - [Pocketflow Internal Link](https://github.com/gl0bal01/pocketflow-internal-link): AI-powered internal linking suggestions for large editorial sites.
 - [Cygnus Trading Framework](https://github.com/gl0bal01/cygnus): A multi-strategy trading framework for Interactive Brokers.
 - [Ctf Warboard](https://github.com/gl0bal01/ctfd-warboard): A rate-limited CTFd parser with CLI + Discord bot for small-team collaboration.
+- [Zero-Trust Lifestyle](https://github.com/gl0bal01/zero-trust-lifestyle): Bash scripts for the paranoid developer. Based on a true story.
+- [YAP Platform](https://github.com/gl0bal01/yap-platform): A unified CTF challenge platform with Discord bot and web interface.
 
 <!-- blog-post start -->
 ## Latest Blog Posts
