@@ -4,6 +4,15 @@ Total releases: 20
 
 ---
 
+### [pai-anywhere v0.1.1: SSH-alias workflow + repo deslop](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.1.1)
+
+- **Tag:** v0.1.1
+- **Published:** 2026-05-03
+- **Repository:** [pai-anywhere](https://github.com/gl0bal01/pai-anywhere)
+- **Total releases in repo:** 1
+
+---
+
 ### [discord-amazon-rekognition v1.1.0](https://github.com/gl0bal01/discord-amazon-rekognition/releases/tag/v1.1.0)
 
 A powerful Discord bot that leverages AWS Rekognition.
@@ -23,17 +32,6 @@ Comprehensive operational knowledge base: OSINT, forensics, reverse engineering,
 - **Published:** 2026-04-27
 - **Repository:** [intel-codex](https://github.com/gl0bal01/intel-codex)
 - **Total releases in repo:** 2
-
----
-
-### [zero-trust-lifestyle v1.0.0 — Production hardening](https://github.com/gl0bal01/zero-trust-lifestyle/releases/tag/v1.0.0)
-
-▎ 33 bash scripts that automate OPSEC, meetings, Slack, relationships, and everything else a paranoid developer needs. Based on a true story.
-
-- **Tag:** v1.0.0
-- **Published:** 2026-04-12
-- **Repository:** [zero-trust-lifestyle](https://github.com/gl0bal01/zero-trust-lifestyle)
-- **Total releases in repo:** 1
 
 ---
 

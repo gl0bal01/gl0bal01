@@ -244,14 +244,15 @@
 <!-- releases start -->
 ## Latest Releases
 
+- [pai-anywhere v0.1.1: SSH-alias workflow + repo deslop](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.1.1) - 2026-05-03
 - [discord-amazon-rekognition v1.1.0](https://github.com/gl0bal01/discord-amazon-rekognition/releases/tag/v1.1.0) - 2026-04-28
 - [intel-codex Intel Codex - v2.0.0](https://github.com/gl0bal01/intel-codex/releases/tag/v2.0.0) - 2026-04-27
-- [zero-trust-lifestyle v1.0.0 — Production hardening](https://github.com/gl0bal01/zero-trust-lifestyle/releases/tag/v1.0.0) - 2026-04-12
 - [malware-analysis-claude-skills v1.2.0 — Production-Readiness Pass](https://github.com/gl0bal01/malware-analysis-claude-skills/releases/tag/v1.2.0) - 2026-04-12
 - [dorkhound v1.1.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.1.0) - 2026-04-11
 
 *Showing 5 of 20 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
 
 
 
