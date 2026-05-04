@@ -4,6 +4,28 @@ Total releases: 20
 
 ---
 
+### [devbox v0.3.0 — Optional hardening modules](https://github.com/gl0bal01/devbox/releases/tag/v0.3.0)
+
+DevBox: Zero-Trust Dev Environment with AI & Pentesting Built-In
+
+- **Tag:** v0.3.0
+- **Published:** 2026-05-04
+- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
+- **Total releases in repo:** 3
+
+---
+
+### [zellij-layouts v1.2.0 — Improve layout helpers](https://github.com/gl0bal01/zellij-layouts/releases/tag/v1.2.0)
+
+Perso Zellij layouts for multi-project development, Docker workflows, and security operations (pentest, malware   analysis, OSINT)
+
+- **Tag:** v1.2.0
+- **Published:** 2026-05-04
+- **Repository:** [zellij-layouts](https://github.com/gl0bal01/zellij-layouts)
+- **Total releases in repo:** 3
+
+---
+
 ### [pai-anywhere v0.1.1: SSH-alias workflow + repo deslop](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.1.1)
 
 - **Tag:** v0.1.1
@@ -79,17 +101,6 @@ Complete CTF pwn/reverse-engineering Docker image — 45+ tools, 5 disassemblers
 
 ---
 
-### [zellij-layouts v1.1.0 — CTF layout & alias fixes](https://github.com/gl0bal01/zellij-layouts/releases/tag/v1.1.0)
-
-Opinionated Zellij layouts for multi-project   development, Docker workflows, and security operations (pentest, malware   analysis, OSINT)
-
-- **Tag:** v1.1.0
-- **Published:** 2026-03-21
-- **Repository:** [zellij-layouts](https://github.com/gl0bal01/zellij-layouts)
-- **Total releases in repo:** 2
-
----
-
 ### [bookmarklets v2.0.0 — Website Recon Scanner & Documentation Overhaul](https://github.com/gl0bal01/bookmarklets/releases/tag/v2.0.0)
 
 9 JavaScript bookmarklets for OSINT, security research, and CTF — no install, no tracking, runs locally
@@ -120,17 +131,6 @@ A powerful Discord bot for Open Source Intelligence (OSINT) gathering and analys
 - **Published:** 2026-03-19
 - **Repository:** [discord-osint-assistant](https://github.com/gl0bal01/discord-osint-assistant)
 - **Total releases in repo:** 1
-
----
-
-### [devbox v0.2.0](https://github.com/gl0bal01/devbox/releases/tag/v0.2.0)
-
-DevBox: Zero-Trust Dev Environment with AI & Pentesting Built-In
-
-- **Tag:** v0.2.0
-- **Published:** 2026-02-05
-- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
-- **Total releases in repo:** 2
 
 ---
 
