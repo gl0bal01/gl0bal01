@@ -12,7 +12,7 @@
 
 - [Pwndocker Reverse](https://github.com/gl0bal01/pwndocker-reverse): Complete CTF pwn/reverse-engineering Docker image.
 - [DevBox](https://github.com/gl0bal01/devbox): Security-hardened dev environment provisioning script with AI tooling and pentesting utilities included.
-- [Zellij Layouts](https://github.com/gl0bal01/zellij-layouts): Opinionated Zellij layouts for multi-project development, Docker workflows, and security operations.
+- [Zellij Layouts](https://github.com/gl0bal01/zellij-layouts) - [Tmux Layouts](https://github.com/gl0bal01/tmux-layouts): Opinionated layouts for multi-project development, Docker workflows, and security operations.
 - [Black Box Architecture](https://github.com/gl0bal01/black-box-architecture): Transform any codebase into modular, maintainable "black boxes".
 - [Contract Agents](https://github.com/gl0bal01/contract-agents): AI agent configurations governed by a shared contract to reduce drift and improve consistency across engineering, design, marketing, and product tasks.
 - [WP Quick Dev](https://github.com/gl0bal01/wp-quick-dev): Get a fully functional WordPress setup with plugin/theme development workflow in under 60 seconds.
