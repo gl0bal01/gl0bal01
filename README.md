@@ -248,14 +248,15 @@
 <!-- releases start -->
 ## Latest Releases
 
+- [tmux-layouts v0.1.0 — first tagged release](https://github.com/gl0bal01/tmux-layouts/releases/tag/v0.1.0) - 2026-05-04
 - [devbox v0.3.0 — Optional hardening modules](https://github.com/gl0bal01/devbox/releases/tag/v0.3.0) - 2026-05-04
 - [zellij-layouts v1.2.0 — Improve layout helpers](https://github.com/gl0bal01/zellij-layouts/releases/tag/v1.2.0) - 2026-05-04
 - [pai-anywhere v0.1.1: SSH-alias workflow + repo deslop](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.1.1) - 2026-05-03
 - [discord-amazon-rekognition v1.1.0](https://github.com/gl0bal01/discord-amazon-rekognition/releases/tag/v1.1.0) - 2026-04-28
-- [intel-codex Intel Codex - v2.0.0](https://github.com/gl0bal01/intel-codex/releases/tag/v2.0.0) - 2026-04-27
 
-*Showing 5 of 20 releases* • [View More →](RELEASES.md)
+*Showing 5 of 21 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
 
 
 

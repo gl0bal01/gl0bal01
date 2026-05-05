@@ -1,6 +1,17 @@
 # All Releases
 
-Total releases: 20
+Total releases: 21
+
+---
+
+### [tmux-layouts v0.1.0 — first tagged release](https://github.com/gl0bal01/tmux-layouts/releases/tag/v0.1.0)
+
+Perso Tmux layouts for multi-project development, Docker workflows, and security operations (pentest, malware analysis, OSINT)
+
+- **Tag:** v0.1.0
+- **Published:** 2026-05-04
+- **Repository:** [tmux-layouts](https://github.com/gl0bal01/tmux-layouts)
+- **Total releases in repo:** 1
 
 ---
 
