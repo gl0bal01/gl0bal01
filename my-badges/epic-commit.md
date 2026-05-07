@@ -50,6 +50,8 @@ Commits:
 - <a href="https://github.com/gl0bal01/intel-codex/commit/2e47d70ada97c0eff18b55734479cc6688a94078">2e47d70</a>
 - <a href="https://github.com/gl0bal01/intel-codex/commit/4369e5b6d0b96b19f34c95a43886b4bf96027c79">4369e5b</a>
 - <a href="https://github.com/gl0bal01/discord-judge-bot/commit/129ec9e96f0ce94d71c6988c8aacccec9c9a5986">129ec9e</a>
+- <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/f04457ca4c8ceb8a8fd3a4cc8e6d84694a60cd3e">f04457c</a>
+- <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/eb528c8b3d9785b2fc46f85d5f18b240e2c5a4ee">eb528c8</a>
 - <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/29a14ed79df579b4e65cfd8c935ff8107b0b1d12">29a14ed</a>
 - <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/46f8c48007448a381d82996e7524b0950d415b71">46f8c48</a>
 - <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/e3c21503d90dc4abf4f6ea13683fc342822ca366">e3c2150</a>
