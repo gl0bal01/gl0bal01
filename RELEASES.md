@@ -1,6 +1,28 @@
 # All Releases
 
-Total releases: 21
+Total releases: 22
+
+---
+
+### [omi v0.1.0](https://github.com/gl0bal01/omi/releases/tag/v0.1.0)
+
+Single static Go CLI for the 1min.ai REST API — parallel multi-model consensus panel, Unix-pipe composition, typed model registry.
+
+- **Tag:** v0.1.0
+- **Published:** 2026-05-07
+- **Repository:** [omi](https://github.com/gl0bal01/omi)
+- **Total releases in repo:** 1
+
+---
+
+### [llm-1minai v0.4.1 — maintenance release](https://github.com/gl0bal01/llm-1minai/releases/tag/v0.4.1)
+
+LLM plugin providing access to AI models through 1min.ai API with web search, mixed context, and persistent options
+
+- **Tag:** v0.4.1
+- **Published:** 2026-05-07
+- **Repository:** [llm-1minai](https://github.com/gl0bal01/llm-1minai)
+- **Total releases in repo:** 3
 
 ---
 
@@ -141,17 +163,6 @@ A powerful Discord bot for Open Source Intelligence (OSINT) gathering and analys
 - **Tag:** v2.1.0
 - **Published:** 2026-03-19
 - **Repository:** [discord-osint-assistant](https://github.com/gl0bal01/discord-osint-assistant)
-- **Total releases in repo:** 1
-
----
-
-### [llm-1minai v.0.3.0](https://github.com/gl0bal01/llm-1minai/releases/tag/v.0.3.0)
-
-LLM plugin providing access to AI models through 1min.ai API with web search, mixed context, and persistent options
-
-- **Tag:** v.0.3.0
-- **Published:** 2025-11-16
-- **Repository:** [llm-1minai](https://github.com/gl0bal01/llm-1minai)
 - **Total releases in repo:** 1
 
 ---
