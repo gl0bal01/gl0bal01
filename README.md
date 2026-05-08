@@ -259,8 +259,9 @@
 - [devbox v0.3.0 — Optional hardening modules](https://github.com/gl0bal01/devbox/releases/tag/v0.3.0) - 2026-05-04
 - [zellij-layouts v1.2.0 — Improve layout helpers](https://github.com/gl0bal01/zellij-layouts/releases/tag/v1.2.0) - 2026-05-04
 
-*Showing 5 of 22 releases* • [View More →](RELEASES.md)
+*Showing 5 of 21 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
 
 
 

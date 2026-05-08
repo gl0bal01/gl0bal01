@@ -1,6 +1,6 @@
 # All Releases
 
-Total releases: 22
+Total releases: 21
 
 ---
 
@@ -196,17 +196,6 @@ Lightning-fast WordPress development environment for rapid plugin and theme prot
 - **Tag:** v1.0.0
 - **Published:** 2025-10-28
 - **Repository:** [wp-quick-dev](https://github.com/gl0bal01/wp-quick-dev)
-- **Total releases in repo:** 1
-
----
-
-### [discord-watchlists v1.0.0](https://github.com/gl0bal01/discord-watchlists/releases/tag/v1.0.0)
-
-Stay Ahead of Threats — Get Real-Time Ransomware, CVE, FBI & Europol Alerts in Your Discord Server.
-
-- **Tag:** v1.0.0
-- **Published:** 2025-07-01
-- **Repository:** [discord-watchlists](https://github.com/gl0bal01/discord-watchlists)
 - **Total releases in repo:** 1
 
 ---
