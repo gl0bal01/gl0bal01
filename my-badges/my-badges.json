@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 340 times)\n2. update (used 167 times)\n3. fix (used 129 times)\n4. new (used 117 times)\n5. added (used 90 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 337 times)\n2. update (used 167 times)\n3. fix (used 129 times)\n4. new (used 117 times)\n5. added (used 90 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,14 +66,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/dorkhound/commit/ba9b0d7c5b021d5886fafe1bbf204d79ccc0a967\">ba9b0d7</a>\n- <a href=\"https://github.com/gl0bal01/dorkhound/commit/409baa590c23f8ff851579605212a56021b8ab9d\">409baa5</a>\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/236191461632017dc26b7bdcdce2e3f30886076f\">2361914</a>\n- <a href=\"https://github.com/gl0bal01/docusaurus-plugin-multi-rss/commit/01de9b0dc1aa5b3a62e942e8973c9c37f5e6d126\">01de9b0</a>\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/1b70f807a426c7ae4b94c6b85b2478a461b2d71d\">1b70f80</a>\n- <a href=\"https://github.com/gl0bal01/wordpress-plugins/commit/96136baa3d7addb7cf20dc4d7ee32c1eef9e1cd1\">96136ba</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/dorkhound/commit/ba9b0d7c5b021d5886fafe1bbf204d79ccc0a967\">ba9b0d7</a>\n- <a href=\"https://github.com/gl0bal01/dorkhound/commit/409baa590c23f8ff851579605212a56021b8ab9d\">409baa5</a>\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/6d4a9f25cb82cb97738c3deabf18f7c248ff7c58\">6d4a9f2</a>\n- <a href=\"https://github.com/gl0bal01/docusaurus-plugin-multi-rss/commit/01de9b0dc1aa5b3a62e942e8973c9c37f5e6d126\">01de9b0</a>\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/b60aa1164b60d8ac13f6552d3130028a065754f3\">b60aa11</a>\n- <a href=\"https://github.com/gl0bal01/wordpress-plugins/commit/96136baa3d7addb7cf20dc4d7ee32c1eef9e1cd1\">96136ba</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/contract-agents/commit/4f5e656c5626289036ae3dbaae07d81eb37dd75a\">4f5e656</a>\n- <a href=\"https://github.com/gl0bal01/contract-agents/commit/9f66382ff967726c3a4d4e675afc18f41618f492\">9f66382</a>\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/491d20a836effdd24aa5425c2f44016dccbc23e3\">491d20a</a>\n- <a href=\"https://github.com/gl0bal01/devbox/commit/8524caf33221d3a04f0b2106ba62afca54da8ced\">8524caf</a>\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/bb63ff8c2363c4896da63cbd858a2633ca455767\">bb63ff8</a>\n- <a href=\"https://github.com/gl0bal01/wordpress-plugins/commit/5cd15007f68be8c54c32626afbdb516d3161170b\">5cd1500</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/contract-agents/commit/4f5e656c5626289036ae3dbaae07d81eb37dd75a\">4f5e656</a>\n- <a href=\"https://github.com/gl0bal01/contract-agents/commit/9f66382ff967726c3a4d4e675afc18f41618f492\">9f66382</a>\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/a6d9d703abd5fa427db7f629209c39f6a5937a20\">a6d9d70</a>\n- <a href=\"https://github.com/gl0bal01/devbox/commit/8524caf33221d3a04f0b2106ba62afca54da8ced\">8524caf</a>\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/605e8ff66a69a59f54f3d68dded72823c097b36f\">605e8ff</a>\n- <a href=\"https://github.com/gl0bal01/wordpress-plugins/commit/5cd15007f68be8c54c32626afbdb516d3161170b\">5cd1500</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -129,7 +129,7 @@
     "id": "st-patricks-day",
     "tier": 0,
     "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/61e96e44fbb78f63d930c548f10e3ba3a605a624\">61e96e4</a>\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/50070f01b32530fa55f0dda1c04988ebf18cdcf5\">50070f0</a>\n- <a href=\"https://github.com/gl0bal01/gl0bal01/commit/a2959061c69a231d9a20c6ec966165f52ee0a2a5\">a295906</a>\n- <a href=\"https://github.com/gl0bal01/dorkhound/commit/ba9b0d7c5b021d5886fafe1bbf204d79ccc0a967\">ba9b0d7</a>\n- <a href=\"https://github.com/gl0bal01/dorkhound/commit/409baa590c23f8ff851579605212a56021b8ab9d\">409baa5</a>\n- <a href=\"https://github.com/gl0bal01/dorkhound/commit/e2d66a30700dcf15c33d0ddac40ec59a8ff069ad\">e2d66a3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/2f2d78c986ff84623d42b29b4c6d3dc22678d2e8\">2f2d78c</a>\n- <a href=\"https://github.com/gl0bal01/gl0bal01.github.io/commit/83b27f674084baca0e04d5180a62a804581fecd3\">83b27f6</a>\n- <a href=\"https://github.com/gl0bal01/gl0bal01/commit/a2959061c69a231d9a20c6ec966165f52ee0a2a5\">a295906</a>\n- <a href=\"https://github.com/gl0bal01/dorkhound/commit/ba9b0d7c5b021d5886fafe1bbf204d79ccc0a967\">ba9b0d7</a>\n- <a href=\"https://github.com/gl0bal01/dorkhound/commit/409baa590c23f8ff851579605212a56021b8ab9d\">409baa5</a>\n- <a href=\"https://github.com/gl0bal01/dorkhound/commit/e2d66a30700dcf15c33d0ddac40ec59a8ff069ad\">e2d66a3</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   },
   {
