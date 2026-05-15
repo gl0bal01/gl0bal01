@@ -4,6 +4,15 @@ Total releases: 21
 
 ---
 
+### [pai-anywhere v0.2.0](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.2.0)
+
+- **Tag:** v0.2.0
+- **Published:** 2026-05-14
+- **Repository:** [pai-anywhere](https://github.com/gl0bal01/pai-anywhere)
+- **Total releases in repo:** 2
+
+---
+
 ### [omi v0.1.0](https://github.com/gl0bal01/omi/releases/tag/v0.1.0)
 
 Single static Go CLI for the 1min.ai REST API — parallel multi-model consensus panel, Unix-pipe composition, typed model registry.
@@ -56,15 +65,6 @@ Perso Zellij layouts for multi-project development, Docker workflows, and securi
 - **Published:** 2026-05-04
 - **Repository:** [zellij-layouts](https://github.com/gl0bal01/zellij-layouts)
 - **Total releases in repo:** 3
-
----
-
-### [pai-anywhere v0.1.1: SSH-alias workflow + repo deslop](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.1.1)
-
-- **Tag:** v0.1.1
-- **Published:** 2026-05-03
-- **Repository:** [pai-anywhere](https://github.com/gl0bal01/pai-anywhere)
-- **Total releases in repo:** 1
 
 ---
 

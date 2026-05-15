@@ -260,14 +260,15 @@
 <!-- releases start -->
 ## Latest Releases
 
+- [pai-anywhere v0.2.0](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.2.0) - 2026-05-14
 - [omi v0.1.0](https://github.com/gl0bal01/omi/releases/tag/v0.1.0) - 2026-05-07
 - [llm-1minai v0.4.1 — maintenance release](https://github.com/gl0bal01/llm-1minai/releases/tag/v0.4.1) - 2026-05-07
 - [tmux-layouts v0.1.0 — first tagged release](https://github.com/gl0bal01/tmux-layouts/releases/tag/v0.1.0) - 2026-05-04
 - [devbox v0.3.0 — Optional hardening modules](https://github.com/gl0bal01/devbox/releases/tag/v0.3.0) - 2026-05-04
-- [zellij-layouts v1.2.0 — Improve layout helpers](https://github.com/gl0bal01/zellij-layouts/releases/tag/v1.2.0) - 2026-05-04
 
 *Showing 5 of 21 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
 
 
 
