@@ -1,23 +1,42 @@
 **Security & OSINT practitioner — building investigation tools, AI agent systems, and automation pipelines.**
 
+![Streak](https://streak-stats.demolab.com/?user=gl0bal01&theme=dark)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gl0bal01&theme=dracula)
+
 ## Latest Projects
 
 ### Writings
 
-- [Intel Codex Vault](https://github.com/gl0bal01/intel-codex): SOPs for digital investigators, security analysts, reserchers, and OSINT practitioners.
-- [Intel Codex Online](https://gl0bal01.com/intel-codex): [Investigations](https://gl0bal01.com/intel-codex/category/investigations) & [Techniques](https://gl0bal01.com/intel-codex/category/investigation-techniques) - [Security Analysis SOPs](https://gl0bal01.com/intel-codex/Security/Analysis/Analysis-Index) - [Penetration Testing SOPs](https://gl0bal01.com/intel-codex/Security/Pentesting/Pentesting-Index)
+- [Intel Codex Vault](https://github.com/gl0bal01/intel-codex): 41 SOPs for digital investigators, security analysts, and OSINT practitioners
+- [Intel Codex Online](https://gl0bal01.com/intel-codex):
+  - [Investigations](https://gl0bal01.com/intel-codex/category/investigations) & [Techniques](https://gl0bal01.com/intel-codex/category/investigation-techniques)
+  - [Security Analysis SOPs](https://gl0bal01.com/intel-codex/Security/Analysis/Analysis-Index)
+  - [Penetration Testing SOPs](https://gl0bal01.com/intel-codex/Security/Pentesting/Pentesting-Index)
 - Practical Resources: [Cyber](https://gl0bal01.com/cyber), [Reverse](https://gl0bal01.com/reverse-engineering), [Osint](https://gl0bal01.com/osint), [Cheatsheets](https://gl0bal01.com/cheatsheets)
+
+### Security & Forensics
+
+- [Malware Analysis Claude](https://github.com/gl0bal01/malware-analysis-claude-skills): Package covering every phase of malware analysis from initial triage to production-ready detection rules.
+- [pwndocker-reverse](https://github.com/gl0bal01/pwndocker-reverse): Complete CTF pwn/reverse-engineering Docker image — 45+ tools, 5 disassemblers, GDB plugin switching, ready to go.
+- [Volatility Toolkit](https://github.com/gl0bal01/volatility-toolkit): Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolkit.
+- [Scripts](https://github.com/gl0bal01/scripts): Image stega analysis, ghidra turbo, word permutator, user gen, ip2cidr...
 
 ### Dev Tools
 
-- [Pwndocker Reverse](https://github.com/gl0bal01/pwndocker-reverse): Complete CTF pwn/reverse-engineering Docker image.
-- [DevBox](https://github.com/gl0bal01/devbox): Security-hardened dev environment provisioning script with AI tooling and pentesting utilities included.
-- [WP Quick Dev](https://github.com/gl0bal01/wp-quick-dev): Get a fully functional WordPress setup with plugin/theme development workflow in under 60 seconds.
-- [Contract Agents](https://github.com/gl0bal01/contract-agents): AI agent configurations governed by a shared contract to reduce drift and improve consistency across engineering, design, marketing, and product tasks.
+- [Zero-Trust Lifestyle](https://github.com/gl0bal01/zero-trust-lifestyle): Bash scripts for the paranoid developer. Based on a true story.
+- [DevBox](https://github.com/gl0bal01/devbox): Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
+- [Zellij Layouts](https://github.com/gl0bal01/zellij-layouts): Opinionated Zellij layouts for multi-project development, Docker workflows, and security operations.
+- [Tmux Layouts](https://github.com/gl0bal01/tmux-layouts): Tmux layouts for multi-project development, Docker workflows, and security operations.
 - [Black Box Architecture](https://github.com/gl0bal01/black-box-architecture): Transform any codebase into modular, maintainable "black boxes".
-- [Llm 1minAI](https://github.com/gl0bal01/llm-1minai): LLM plugin providing access AI models through 1min.ai API with web search, mixed context, and persistent options.
-- [Omi](https://github.com/gl0bal01/omi): Single static Go CLI for the 1min.ai REST API — parallel multi-model consensus panel, Unix-pipe composition, typed model registry.
-- Layouts ([Zellij](https://github.com/gl0bal01/zellij-layouts), [Tmux](https://github.com/gl0bal01/tmux-layouts)): Perso layouts for multi-project development, Docker workflows, and security operations (pentest, malware analysis, OSINT).
+- [WP Quick Dev](https://github.com/gl0bal01/wp-quick-dev): Get a fully functional WordPress setup with plugin/theme development workflow in under 60 seconds.
+
+### AI / LLM
+
+- [Contract Agents](https://github.com/gl0bal01/contract-agents): AI agent configurations governed by a shared contract to reduce drift and improve consistency across engineering, design, marketing, and product tasks.
+- [Llm 1minAI](https://github.com/gl0bal01/llm-1minai): LLM plugin providing access to 66+ AI models through 1min.ai API with web search, mixed context, and persistent options.
+- [omi](https://github.com/gl0bal01/omi): Single static Go CLI for 1min.ai REST API — parallel multi-model consensus panel, Unix-pipe composition, typed model registry.
+- [PAI Hermes](https://github.com/gl0bal01/pai-hermes): Hermes Agent bridge for PAI ecosystem — 7 skills + cron.
+- [PAI Anywhere](https://github.com/gl0bal01/pai-anywhere): One PAI on a VPS — type `pai` from any device, same memory and context every time.
 
 ### Discord Bots
 
@@ -29,6 +48,7 @@
 
 - [Bookmarklets](https://github.com/gl0bal01/bookmarklets): Curated Bookmarks for OSINT & Investigations
 - [DorkHound](https://github.com/gl0bal01/dorkhound): Fast Google dork URL generator for finding missing persons and TraceLab CTF competitions.
+- [CaseNotes SaaS](https://github.com/gl0bal01/casenotes-saas): OSINT investigation platform with team collaboration, cloud sync, and media storage.
 - [Discord OSINT Assistant](https://github.com/gl0bal01/discord-osint-assistant): Multi-tool Discord bot for Open Source Intelligence (OSINT) gathering and analysis.
 - [Discord AWS Rekognition](https://github.com/gl0bal01/discord-amazon-rekognition): Discord bot that leverages AWS Rekognition.
 
@@ -47,6 +67,8 @@
 - [Oracle](https://github.com/gl0bal01/brand-search): French brand intelligence platform — INPI trademark search, brand directories, and sponsored media detection.
 - [Scout](https://github.com/gl0bal01/scout-contracts): Merit-based content curation — LLM-scored RSS digests, pure signal, no fame bias.
 - [X-Bot](https://github.com/gl0bal01/x-bot): Autonomous X profile manager.
+- [Legend Engine](https://github.com/gl0bal01/legend-engine): Full-auto social presence for X, Reddit, LinkedIn — pulls from GitHub releases and Intel Codex, generates and posts via Claude.
+- [Character Hub](https://github.com/gl0bal01/discord-charactere-hub): Self-hostable multi-tenant Discord AI persona platform — structured Souls, per-channel routing, durable memory.
 - [CaseBandit](https://github.com/gl0bal01/CaseBandit): An OSINT investigation note-taking tool with browser extension and web app.
 - [Pocketflow Content Generator](https://github.com/gl0bal01/pocketflow-content-generator): 7-agent pipeline: Idea, Research, Writer, Image, SEO, Quality, and Publisher agents.
 - [Pocketflow Repurpose Machine](https://github.com/gl0bal01/pocketflow-repurpose-machine): Transforms existing content into platform-optimized outputs for 7 social and publishing channels.
@@ -433,10 +455,10 @@
 
 ## OSINT & Cyber Games Community
 
-I run a Discord community for all skill levels — a place to explore funny cybersecurity **puzzles**, OSINT hunts, and capture-the-flag challenges in a friendly, collaborative environment.
+I run a Discord community and CTF Platform for all skill levels — a place to explore funny cybersecurity **puzzles**, OSINT hunts, and capture-the-flag challenges in a friendly, collaborative environment.
 Join us, play, learn, and contribute your **own challenges**.
 
-**[Game list](CHALLENGES.md)** - [Join our Discord community](https://discord.gg/T5tc9Rq8DV)
+**[Learn & Play](https://lecodex.xyz)** - **[Game list](CHALLENGES.md)** - [Join our Discord community](https://discord.gg/T5tc9Rq8DV)
 
 
 
