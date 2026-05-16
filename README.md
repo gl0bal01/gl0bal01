@@ -1,7 +1,6 @@
 **Security & OSINT practitioner — building investigation tools, AI agent systems, and automation pipelines.**
 
 ![Streak](https://streak-stats.demolab.com/?user=gl0bal01&theme=dark)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gl0bal01&theme=dracula)
 
 ## Latest Projects
 
@@ -17,7 +16,7 @@
 ### Security & Forensics
 
 - [Malware Analysis Claude](https://github.com/gl0bal01/malware-analysis-claude-skills): Package covering every phase of malware analysis from initial triage to production-ready detection rules.
-- [pwndocker-reverse](https://github.com/gl0bal01/pwndocker-reverse): Complete CTF pwn/reverse-engineering Docker image — 45+ tools, 5 disassemblers, GDB plugin switching, ready to go.
+- [pwndocker-reverse](https://github.com/gl0bal01/pwndocker-reverse): Complete CTF pwn/reverse-engineering Docker image, ready to go.
 - [Volatility Toolkit](https://github.com/gl0bal01/volatility-toolkit): Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolkit. *[Legacy](https://github.com/gl0bal01/volatility-windows-analysis)*
 - [Scripts](https://github.com/gl0bal01/scripts): Image stega analysis, ghidra turbo, word permutator, user gen, ip2cidr...
 
@@ -48,7 +47,6 @@
 
 - [Bookmarklets](https://github.com/gl0bal01/bookmarklets): Curated Bookmarks for OSINT & Investigations
 - [DorkHound](https://github.com/gl0bal01/dorkhound): Fast Google dork URL generator for finding missing persons and TraceLab CTF competitions.
-- [CaseNotes SaaS](https://github.com/gl0bal01/casenotes-saas): OSINT investigation platform with team collaboration, cloud sync, and media storage.
 - [Discord OSINT Assistant](https://github.com/gl0bal01/discord-osint-assistant): Multi-tool Discord bot for Open Source Intelligence (OSINT) gathering and analysis.
 - [Discord AWS Rekognition](https://github.com/gl0bal01/discord-amazon-rekognition): Discord bot that leverages AWS Rekognition.
 
@@ -61,15 +59,15 @@
 - [Oracle](https://github.com/gl0bal01/brand-search): French brand intelligence platform — INPI trademark search, brand directories, and sponsored media detection.
 - [Scout](https://github.com/gl0bal01/scout-contracts): Merit-based content curation — LLM-scored RSS digests, pure signal, no fame bias.
 - [X-Bot](https://github.com/gl0bal01/x-bot): Autonomous X profile manager.
-- [Legend Engine](https://github.com/gl0bal01/legend-engine): Full-auto social presence for X, Reddit, LinkedIn — pulls from GitHub releases and Intel Codex, generates and posts via Claude.
+- [Legend Engine](https://github.com/gl0bal01/legend-engine): Full-auto social presence.
 - [Character Hub](https://github.com/gl0bal01/discord-charactere-hub): Self-hostable multi-tenant Discord AI persona platform — structured Souls, per-channel routing, durable memory.
-- [CaseBandit](https://github.com/gl0bal01/CaseBandit): An OSINT investigation note-taking tool with browser extension and web app.
+- [CaseNotes SaaS](https://github.com/gl0bal01/casenotes-saas): OSINT investigation platform with team collaboration, cloud sync, and media storage.
 - [Pocketflow Content Generator](https://github.com/gl0bal01/pocketflow-content-generator): 7-agent pipeline: Idea, Research, Writer, Image, SEO, Quality, and Publisher agents.
 - [Pocketflow Repurpose Machine](https://github.com/gl0bal01/pocketflow-repurpose-machine): Transforms existing content into platform-optimized outputs for 7 social and publishing channels.
 - [Pocketflow Thumbnail Forge](https://github.com/gl0bal01/thumbnail-forge): Get click-optimized thumbnails for socials with 2 pics. 
 - [Pocketflow Internal Link](https://github.com/gl0bal01/pocketflow-internal-link): AI-powered internal linking suggestions for large editorial sites.
 - [Cygnus Trading Framework](https://github.com/gl0bal01/cygnus): A multi-strategy trading framework for Interactive Brokers.
-- [YAP Platform](https://github.com/gl0bal01/yap-platform): Unified CTF challenge platform with Discord bot and web interface.
+- [YAP Platform](https://github.com/gl0bal01/yap-platform) ([site](https://lecodex.xyz)): Unified CTF challenge platform with Discord bot and web interface.
 <!-- blog-post start -->
 ## Latest Blog Posts
 
