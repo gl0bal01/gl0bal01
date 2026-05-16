@@ -18,7 +18,7 @@
 
 - [Malware Analysis Claude](https://github.com/gl0bal01/malware-analysis-claude-skills): Package covering every phase of malware analysis from initial triage to production-ready detection rules.
 - [pwndocker-reverse](https://github.com/gl0bal01/pwndocker-reverse): Complete CTF pwn/reverse-engineering Docker image — 45+ tools, 5 disassemblers, GDB plugin switching, ready to go.
-- [Volatility Toolkit](https://github.com/gl0bal01/volatility-toolkit): Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolkit.
+- [Volatility Toolkit](https://github.com/gl0bal01/volatility-toolkit): Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolkit. *[Legacy](https://github.com/gl0bal01/volatility-windows-analysis)*
 - [Scripts](https://github.com/gl0bal01/scripts): Image stega analysis, ghidra turbo, word permutator, user gen, ip2cidr...
 
 ### Dev Tools
@@ -57,12 +57,6 @@
 - [docusaurus-plugin-obsidian-vault](https://github.com/gl0bal01/docusaurus-plugin-obsidian-vault): Seamlessly integrate your Obsidian vault with Docusaurus
 - [docusaurus-plugin-multi-rss](https://github.com/gl0bal01/docusaurus-plugin-multi-rss): Aggregate multiple RSS feeds in your Docusaurus site
 
-### Security & Forensics
-
-- [Malware Analysis Claude](https://github.com/gl0bal01/malware-analysis-claude-skills): Package covering every phase of malware analysis from initial triage to production-ready detection rules.
-- [Volatility Toolkit](https://github.com/gl0bal01/volatility-toolkit): Automated memory forensics for Windows, Linux, and macOS - *[Legacy](https://github.com/gl0bal01/volatility-windows-analysis)*
-- [Scripts](https://github.com/gl0bal01/scripts): Image stega analysis, ghidra turbo, word permutator, user gen, ip2cidr...
-
 ### Oz
 - [Oracle](https://github.com/gl0bal01/brand-search): French brand intelligence platform — INPI trademark search, brand directories, and sponsored media detection.
 - [Scout](https://github.com/gl0bal01/scout-contracts): Merit-based content curation — LLM-scored RSS digests, pure signal, no fame bias.
@@ -75,10 +69,7 @@
 - [Pocketflow Thumbnail Forge](https://github.com/gl0bal01/thumbnail-forge): Get click-optimized thumbnails for socials with 2 pics. 
 - [Pocketflow Internal Link](https://github.com/gl0bal01/pocketflow-internal-link): AI-powered internal linking suggestions for large editorial sites.
 - [Cygnus Trading Framework](https://github.com/gl0bal01/cygnus): A multi-strategy trading framework for Interactive Brokers.
-- [Ctf Warboard](https://github.com/gl0bal01/ctfd-warboard): A rate-limited CTFd parser with CLI + Discord bot for small-team collaboration.
-- [Zero-Trust Lifestyle](https://github.com/gl0bal01/zero-trust-lifestyle): Bash scripts for the paranoid developer. Based on a true story.
-- [YAP Platform](https://github.com/gl0bal01/yap-platform): A unified CTF challenge platform with Discord bot and web interface.
-
+- [YAP Platform](https://github.com/gl0bal01/yap-platform): Unified CTF challenge platform with Discord bot and web interface.
 <!-- blog-post start -->
 ## Latest Blog Posts
 
@@ -86,7 +77,7 @@
 - **[Intel Codex v2.0: 41 SOPs, Cloud Forensics, and Blockchain Tracing](https://gl0bal01.com/blog/intel-codex-v2)** - Intel Codex v2.0 expands to 41 SOPs with 11 new procedures covering cloud forensics, SaaS log analysis, blockchain tracing, mixer attribution, and container/Kubernetes pentesting....
 - **[pwndocker-reverse: One Docker Image for CTF Pwn and Reverse Engineering](https://gl0bal01.com/blog/pwndocker-reverse)** - A single Dockerfile with 45+ pwn and reverse-engineering tools — 7 disassemblers, 3 GDB plugins with instant switching, AFL++, frida, and a pre-populated command history. Rebuilt weekly and signed wit...
 - **[Volatility Toolkit v2: Automated Memory Forensics for Windows, Linux, and macOS](https://gl0bal01.com/blog/volatility-toolkit)** - Automated Volatility 3 wrapper for Windows, Linux, and macOS memory dumps. Auto-detects OS, runs 30/21/20 plugins in parallel, extracts IOCs, generates structured reports with chain-of-custody checksu...
-- **[zero-trust-lifestyle: 33 Bash Scripts That Automate Everything You're Too Paranoid to Leave to Chance](https://gl0bal01.com/blog/zero-trust-lifestyle)** - 33 bash scripts covering OPSEC checks, meeting survival, git secret scanning, canary tokens, focus enforcement, and relationship reminders. The v1.0.0 release ships with critical security hardening —...
+- **[zero-trust-lifestyle: 33 Bash Scripts That Automate Everything You’re Too Paranoid to Leave to Chance](https://gl0bal01.com/blog/zero-trust-lifestyle)** - 33 bash scripts covering OPSEC checks, meeting survival, git secret scanning, canary tokens, focus enforcement, and relationship reminders. The v1.0.0 release ships with critical security hardening —...
 
 [**View More →**](https://gl0bal01.com/blog/)
 <!-- blog-post end -->
