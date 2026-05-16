@@ -1,6 +1,28 @@
 # All Releases
 
-Total releases: 21
+Total releases: 22
+
+---
+
+### [pai-hermes v0.1.1 — review-driven fixes](https://github.com/gl0bal01/pai-hermes/releases/tag/v0.1.1)
+
+Hermes Agent bridge for PAI ecosystem (7 skills + cron)
+
+- **Tag:** v0.1.1
+- **Published:** 2026-05-16
+- **Repository:** [pai-hermes](https://github.com/gl0bal01/pai-hermes)
+- **Total releases in repo:** 2
+
+---
+
+### [devbox Weekly rebuild weekly-20260516](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260516)
+
+Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
+
+- **Tag:** weekly-20260516
+- **Published:** 2026-05-16
+- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
+- **Total releases in repo:** 1
 
 ---
 
@@ -43,17 +65,6 @@ Perso Tmux layouts for multi-project development, Docker workflows, and security
 - **Published:** 2026-05-04
 - **Repository:** [tmux-layouts](https://github.com/gl0bal01/tmux-layouts)
 - **Total releases in repo:** 1
-
----
-
-### [devbox v0.3.0 — Optional hardening modules](https://github.com/gl0bal01/devbox/releases/tag/v0.3.0)
-
-DevBox: Zero-Trust Dev Environment with AI & Pentesting Built-In
-
-- **Tag:** v0.3.0
-- **Published:** 2026-05-04
-- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
-- **Total releases in repo:** 3
 
 ---
 
