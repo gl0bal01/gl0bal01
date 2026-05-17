@@ -4,6 +4,17 @@ Total releases: 22
 
 ---
 
+### [omi v0.1.1](https://github.com/gl0bal01/omi/releases/tag/v0.1.1)
+
+Single static Go CLI for the 1min.ai REST API — parallel multi-model consensus panel, Unix-pipe composition, typed model registry.
+
+- **Tag:** v0.1.1
+- **Published:** 2026-05-16
+- **Repository:** [omi](https://github.com/gl0bal01/omi)
+- **Total releases in repo:** 2
+
+---
+
 ### [pai-hermes v0.1.1 — review-driven fixes](https://github.com/gl0bal01/pai-hermes/releases/tag/v0.1.1)
 
 Hermes Agent bridge for PAI ecosystem (7 skills + cron)
@@ -32,17 +43,6 @@ Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 
 - **Published:** 2026-05-14
 - **Repository:** [pai-anywhere](https://github.com/gl0bal01/pai-anywhere)
 - **Total releases in repo:** 2
-
----
-
-### [omi v0.1.0](https://github.com/gl0bal01/omi/releases/tag/v0.1.0)
-
-Single static Go CLI for the 1min.ai REST API — parallel multi-model consensus panel, Unix-pipe composition, typed model registry.
-
-- **Tag:** v0.1.0
-- **Published:** 2026-05-07
-- **Repository:** [omi](https://github.com/gl0bal01/omi)
-- **Total releases in repo:** 1
 
 ---
 
