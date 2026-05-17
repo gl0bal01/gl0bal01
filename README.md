@@ -67,7 +67,7 @@
 - [Pocketflow Thumbnail Forge](https://github.com/gl0bal01/thumbnail-forge): Get click-optimized thumbnails for socials with 2 pics. 
 - [Pocketflow Internal Link](https://github.com/gl0bal01/pocketflow-internal-link): AI-powered internal linking suggestions for large editorial sites.
 - [Cygnus Trading Framework](https://github.com/gl0bal01/cygnus): A multi-strategy trading framework for Interactive Brokers.
-- [YAP Platform](https://github.com/gl0bal01/yap-platform) ([site](https://lecodex.xyz)): Unified CTF challenge platform with Discord bot and web interface.
+- [YAP Platform](https://github.com/gl0bal01/yap-platform) ([site](https://youareplayer.com)): Unified CTF challenge platform with Discord bot and web interface.
 <!-- blog-post start -->
 ## Latest Blog Posts
 
@@ -453,7 +453,7 @@
 I run a Discord community and CTF Platform for all skill levels — a place to explore funny cybersecurity **puzzles**, OSINT hunts, and capture-the-flag challenges in a friendly, collaborative environment.
 Join us, play, learn, and contribute your **own challenges**.
 
-**[Learn & Play](https://lecodex.xyz)** - **[Game list](CHALLENGES.md)** - [Join our Discord community](https://discord.gg/T5tc9Rq8DV)
+**[Learn & Play](https://youareplayer.com)** - **[Game list](CHALLENGES.md)** - [Join our Discord community](https://discord.gg/T5tc9Rq8DV)
 
 
 
