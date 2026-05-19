@@ -8,6 +8,7 @@ Commits:
 - <a href="https://github.com/gl0bal01/pai-hermes/commit/83af01514deb603e5dc42c4f8710b2565b9dd4f8">83af015</a>
 - <a href="https://github.com/gl0bal01/devbox/commit/b094b1c7572977afd5626d2116c188e984a20b16">b094b1c</a>
 - <a href="https://github.com/gl0bal01/devbox/commit/4a3a63a7c92ff4ff97b9e3eba81bbf98da290c49">4a3a63a</a>
+- <a href="https://github.com/gl0bal01/omi/commit/26e5738f61bb717b4aa93d68cd2b449398a09506">26e5738</a>
 - <a href="https://github.com/gl0bal01/omi/commit/d823140fbbb5b033d31fac7ed13a8a0af852e71a">d823140</a>
 - <a href="https://github.com/gl0bal01/omi/commit/79a2ced6e53b3245f5876ca3ef046bad9b6ff356">79a2ced</a>
 - <a href="https://github.com/gl0bal01/tmux-layouts/commit/afb5595293ffc39cde473a752b7fb7260db4092c">afb5595</a>
@@ -20,8 +21,10 @@ Commits:
 - <a href="https://github.com/gl0bal01/pai-anywhere/commit/e9c9a7bfdf074f92edb7b2efded67ea24262db4c">e9c9a7b</a>
 - <a href="https://github.com/gl0bal01/pai-anywhere/commit/54384193d07d4509ce44f4cc7909253316399fa4">5438419</a>
 - <a href="https://github.com/gl0bal01/pai-anywhere/commit/b5a6c21ee834f5ea89dbe56098b4fe44b422470c">b5a6c21</a>
+- <a href="https://github.com/gl0bal01/pwndocker-reverse/commit/c17f07b3f899ba6ea372dcee94ec5c837c0bd930">c17f07b</a>
 - <a href="https://github.com/gl0bal01/pwndocker-reverse/commit/a58461d2e1605d0a621b96be8203fdc99b0d5b2b">a58461d</a>
 - <a href="https://github.com/gl0bal01/pwndocker-reverse/commit/a46afac73f1d6d9b2070a20b9926e096fbeb6220">a46afac</a>
+- <a href="https://github.com/gl0bal01/volatility-toolkit/commit/074916d6fce610f54c889150972d39c3c80f34fd">074916d</a>
 - <a href="https://github.com/gl0bal01/volatility-toolkit/commit/88a1063ac2c1416bdf9e65ab34b9534c05d72e48">88a1063</a>
 - <a href="https://github.com/gl0bal01/dorkhound/commit/51fff5cb34dac96fd23e25c28d651cdf40018bbc">51fff5c</a>
 - <a href="https://github.com/gl0bal01/dorkhound/commit/c694bc7a9e5b9877ada0e95fa21537d1ecd4c4a2">c694bc7</a>
@@ -50,6 +53,8 @@ Commits:
 - <a href="https://github.com/gl0bal01/intel-codex/commit/2fbec80fb33be3efd4014b34aa6a39184a2df933">2fbec80</a>
 - <a href="https://github.com/gl0bal01/intel-codex/commit/2e47d70ada97c0eff18b55734479cc6688a94078">2e47d70</a>
 - <a href="https://github.com/gl0bal01/intel-codex/commit/4369e5b6d0b96b19f34c95a43886b4bf96027c79">4369e5b</a>
+- <a href="https://github.com/gl0bal01/wp-quick-dev/commit/5d711dbc77b8c6b6b59459173a8be6a10cfc5182">5d711db</a>
+- <a href="https://github.com/gl0bal01/wp-quick-dev/commit/9cb4eeedb3ca5ec0f67978370911ead7f281660f">9cb4eee</a>
 - <a href="https://github.com/gl0bal01/discord-judge-bot/commit/129ec9e96f0ce94d71c6988c8aacccec9c9a5986">129ec9e</a>
 - <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/f04457ca4c8ceb8a8fd3a4cc8e6d84694a60cd3e">f04457c</a>
 - <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/eb528c8b3d9785b2fc46f85d5f18b240e2c5a4ee">eb528c8</a>

@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/gl0bal01/contract-agents/commit/4f5e656c5626289036ae3dbaae07d81eb37dd75a">4f5e656</a>
-- <a href="https://github.com/gl0bal01/contract-agents/commit/9f66382ff967726c3a4d4e675afc18f41618f492">9f66382</a>
-- <a href="https://github.com/gl0bal01/gl0bal01.github.io/commit/a6d9d703abd5fa427db7f629209c39f6a5937a20">a6d9d70</a>
-- <a href="https://github.com/gl0bal01/gl0bal01.github.io/commit/605e8ff66a69a59f54f3d68dded72823c097b36f">605e8ff</a>
-- <a href="https://github.com/gl0bal01/wordpress-plugins/commit/5cd15007f68be8c54c32626afbdb516d3161170b">5cd1500</a>
-- <a href="https://github.com/gl0bal01/intel-codex/commit/e772ef04354a685b149f11dbb5252b9e16636653">e772ef0</a>
+- <a href="https://github.com/gl0bal01/volatility-toolkit/commit/ffee829bccb38ed0ee61be405828cdc6a63429e5">ffee829</a>
+- <a href="https://github.com/gl0bal01/volatility-toolkit/commit/1ae7d563c1bbd21eede117246a5d2c54d265b4d6">1ae7d56</a>
+- <a href="https://github.com/gl0bal01/volatility-toolkit/commit/074916d6fce610f54c889150972d39c3c80f34fd">074916d</a>
+- <a href="https://github.com/gl0bal01/pwndocker-reverse/commit/2d65bbcd2dd02158687184aae564fb56d7106b08">2d65bbc</a>
+- <a href="https://github.com/gl0bal01/pwndocker-reverse/commit/c17f07b3f899ba6ea372dcee94ec5c837c0bd930">c17f07b</a>
+- <a href="https://github.com/gl0bal01/wp-quick-dev/commit/5d711dbc77b8c6b6b59459173a8be6a10cfc5182">5d711db</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -4,21 +4,16 @@
 
 Commits:
 
-- <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/17aa4c7b321b68364f492aff26c60e0c84136983">17aa4c7</a>: fix: address code review findings
+- <a href="https://github.com/gl0bal01/volatility-toolkit/commit/ffee829bccb38ed0ee61be405828cdc6a63429e5">ffee829</a>: Fix output-path validation when parent dir doesn't exist
 
-- Convert health.js from exec to safeSpawn for tool availability checks
-- Add shell:false + SIGKILL fallback to linkook.js spawn call
-- Fix error.message leaks in maigret, sherlock, exif (generic msgs now)
-- Fix XSS in nike.js HTML report with escapeHtml
-- Remove global flag from regexes in containsMaliciousPatterns (.test() bug)
+On systems where the candidate parent doesn't exist (e.g. /proc on macOS),
+the previous one-liner left the resolved path malformed (e.g. "/bad"
+instead of "/proc/bad"), letting the blacklist miss it. Fall back to the
+literal argument when cd-then-pwd fails.
+- <a href="https://github.com/gl0bal01/volatility-toolkit/commit/1ae7d563c1bbd21eede117246a5d2c54d265b4d6">1ae7d56</a>: Fix mktemp portability in tests for macOS runner
 
-Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>
-- <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/581319ce216aae61f59bb8c4f0dfb9d645617c37">581319c</a>: fix: Nike token in-memory cache, remove last dotenv call
-
-- Replace plaintext Nike token file storage with in-memory cache + TTL
-- Remove redundant dotenv call from pappers.js
-
-Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>
+BSD mktemp (macOS) doesn't accept GNU's --suffix flag. Use mktemp -d
+plus a staged .raw file inside instead.
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
