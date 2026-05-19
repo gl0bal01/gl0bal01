@@ -278,14 +278,15 @@
 <!-- releases start -->
 ## Latest Releases
 
-- [omi v0.1.1](https://github.com/gl0bal01/omi/releases/tag/v0.1.1) - 2026-05-16
-- [pai-hermes v0.1.1 — review-driven fixes](https://github.com/gl0bal01/pai-hermes/releases/tag/v0.1.1) - 2026-05-16
-- [devbox Weekly rebuild weekly-20260516](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260516) - 2026-05-16
-- [pai-anywhere v0.2.0](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.2.0) - 2026-05-14
-- [llm-1minai v0.4.1 — maintenance release](https://github.com/gl0bal01/llm-1minai/releases/tag/v0.4.1) - 2026-05-07
+- [omi v0.1.2](https://github.com/gl0bal01/omi/releases/tag/v0.1.2) - 2026-05-18
+- [pwndocker-reverse v0.1.0 — Initial Release](https://github.com/gl0bal01/pwndocker-reverse/releases/tag/v0.1.0) - 2026-05-18
+- [volatility-toolkit v2.1.1 — Address code review findings](https://github.com/gl0bal01/volatility-toolkit/releases/tag/v2.1.1) - 2026-05-18
+- [devbox Weekly rebuild weekly-20260518](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260518) - 2026-05-18
+- [wp-quick-dev v1.1.0 - Security and reliability hardening](https://github.com/gl0bal01/wp-quick-dev/releases/tag/v1.1.0) - 2026-05-18
 
-*Showing 5 of 22 releases* • [View More →](RELEASES.md)
+*Showing 5 of 23 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
 
 
 

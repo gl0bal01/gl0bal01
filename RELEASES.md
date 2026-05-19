@@ -1,16 +1,60 @@
 # All Releases
 
-Total releases: 22
+Total releases: 23
 
 ---
 
-### [omi v0.1.1](https://github.com/gl0bal01/omi/releases/tag/v0.1.1)
+### [omi v0.1.2](https://github.com/gl0bal01/omi/releases/tag/v0.1.2)
 
 Single static Go CLI for the 1min.ai REST API — parallel multi-model consensus panel, Unix-pipe composition, typed model registry.
 
-- **Tag:** v0.1.1
-- **Published:** 2026-05-16
+- **Tag:** v0.1.2
+- **Published:** 2026-05-18
 - **Repository:** [omi](https://github.com/gl0bal01/omi)
+- **Total releases in repo:** 3
+
+---
+
+### [pwndocker-reverse v0.1.0 — Initial Release](https://github.com/gl0bal01/pwndocker-reverse/releases/tag/v0.1.0)
+
+Complete CTF pwn/reverse-engineering Docker image — 45+ tools, 5 disassemblers, GDB plugin switching, ready to go
+
+- **Tag:** v0.1.0
+- **Published:** 2026-05-18
+- **Repository:** [pwndocker-reverse](https://github.com/gl0bal01/pwndocker-reverse)
+- **Total releases in repo:** 1
+
+---
+
+### [volatility-toolkit v2.1.1 — Address code review findings](https://github.com/gl0bal01/volatility-toolkit/releases/tag/v2.1.1)
+
+Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolkit
+
+- **Tag:** v2.1.1
+- **Published:** 2026-05-18
+- **Repository:** [volatility-toolkit](https://github.com/gl0bal01/volatility-toolkit)
+- **Total releases in repo:** 1
+
+---
+
+### [devbox Weekly rebuild weekly-20260518](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260518)
+
+Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
+
+- **Tag:** weekly-20260518
+- **Published:** 2026-05-18
+- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
+- **Total releases in repo:** 2
+
+---
+
+### [wp-quick-dev v1.1.0 - Security and reliability hardening](https://github.com/gl0bal01/wp-quick-dev/releases/tag/v1.1.0)
+
+Lightning-fast WordPress development environment for rapid plugin and theme prototyping. Docker-based, cross-platform, with integrated tools for modern WordPress development.
+
+- **Tag:** v1.1.0
+- **Published:** 2026-05-18
+- **Repository:** [wp-quick-dev](https://github.com/gl0bal01/wp-quick-dev)
 - **Total releases in repo:** 2
 
 ---
@@ -23,17 +67,6 @@ Hermes Agent bridge for PAI ecosystem (7 skills + cron)
 - **Published:** 2026-05-16
 - **Repository:** [pai-hermes](https://github.com/gl0bal01/pai-hermes)
 - **Total releases in repo:** 2
-
----
-
-### [devbox Weekly rebuild weekly-20260516](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260516)
-
-Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
-
-- **Tag:** weekly-20260516
-- **Published:** 2026-05-16
-- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
-- **Total releases in repo:** 1
 
 ---
 
@@ -134,17 +167,6 @@ Governance system for 52 specialized agents under a single contract: aligned, co
 
 ---
 
-### [pwndocker-reverse v1.0.0](https://github.com/gl0bal01/pwndocker-reverse/releases/tag/v1.0.0)
-
-Complete CTF pwn/reverse-engineering Docker image — 45+ tools, 5 disassemblers, GDB plugin switching, ready to go
-
-- **Tag:** v1.0.0
-- **Published:** 2026-03-23
-- **Repository:** [pwndocker-reverse](https://github.com/gl0bal01/pwndocker-reverse)
-- **Total releases in repo:** 1
-
----
-
 ### [bookmarklets v2.0.0 — Website Recon Scanner & Documentation Overhaul](https://github.com/gl0bal01/bookmarklets/releases/tag/v2.0.0)
 
 9 JavaScript bookmarklets for OSINT, security research, and CTF — no install, no tracking, runs locally
@@ -196,17 +218,6 @@ A Docusaurus plugin that seamlessly integrates your Obsidian vault with Docusaur
 - **Tag:** v1.0.0
 - **Published:** 2025-11-06
 - **Repository:** [docusaurus-plugin-obsidian-vault](https://github.com/gl0bal01/docusaurus-plugin-obsidian-vault)
-- **Total releases in repo:** 1
-
----
-
-### [wp-quick-dev - v1.0.0](https://github.com/gl0bal01/wp-quick-dev/releases/tag/v1.0.0)
-
-Lightning-fast WordPress development environment for rapid plugin and theme prototyping. Docker-based, cross-platform, with integrated tools for modern WordPress development.
-
-- **Tag:** v1.0.0
-- **Published:** 2025-10-28
-- **Repository:** [wp-quick-dev](https://github.com/gl0bal01/wp-quick-dev)
 - **Total releases in repo:** 1
 
 ---
