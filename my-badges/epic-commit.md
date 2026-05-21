@@ -26,6 +26,8 @@ Commits:
 - <a href="https://github.com/gl0bal01/pwndocker-reverse/commit/a46afac73f1d6d9b2070a20b9926e096fbeb6220">a46afac</a>
 - <a href="https://github.com/gl0bal01/volatility-toolkit/commit/074916d6fce610f54c889150972d39c3c80f34fd">074916d</a>
 - <a href="https://github.com/gl0bal01/volatility-toolkit/commit/88a1063ac2c1416bdf9e65ab34b9534c05d72e48">88a1063</a>
+- <a href="https://github.com/gl0bal01/dorkhound/commit/d1a24a65942c38531bebdd23bf658ede4feb8460">d1a24a6</a>
+- <a href="https://github.com/gl0bal01/dorkhound/commit/a8911fe0a170f73ea018b8467a17d783497d13b5">a8911fe</a>
 - <a href="https://github.com/gl0bal01/dorkhound/commit/51fff5cb34dac96fd23e25c28d651cdf40018bbc">51fff5c</a>
 - <a href="https://github.com/gl0bal01/dorkhound/commit/c694bc7a9e5b9877ada0e95fa21537d1ecd4c4a2">c694bc7</a>
 - <a href="https://github.com/gl0bal01/dorkhound/commit/a50f2fbc3f0fe1c883ba3a1c95fbe8403f3f1c2f">a50f2fb</a>
