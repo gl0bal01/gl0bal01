@@ -4,6 +4,17 @@ Total releases: 23
 
 ---
 
+### [dorkhound v1.2.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.2.0)
+
+Fast Google dork URL generator for finding missing persons and TraceLab CTF competitions
+
+- **Tag:** v1.2.0
+- **Published:** 2026-05-20
+- **Repository:** [dorkhound](https://github.com/gl0bal01/dorkhound)
+- **Total releases in repo:** 3
+
+---
+
 ### [omi v0.1.2](https://github.com/gl0bal01/omi/releases/tag/v0.1.2)
 
 Single static Go CLI for the 1min.ai REST API — parallel multi-model consensus panel, Unix-pipe composition, typed model registry.
@@ -142,17 +153,6 @@ Complete Claude skills toolkit for professional malware analysis. 5 specialized 
 - **Published:** 2026-04-12
 - **Repository:** [malware-analysis-claude-skills](https://github.com/gl0bal01/malware-analysis-claude-skills)
 - **Total releases in repo:** 3
-
----
-
-### [dorkhound v1.1.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.1.0)
-
-Fast Google dork URL generator for finding missing persons and TraceLab CTF competitions
-
-- **Tag:** v1.1.0
-- **Published:** 2026-04-11
-- **Repository:** [dorkhound](https://github.com/gl0bal01/dorkhound)
-- **Total releases in repo:** 2
 
 ---
 
