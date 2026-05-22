@@ -4,6 +4,17 @@ Total releases: 23
 
 ---
 
+### [discord-osint-assistant v2.2.0 — Observability, Ops & Hardening](https://github.com/gl0bal01/discord-osint-assistant/releases/tag/v2.2.0)
+
+A powerful Discord bot for Open Source Intelligence (OSINT) gathering and analysis
+
+- **Tag:** v2.2.0
+- **Published:** 2026-05-21
+- **Repository:** [discord-osint-assistant](https://github.com/gl0bal01/discord-osint-assistant)
+- **Total releases in repo:** 2
+
+---
+
 ### [dorkhound v1.2.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.2.0)
 
 Fast Google dork URL generator for finding missing persons and TraceLab CTF competitions
@@ -186,17 +197,6 @@ A Discord bot using 1min api that provides AI chat functionality with multiple m
 - **Published:** 2026-03-20
 - **Repository:** [discord-ai-assistant](https://github.com/gl0bal01/discord-ai-assistant)
 - **Total releases in repo:** 2
-
----
-
-### [discord-osint-assistant v2.1.0 — Security Hardening & Production Readiness](https://github.com/gl0bal01/discord-osint-assistant/releases/tag/v2.1.0)
-
-A powerful Discord bot for Open Source Intelligence (OSINT) gathering and analysis
-
-- **Tag:** v2.1.0
-- **Published:** 2026-03-19
-- **Repository:** [discord-osint-assistant](https://github.com/gl0bal01/discord-osint-assistant)
-- **Total releases in repo:** 1
 
 ---
 

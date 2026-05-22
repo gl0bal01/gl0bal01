@@ -281,14 +281,15 @@
 <!-- releases start -->
 ## Latest Releases
 
+- [discord-osint-assistant v2.2.0 — Observability, Ops & Hardening](https://github.com/gl0bal01/discord-osint-assistant/releases/tag/v2.2.0) - 2026-05-21
 - [dorkhound v1.2.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.2.0) - 2026-05-20
 - [omi v0.1.2](https://github.com/gl0bal01/omi/releases/tag/v0.1.2) - 2026-05-18
 - [pwndocker-reverse v0.1.0 — Initial Release](https://github.com/gl0bal01/pwndocker-reverse/releases/tag/v0.1.0) - 2026-05-18
 - [volatility-toolkit v2.1.1 — Address code review findings](https://github.com/gl0bal01/volatility-toolkit/releases/tag/v2.1.1) - 2026-05-18
-- [devbox Weekly rebuild weekly-20260518](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260518) - 2026-05-18
 
 *Showing 5 of 23 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
 
 
 
