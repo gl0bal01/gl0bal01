@@ -4,6 +4,17 @@ Total releases: 23
 
 ---
 
+### [devbox Weekly rebuild weekly-20260525](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260525)
+
+Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
+
+- **Tag:** weekly-20260525
+- **Published:** 2026-05-25
+- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
+- **Total releases in repo:** 3
+
+---
+
 ### [discord-osint-assistant v2.2.0 — Observability, Ops & Hardening](https://github.com/gl0bal01/discord-osint-assistant/releases/tag/v2.2.0)
 
 A powerful Discord bot for Open Source Intelligence (OSINT) gathering and analysis
@@ -56,17 +67,6 @@ Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolki
 - **Published:** 2026-05-18
 - **Repository:** [volatility-toolkit](https://github.com/gl0bal01/volatility-toolkit)
 - **Total releases in repo:** 1
-
----
-
-### [devbox Weekly rebuild weekly-20260518](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260518)
-
-Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
-
-- **Tag:** weekly-20260518
-- **Published:** 2026-05-18
-- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
-- **Total releases in repo:** 2
 
 ---
 
