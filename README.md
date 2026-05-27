@@ -2,6 +2,16 @@
 
 ![Streak](https://streak-stats.demolab.com/?user=gl0bal01&theme=dark)
 
+## Featured Project: [YouArePlayer.com](https://about.youareplayer.com)
+
+[![YouArePlayer screenshot](./assets/youareplayer.png)](https://about.youareplayer.com)
+
+**Crack the code. Think outside the box.**
+
+A unified CTF challenge platform with a Discord bot and web interface, built for players and challenge creators.
+
+[Visit YouArePlayer](https://about.youareplayer.com)
+
 ## Latest Projects
 
 ### Writings
