@@ -482,6 +482,7 @@ A unified CTF challenge platform with a Discord bot and web interface, built for
 
 
 
+
 ## OSINT & Cyber Games Community
 
 I run a Discord community and CTF Platform for all skill levels — a place to explore funny cybersecurity **puzzles**, OSINT hunts, and capture-the-flag challenges in a friendly, collaborative environment.
