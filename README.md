@@ -1,558 +1,200 @@
-**Security & OSINT practitioner — building investigation tools, AI agent systems, and automation pipelines.**
+# gl0bal01
 
-![Streak](https://streak-stats.demolab.com/?user=gl0bal01&theme=dark)
+**Security & OSINT builder working on investigation tools, CTF platforms, AI agents, automation, and practical cyber workflows.**
 
-## Featured Project: [YouArePlayer.com](https://about.youareplayer.com)
+I build tools, playbooks, bots, and platforms that help people investigate, learn, automate, and solve puzzles.
 
-[![YouArePlayer screenshot](./assets/youareplayer.png)](https://about.youareplayer.com)
+[Website](https://gl0bal01.com) · [YouArePlayer](https://youareplayer.com) · [Intel Codex](https://gl0bal01.com/intel-codex) · [OSINT Resources](https://start.me/u/gl0bal01) · [X / Twitter](https://x.com/gl0bal01)
+
+![Streak](https://streak-stats.demolab.com/?user=gl0bal01\&theme=dark)
+
+---
+
+## Start Here
+
+* **Play OSINT & cyber challenges** → [YouArePlayer](https://youareplayer.com)
+* **Read investigation SOPs** → [Intel Codex](https://gl0bal01.com/intel-codex)
+* **Use my tools** → pinned repositories and selected projects below
+* **Browse practical resources** → [Cyber](https://gl0bal01.com/cyber), [Reverse Engineering](https://gl0bal01.com/reverse-engineering), [OSINT](https://gl0bal01.com/osint), [Cheatsheets](https://gl0bal01.com/cheatsheets)
+* **Read my latest posts** → [gl0bal01.com/blog](https://gl0bal01.com/blog)
+
+---
+
+## Featured Project: [YouArePlayer](https://youareplayer.com)
+
+[![YouArePlayer screenshot](./assets/youareplayer.png)](https://youareplayer.com)
 
 **Crack the code. Think outside the box.**
 
-A unified CTF challenge platform with a Discord bot and web interface, built for players and challenge creators.
+YouArePlayer is a CTF and OSINT challenge platform built for players, challenge creators, and Discord communities.
 
-[Visit YouArePlayer](https://about.youareplayer.com)
+It combines:
 
-## Latest Projects
+* Web-based challenge hosting
+* Discord bot integration
+* OSINT and cyber puzzle workflows
+* Score tracking
+* Community play
+* Creator-friendly challenge publishing
 
-### Writings
+[Play now](https://youareplayer.com) · [About](https://about.youareplayer.com) · [Join Discord](https://discord.gg/T5tc9Rq8DV)
 
-- [Intel Codex Vault](https://github.com/gl0bal01/intel-codex): 41 SOPs for digital investigators, security analysts, and OSINT practitioners
-- [Intel Codex Online](https://gl0bal01.com/intel-codex):
-  - [Investigations](https://gl0bal01.com/intel-codex/category/investigations) & [Techniques](https://gl0bal01.com/intel-codex/category/investigation-techniques)
-  - [Security Analysis SOPs](https://gl0bal01.com/intel-codex/Security/Analysis/Analysis-Index)
-  - [Penetration Testing SOPs](https://gl0bal01.com/intel-codex/Security/Pentesting/Pentesting-Index)
-- Practical Resources: [Cyber](https://gl0bal01.com/cyber), [Reverse](https://gl0bal01.com/reverse-engineering), [Osint](https://gl0bal01.com/osint), [Cheatsheets](https://gl0bal01.com/cheatsheets)
+---
 
-### Security & Forensics
+## Main Work
 
-- [Malware Analysis Claude](https://github.com/gl0bal01/malware-analysis-claude-skills): Package covering every phase of malware analysis from initial triage to production-ready detection rules.
-- [pwndocker-reverse](https://github.com/gl0bal01/pwndocker-reverse): Complete CTF pwn/reverse-engineering Docker image, ready to go.
-- [Volatility Toolkit](https://github.com/gl0bal01/volatility-toolkit): Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolkit. *[Legacy](https://github.com/gl0bal01/volatility-windows-analysis)*
-- [Scripts](https://github.com/gl0bal01/scripts): Image stega analysis, ghidra turbo, word permutator, user gen, ip2cidr...
+### Investigation, OSINT & Intelligence Workflows
 
-### Dev Tools
+* [Intel Codex Vault](https://github.com/gl0bal01/intel-codex) — 41 SOPs for digital investigators, security analysts, and OSINT practitioners.
+* [Intel Codex Online](https://gl0bal01.com/intel-codex) — online version of my investigation and security playbooks.
+* [DorkHound](https://github.com/gl0bal01/dorkhound) — fast Google dork URL generator for missing persons, Trace Labs, and OSINT investigations.
+* [Bookmarklets](https://github.com/gl0bal01/bookmarklets) — curated bookmarklets and shortcuts for OSINT and investigations.
+* [Discord OSINT Assistant](https://github.com/gl0bal01/discord-osint-assistant) — multi-tool Discord bot for OSINT gathering and analysis.
+* [Discord AWS Rekognition](https://github.com/gl0bal01/discord-amazon-rekognition) — Discord bot using AWS Rekognition for image analysis workflows.
 
-- [Zero-Trust Lifestyle](https://github.com/gl0bal01/zero-trust-lifestyle): Bash scripts for the paranoid developer. Based on a true story.
-- [DevBox](https://github.com/gl0bal01/devbox): Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
-- [Zellij Layouts](https://github.com/gl0bal01/zellij-layouts): Opinionated Zellij layouts for multi-project development, Docker workflows, and security operations.
-- [Tmux Layouts](https://github.com/gl0bal01/tmux-layouts): Tmux layouts for multi-project development, Docker workflows, and security operations.
-- [Black Box Architecture](https://github.com/gl0bal01/black-box-architecture): Transform any codebase into modular, maintainable "black boxes".
-- [WP Quick Dev](https://github.com/gl0bal01/wp-quick-dev): Get a fully functional WordPress setup with plugin/theme development workflow in under 60 seconds.
+### Security, Forensics & CTF Tooling
 
-### AI / LLM
+* [Malware Analysis Claude Skills](https://github.com/gl0bal01/malware-analysis-claude-skills) — malware analysis workflow package from triage to detection rules.
+* [pwndocker-reverse](https://github.com/gl0bal01/pwndocker-reverse) — CTF pwn and reverse-engineering Docker image, ready to use.
+* [Volatility Toolkit](https://github.com/gl0bal01/volatility-toolkit) — automated Volatility 3 toolkit for Windows, Linux, and macOS memory forensics.
+* [Scripts](https://github.com/gl0bal01/scripts) — practical scripts for steganography, Ghidra workflows, wordlists, CIDR tools, and investigation tasks.
 
-- [Contract Agents](https://github.com/gl0bal01/contract-agents): AI agent configurations governed by a shared contract to reduce drift and improve consistency across engineering, design, marketing, and product tasks.
-- [Llm 1minAI](https://github.com/gl0bal01/llm-1minai): LLM plugin providing access to 66+ AI models through 1min.ai API with web search, mixed context, and persistent options.
-- [omi](https://github.com/gl0bal01/omi): Single static Go CLI for 1min.ai REST API — parallel multi-model consensus panel, Unix-pipe composition, typed model registry.
-- [PAI Hermes](https://github.com/gl0bal01/pai-hermes): Hermes Agent bridge for PAI ecosystem — 7 skills + cron.
-- [PAI Anywhere](https://github.com/gl0bal01/pai-anywhere): One PAI on a VPS — type `pai` from any device, same memory and context every time.
+### AI, Agents & Automation
 
-### Discord Bots
+* [Contract Agents](https://github.com/gl0bal01/contract-agents) — AI agent configurations governed by a shared contract to reduce drift and improve consistency.
+* [omi](https://github.com/gl0bal01/omi) — static Go CLI for the 1min.ai REST API, with multi-model consensus and Unix-pipe composition.
+* [llm-1minai](https://github.com/gl0bal01/llm-1minai) — LLM plugin for 1min.ai with access to 66+ models, web search, mixed context, and persistent options.
+* [PAI Hermes](https://github.com/gl0bal01/pai-hermes) — Hermes agent bridge for the PAI ecosystem.
+* [PAI Anywhere](https://github.com/gl0bal01/pai-anywhere) — portable PAI setup for shared memory and context across devices.
 
-- [Discord Judge Bot](https://github.com/gl0bal01/discord-judge-bot): Challenge management with rewards, progress tracking, and automated reward distribution.
-- [Discord AI Assistant](https://github.com/gl0bal01/discord-ai-assistant): AI chat functionality with memory through 1min API.
-- [Discord Watchlists](https://github.com/gl0bal01/discord-watchlists): Real-Time Ransomware, CVE, FBI & Europol Alerts in your Discord server.
+### Platforms, Bots & Community Tools
 
-### OSINT
+* [Discord Judge Bot](https://github.com/gl0bal01/discord-judge-bot) — challenge management, rewards, progress tracking, and automated reward distribution.
+* [Discord AI Assistant](https://github.com/gl0bal01/discord-ai-assistant) — AI chat functionality with memory through 1min.ai.
+* [Discord Watchlists](https://github.com/gl0bal01/discord-watchlists) — ransomware, CVE, FBI, and Europol alerts inside Discord.
+* 🔒 [YAP Platform](https://about.youareplayer.com) — unified CTF challenge platform with Discord bot and web interface.
+* 🔒 CaseBandit — private OSINT investigation platform with team collaboration, cloud sync, and media storage.
+* 🔒 Character Hub — private multi-tenant Discord AI persona platform with structured Souls, routing, and durable memory.
 
-- [Bookmarklets](https://github.com/gl0bal01/bookmarklets): Curated Bookmarks for OSINT & Investigations
-- [DorkHound](https://github.com/gl0bal01/dorkhound): Fast Google dork URL generator for finding missing persons and TraceLab CTF competitions.
-- [Discord OSINT Assistant](https://github.com/gl0bal01/discord-osint-assistant): Multi-tool Discord bot for Open Source Intelligence (OSINT) gathering and analysis.
-- [Discord AWS Rekognition](https://github.com/gl0bal01/discord-amazon-rekognition): Discord bot that leverages AWS Rekognition.
+### Developer & Infrastructure Tools
 
-### Docusaurus Plugins
+* [DevBox](https://github.com/gl0bal01/devbox) — Tailscale-first dev, pentest, and AI station with Traefik, Ollama, Open WebUI, Docker, cosign, SBOM, and SLSA.
+* [Zero-Trust Lifestyle](https://github.com/gl0bal01/zero-trust-lifestyle) — Bash scripts for paranoid developer workflows.
+* [Zellij Layouts](https://github.com/gl0bal01/zellij-layouts) — opinionated Zellij layouts for multi-project development, Docker workflows, and security operations.
+* [Tmux Layouts](https://github.com/gl0bal01/tmux-layouts) — tmux layouts for multi-project development, Docker workflows, and security operations.
+* [Black Box Architecture](https://github.com/gl0bal01/black-box-architecture) — turn codebases into modular, maintainable black boxes.
+* [WP Quick Dev](https://github.com/gl0bal01/wp-quick-dev) — WordPress plugin/theme development setup in under 60 seconds.
 
-- [docusaurus-plugin-obsidian-vault](https://github.com/gl0bal01/docusaurus-plugin-obsidian-vault): Seamlessly integrate your Obsidian vault with Docusaurus
-- [docusaurus-plugin-multi-rss](https://github.com/gl0bal01/docusaurus-plugin-multi-rss): Aggregate multiple RSS feeds in your Docusaurus site
+---
 
-### Oz
-- [Oracle](https://github.com/gl0bal01/brand-search): French brand intelligence platform — INPI trademark search, brand directories, and sponsored media detection.
-- [Scout](https://github.com/gl0bal01/scout-contracts): Merit-based content curation — LLM-scored RSS digests, pure signal, no fame bias.
-- [X-Bot](https://github.com/gl0bal01/x-bot): Autonomous X profile manager.
-- [Legend Engine](https://github.com/gl0bal01/legend-engine): Full-auto social presence.
-- [Character Hub](https://github.com/gl0bal01/discord-charactere-hub): Self-hostable multi-tenant Discord AI persona platform — structured Souls, per-channel routing, durable memory.
-- [CaseNotes SaaS](https://github.com/gl0bal01/casenotes-saas): OSINT investigation platform with team collaboration, cloud sync, and media storage.
-- [Pocketflow Content Generator](https://github.com/gl0bal01/pocketflow-content-generator): 7-agent pipeline: Idea, Research, Writer, Image, SEO, Quality, and Publisher agents.
-- [Pocketflow Repurpose Machine](https://github.com/gl0bal01/pocketflow-repurpose-machine): Transforms existing content into platform-optimized outputs for 7 social and publishing channels.
-- [Pocketflow Thumbnail Forge](https://github.com/gl0bal01/thumbnail-forge): Get click-optimized thumbnails for socials with 2 pics. 
-- [Pocketflow Internal Link](https://github.com/gl0bal01/pocketflow-internal-link): AI-powered internal linking suggestions for large editorial sites.
-- [Cygnus Trading Framework](https://github.com/gl0bal01/cygnus): A multi-strategy trading framework for Interactive Brokers.
-- [YAP Platform](https://github.com/gl0bal01/yap-platform) ([site](https://youareplayer.com)): Unified CTF challenge platform with Discord bot and web interface.
+## Experimental / Lab Projects 🔒
+
+These are projects where I test ideas around automation, content systems, intelligence workflows, agents, and publishing pipelines.
+
+<details>
+<summary>Open lab projects</summary>
+
+### Intelligence, Media & Automation
+
+* [Oracle](https://github.com/gl0bal01/brand-search) — French brand intelligence platform for INPI trademark search, brand directories, and sponsored media detection.
+* [Scout](https://github.com/gl0bal01/scout-contracts) — merit-based content curation using LLM-scored RSS digests.
+* [X-Bot](https://github.com/gl0bal01/x-bot) — autonomous X profile manager.
+* [Legend Engine](https://github.com/gl0bal01/legend-engine) — full-auto social presence system.
+
+### Content Pipelines
+
+* [Pocketflow Content Generator](https://github.com/gl0bal01/pocketflow-content-generator) — 7-agent pipeline: Idea, Research, Writer, Image, SEO, Quality, and Publisher.
+* [Pocketflow Repurpose Machine](https://github.com/gl0bal01/pocketflow-repurpose-machine) — turns existing content into platform-optimized outputs.
+* [Pocketflow Thumbnail Forge](https://github.com/gl0bal01/thumbnail-forge) — click-optimized thumbnails for social platforms.
+* [Pocketflow Internal Link](https://github.com/gl0bal01/pocketflow-internal-link) — AI-powered internal linking suggestions for large editorial sites.
+
+### Docusaurus
+
+* [docusaurus-plugin-obsidian-vault](https://github.com/gl0bal01/docusaurus-plugin-obsidian-vault) — integrate an Obsidian vault with Docusaurus.
+* [docusaurus-plugin-multi-rss](https://github.com/gl0bal01/docusaurus-plugin-multi-rss) — aggregate multiple RSS feeds into a Docusaurus site.
+
+### Other
+
+* [Cygnus Trading Framework](https://github.com/gl0bal01/cygnus) — multi-strategy trading framework for Interactive Brokers.
+* [ctfd-warboard](https://github.com/gl0bal01/ctfd-warboard) — A rate-limited CTFd parser with CLI + Discord bot for small-team collaboration. Every action auto-syncs to a shared private git repo.
+
+</details>
+
+---
+
+## Intel Codex
+
+Intel Codex is my structured knowledge base for investigation, OSINT, cyber analysis, and operational workflows.
+
+* [Investigations](https://gl0bal01.com/intel-codex/category/investigations)
+* [Investigation Techniques](https://gl0bal01.com/intel-codex/category/investigation-techniques)
+* [Security Analysis SOPs](https://gl0bal01.com/intel-codex/Security/Analysis/Analysis-Index)
+* [Penetration Testing SOPs](https://gl0bal01.com/intel-codex/Security/Pentesting/Pentesting-Index)
+
+Repository: [github.com/gl0bal01/intel-codex](https://github.com/gl0bal01/intel-codex)
+
+---
+
+## Community
+
+I run a Discord community and CTF platform for people who like OSINT, cybersecurity puzzles, investigations, and capture-the-flag challenges.
+
+The goal is simple: play, learn, build, and contribute useful challenges.
+
+[Learn & Play](https://youareplayer.com) · [Join Discord](https://discord.gg/T5tc9Rq8DV)
+
+---
+
 <!-- blog-post start -->
+
 ## Latest Blog Posts
 
-- **[Free Encrypted Postgres Backups to Cloudflare R2](https://gl0bal01.com/blog/free-postgres-backup-r2-cloudflare)** - Set up automated, encrypted, off-site daily PostgreSQL backups to Cloudflare R2 within the free tier using a sidecar container, rclone, and client-side encryption....
-- **[Intel Codex v2.0: 41 SOPs, Cloud Forensics, and Blockchain Tracing](https://gl0bal01.com/blog/intel-codex-v2)** - Intel Codex v2.0 expands to 41 SOPs with 11 new procedures covering cloud forensics, SaaS log analysis, blockchain tracing, mixer attribution, and container/Kubernetes pentesting....
-- **[pwndocker-reverse: One Docker Image for CTF Pwn and Reverse Engineering](https://gl0bal01.com/blog/pwndocker-reverse)** - A single Dockerfile with 45+ pwn and reverse-engineering tools — 7 disassemblers, 3 GDB plugins with instant switching, AFL++, frida, and a pre-populated command history. Rebuilt weekly and signed wit...
-- **[Volatility Toolkit v2: Automated Memory Forensics for Windows, Linux, and macOS](https://gl0bal01.com/blog/volatility-toolkit)** - Automated Volatility 3 wrapper for Windows, Linux, and macOS memory dumps. Auto-detects OS, runs 30/21/20 plugins in parallel, extracts IOCs, generates structured reports with chain-of-custody checksu...
-- **[zero-trust-lifestyle: 33 Bash Scripts That Automate Everything You're Too Paranoid to Leave to Chance](https://gl0bal01.com/blog/zero-trust-lifestyle)** - 33 bash scripts covering OPSEC checks, meeting survival, git secret scanning, canary tokens, focus enforcement, and relationship reminders. The v1.0.0 release ships with critical security hardening —...
+* **[Free Encrypted Postgres Backups to Cloudflare R2](https://gl0bal01.com/blog/free-postgres-backup-r2-cloudflare)** - Set up automated, encrypted, off-site daily PostgreSQL backups to Cloudflare R2 within the free tier using a sidecar container, rclone, and client-side encryption....
+* **[Intel Codex v2.0: 41 SOPs, Cloud Forensics, and Blockchain Tracing](https://gl0bal01.com/blog/intel-codex-v2)** - Intel Codex v2.0 expands to 41 SOPs with 11 new procedures covering cloud forensics, SaaS log analysis, blockchain tracing, mixer attribution, and container/Kubernetes pentesting....
+* **[pwndocker-reverse: One Docker Image for CTF Pwn and Reverse Engineering](https://gl0bal01.com/blog/pwndocker-reverse)** - A single Dockerfile with 45+ pwn and reverse-engineering tools — 7 disassemblers, 3 GDB plugins with instant switching, AFL++, frida, and a pre-populated command history. Rebuilt weekly and signed wit...
+* **[Volatility Toolkit v2: Automated Memory Forensics for Windows, Linux, and macOS](https://gl0bal01.com/blog/volatility-toolkit)** - Automated Volatility 3 wrapper for Windows, Linux, and macOS memory dumps. Auto-detects OS, runs 30/21/20 plugins in parallel, extracts IOCs, generates structured reports with chain-of-custody checksu...
+* **[zero-trust-lifestyle: 33 Bash Scripts That Automate Everything You're Too Paranoid to Leave to Chance](https://gl0bal01.com/blog/zero-trust-lifestyle)** - 33 bash scripts covering OPSEC checks, meeting survival, git secret scanning, canary tokens, focus enforcement, and relationship reminders. The v1.0.0 release ships with critical security hardening —...
 
 [**View More →**](https://gl0bal01.com/blog/)
+
 <!-- blog-post end -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 <!-- releases start -->
+
 ## Latest Releases
 
-- [devbox Weekly rebuild weekly-20260525](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260525) - 2026-05-25
-- [discord-osint-assistant v2.2.0 — Observability, Ops & Hardening](https://github.com/gl0bal01/discord-osint-assistant/releases/tag/v2.2.0) - 2026-05-21
-- [dorkhound v1.2.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.2.0) - 2026-05-20
-- [omi v0.1.2](https://github.com/gl0bal01/omi/releases/tag/v0.1.2) - 2026-05-18
-- [pwndocker-reverse v0.1.0 — Initial Release](https://github.com/gl0bal01/pwndocker-reverse/releases/tag/v0.1.0) - 2026-05-18
+* [devbox Weekly rebuild weekly-20260525](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260525) - 2026-05-25
+* [discord-osint-assistant v2.2.0 — Observability, Ops & Hardening](https://github.com/gl0bal01/discord-osint-assistant/releases/tag/v2.2.0) - 2026-05-21
+* [dorkhound v1.2.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.2.0) - 2026-05-20
+* [omi v0.1.2](https://github.com/gl0bal01/omi/releases/tag/v0.1.2) - 2026-05-18
+* [pwndocker-reverse v0.1.0 — Initial Release](https://github.com/gl0bal01/pwndocker-reverse/releases/tag/v0.1.0) - 2026-05-18
 
 *Showing 5 of 23 releases* • [View More →](RELEASES.md)
+
 <!-- releases end -->
 
+---
 
+## Working Principles
 
+* Build practical tools, not only ideas.
+* Make investigation workflows easier to repeat.
+* Prefer clear SOPs, reproducible methods, and useful defaults.
+* Share knowledge when it can help others learn or build.
+* Keep experimenting.
 
+> Build useful tools. Document the process. Share the knowledge.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## OSINT & Cyber Games Community
-
-I run a Discord community and CTF Platform for all skill levels — a place to explore funny cybersecurity **puzzles**, OSINT hunts, and capture-the-flag challenges in a friendly, collaborative environment.
-Join us, play, learn, and contribute your **own challenges**.
-
-**[Learn & Play](https://youareplayer.com)** - **[Game list](CHALLENGES.md)** - [Join our Discord community](https://discord.gg/T5tc9Rq8DV)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ## Achievements
 
-[Achievements →](Achievements.md)
-
----
-
-**We build, we contribute, and we step aside—knowing the work belongs to the collective body of knowledge, not to us.**
-
----
+Some fun GitHub badges and milestones live here: [Achievements →](Achievements.md)
 
 <!-- my-badges start -->
-<a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
-<a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
-<a href="my-badges/delorean.md"><img src="https://my-badges.github.io/my-badges/delorean.png" alt="I committed on the day Doctor Emmett Brown invented the flux capacitor!" title="I committed on the day Doctor Emmett Brown invented the flux capacitor!" width="64"></a>
-<a href="my-badges/emoji-only-commit.md"><img src="https://my-badges.github.io/my-badges/emoji-only-commit.png" alt="I used only emojis in my commit message." title="I used only emojis in my commit message." width="64"></a>
-<a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
-<a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
-<a href="my-badges/mass-delete-commit.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
-<a href="my-badges/programmers-day.md"><img src="https://my-badges.github.io/my-badges/programmers-day.png" alt="Happy Programmers Day! I committed on a 256 Day of Year!" title="Happy Programmers Day! I committed on a 256 Day of Year!" width="64"></a>
-<a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
-<a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
-<a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
-<a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
-<a href="my-badges/chore-commit.md"><img src="https://my-badges.github.io/my-badges/chore-commit.png" alt="I did a little housekeeping! 🧹" title="I did a little housekeeping! 🧹" width="64"></a>
-<a href="my-badges/science-fiction-day.md"><img src="https://my-badges.github.io/my-badges/science-fiction-day.png" alt="I committed on Isaac Asimov&apos;s birthday / National Science Fiction Day!" title="I committed on Isaac Asimov&apos;s birthday / National Science Fiction Day!" width="64"></a>
-<a href="my-badges/public-keys-5.md"><img src="https://my-badges.github.io/my-badges/public-keys-5.png" alt="I have five or more public keys" title="I have five or more public keys" width="64"></a>
-<a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
-<a href="my-badges/pi-day.md"><img src="https://my-badges.github.io/my-badges/pi-day.png" alt="Happy March 14th! I committed on a Pi Day!" title="Happy March 14th! I committed on a Pi Day!" width="64"></a>
-<a href="my-badges/st-patricks-day.md"><img src="https://my-badges.github.io/my-badges/st-patricks-day.png" alt="I committed on St. Patrick&apos;s Day!" title="I committed on St. Patrick&apos;s Day!" width="64"></a>
-<a href="my-badges/fix-2.md"><img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
-<a href="my-badges/fix-5.md"><img src="https://my-badges.github.io/my-badges/fix-5.png" alt="I did 5 sequential fixes." title="I did 5 sequential fixes." width="64"></a>
-<a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
-<a href="my-badges/alien-day.md"><img src="https://my-badges.github.io/my-badges/alien-day.png" alt="I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!" title="I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!" width="64"></a>
-<a href="my-badges/may-the-4th.md"><img src="https://my-badges.github.io/my-badges/may-the-4th.png" alt="May the 4th be with you!" title="May the 4th be with you!" width="64"></a>
-<a href="my-badges/fix-4.md"><img src="https://my-badges.github.io/my-badges/fix-4.png" alt="I did 4 sequential fixes." title="I did 4 sequential fixes." width="64"></a>
-<a href="my-badges/cafe-commit.md"><img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; once." title="I pushed a commit with &quot;cafe&quot; once." width="64"></a>
+
+<a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a> <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a> <a href="my-badges/delorean.md"><img src="https://my-badges.github.io/my-badges/delorean.png" alt="I committed on the day Doctor Emmett Brown invented the flux capacitor!" title="I committed on the day Doctor Emmett Brown invented the flux capacitor!" width="64"></a> <a href="my-badges/emoji-only-commit.md"><img src="https://my-badges.github.io/my-badges/emoji-only-commit.png" alt="I used only emojis in my commit message." title="I used only emojis in my commit message." width="64"></a> <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a> <a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a> <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a> <a href="my-badges/mass-delete-commit.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a> <a href="my-badges/programmers-day.md"><img src="https://my-badges.github.io/my-badges/programmers-day.png" alt="Happy Programmers Day! I committed on a 256 Day of Year!" title="Happy Programmers Day! I committed on a 256 Day of Year!" width="64"></a> <a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a> <a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a> <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a> <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a> <a href="my-badges/chore-commit.md"><img src="https://my-badges.github.io/my-badges/chore-commit.png" alt="I did a little housekeeping! 🧹" title="I did a little housekeeping! 🧹" width="64"></a> <a href="my-badges/science-fiction-day.md"><img src="https://my-badges.github.io/my-badges/science-fiction-day.png" alt="I committed on Isaac Asimov&apos;s birthday / National Science Fiction Day!" title="I committed on Isaac Asimov&apos;s birthday / National Science Fiction Day!" width="64"></a> <a href="my-badges/public-keys-5.md"><img src="https://my-badges.github.io/my-badges/public-keys-5.png" alt="I have five or more public keys" title="I have five or more public keys" width="64"></a> <a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a> <a href="my-badges/pi-day.md"><img src="https://my-badges.github.io/my-badges/pi-day.png" alt="Happy March 14th! I committed on a Pi Day!" title="Happy March 14th! I committed on a Pi Day!" width="64"></a> <a href="my-badges/st-patricks-day.md"><img src="https://my-badges.github.io/my-badges/st-patricks-day.png" alt="I committed on St. Patrick&apos;s Day!" title="I committed on St. Patrick&apos;s Day!" width="64"></a> <a href="my-badges/fix-2.md"><img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a> <a href="my-badges/fix-5.md"><img src="https://my-badges.github.io/my-badges/fix-5.png" alt="I did 5 sequential fixes." title="I did 5 sequential fixes." width="64"></a> <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a> <a href="my-badges/alien-day.md"><img src="https://my-badges.github.io/my-badges/alien-day.png" alt="I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!" title="I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!" width="64"></a> <a href="my-badges/may-the-4th.md"><img src="https://my-badges.github.io/my-badges/may-the-4th.png" alt="May the 4th be with you!" title="May the 4th be with you!" width="64"></a> <a href="my-badges/fix-4.md"><img src="https://my-badges.github.io/my-badges/fix-4.png" alt="I did 4 sequential fixes." title="I did 4 sequential fixes." width="64"></a> <a href="my-badges/cafe-commit.md"><img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; once." title="I pushed a commit with &quot;cafe&quot; once." width="64"></a>
+
 <!-- my-badges end -->
