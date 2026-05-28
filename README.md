@@ -78,7 +78,6 @@ It combines:
 ### Developer & Infrastructure Tools
 
 * [DevBox](https://github.com/gl0bal01/devbox) — Tailscale-first dev, pentest, and AI station with Traefik, Ollama, Open WebUI, Docker, cosign, SBOM, and SLSA.
-* [Zero-Trust Lifestyle](https://github.com/gl0bal01/zero-trust-lifestyle) — Bash scripts for paranoid developer workflows.
 * [Zellij Layouts](https://github.com/gl0bal01/zellij-layouts) — opinionated Zellij layouts for multi-project development, Docker workflows, and security operations.
 * [Tmux Layouts](https://github.com/gl0bal01/tmux-layouts) — tmux layouts for multi-project development, Docker workflows, and security operations.
 * [Black Box Architecture](https://github.com/gl0bal01/black-box-architecture) — turn codebases into modular, maintainable black boxes.
@@ -115,6 +114,7 @@ These are projects where I test ideas around automation, content systems, intell
 ### Other
 
 * [Cygnus Trading Framework](https://github.com/gl0bal01/cygnus) — multi-strategy trading framework for Interactive Brokers.
+* [Zero-Trust Lifestyle](https://github.com/gl0bal01/zero-trust-lifestyle) — Bash scripts for paranoid developer workflows.
 * [ctfd-warboard](https://github.com/gl0bal01/ctfd-warboard) — A rate-limited CTFd parser with CLI + Discord bot for small-team collaboration. Every action auto-syncs to a shared private git repo.
 
 </details>
