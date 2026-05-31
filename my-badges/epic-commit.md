@@ -9,9 +9,11 @@ Commits:
 - <a href="https://github.com/gl0bal01/pai-hermes/commit/83af01514deb603e5dc42c4f8710b2565b9dd4f8">83af015</a>
 - <a href="https://github.com/gl0bal01/devbox/commit/b094b1c7572977afd5626d2116c188e984a20b16">b094b1c</a>
 - <a href="https://github.com/gl0bal01/devbox/commit/4a3a63a7c92ff4ff97b9e3eba81bbf98da290c49">4a3a63a</a>
+- <a href="https://github.com/gl0bal01/omi/commit/ff4feeb2bfbc867297c26ba7bfc0b1ebfd127fd9">ff4feeb</a>
 - <a href="https://github.com/gl0bal01/omi/commit/26e5738f61bb717b4aa93d68cd2b449398a09506">26e5738</a>
 - <a href="https://github.com/gl0bal01/omi/commit/d823140fbbb5b033d31fac7ed13a8a0af852e71a">d823140</a>
 - <a href="https://github.com/gl0bal01/omi/commit/79a2ced6e53b3245f5876ca3ef046bad9b6ff356">79a2ced</a>
+- <a href="https://github.com/gl0bal01/tmux-layouts/commit/e45ad0968c764b38f3c47068add44f9caaf3ac43">e45ad09</a>
 - <a href="https://github.com/gl0bal01/tmux-layouts/commit/afb5595293ffc39cde473a752b7fb7260db4092c">afb5595</a>
 - <a href="https://github.com/gl0bal01/tmux-layouts/commit/c4989ea940f7edcc258ee324b3b42e061cd8d727">c4989ea</a>
 - <a href="https://github.com/gl0bal01/pai-anywhere/commit/194260ce77581694470d8b54e26d1e8da7934d48">194260c</a>
