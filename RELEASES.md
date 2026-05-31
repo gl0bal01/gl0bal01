@@ -4,6 +4,39 @@ Total releases: 23
 
 ---
 
+### [zellij-layouts v1.2.1](https://github.com/gl0bal01/zellij-layouts/releases/tag/v1.2.1)
+
+Perso Zellij layouts for multi-project development, Docker workflows, and security operations (pentest, malware   analysis, OSINT)
+
+- **Tag:** v1.2.1
+- **Published:** 2026-05-30
+- **Repository:** [zellij-layouts](https://github.com/gl0bal01/zellij-layouts)
+- **Total releases in repo:** 4
+
+---
+
+### [tmux-layouts v0.2.0 — tai/tproject, cwd-aware loading, tests, docs](https://github.com/gl0bal01/tmux-layouts/releases/tag/v0.2.0)
+
+Perso Tmux layouts for multi-project development, Docker workflows, and security operations (pentest, malware analysis, OSINT)
+
+- **Tag:** v0.2.0
+- **Published:** 2026-05-30
+- **Repository:** [tmux-layouts](https://github.com/gl0bal01/tmux-layouts)
+- **Total releases in repo:** 2
+
+---
+
+### [omi v0.2.0](https://github.com/gl0bal01/omi/releases/tag/v0.2.0)
+
+Single static Go CLI for the 1min.ai REST API — parallel multi-model consensus panel, Unix-pipe composition, typed model registry.
+
+- **Tag:** v0.2.0
+- **Published:** 2026-05-30
+- **Repository:** [omi](https://github.com/gl0bal01/omi)
+- **Total releases in repo:** 4
+
+---
+
 ### [devbox Weekly rebuild weekly-20260525](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260525)
 
 Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
@@ -33,17 +66,6 @@ Fast Google dork URL generator for finding missing persons and TraceLab CTF comp
 - **Tag:** v1.2.0
 - **Published:** 2026-05-20
 - **Repository:** [dorkhound](https://github.com/gl0bal01/dorkhound)
-- **Total releases in repo:** 3
-
----
-
-### [omi v0.1.2](https://github.com/gl0bal01/omi/releases/tag/v0.1.2)
-
-Single static Go CLI for the 1min.ai REST API — parallel multi-model consensus panel, Unix-pipe composition, typed model registry.
-
-- **Tag:** v0.1.2
-- **Published:** 2026-05-18
-- **Repository:** [omi](https://github.com/gl0bal01/omi)
 - **Total releases in repo:** 3
 
 ---
@@ -108,28 +130,6 @@ LLM plugin providing access to AI models through 1min.ai API with web search, mi
 - **Tag:** v0.4.1
 - **Published:** 2026-05-07
 - **Repository:** [llm-1minai](https://github.com/gl0bal01/llm-1minai)
-- **Total releases in repo:** 3
-
----
-
-### [tmux-layouts v0.1.0 — first tagged release](https://github.com/gl0bal01/tmux-layouts/releases/tag/v0.1.0)
-
-Perso Tmux layouts for multi-project development, Docker workflows, and security operations (pentest, malware analysis, OSINT)
-
-- **Tag:** v0.1.0
-- **Published:** 2026-05-04
-- **Repository:** [tmux-layouts](https://github.com/gl0bal01/tmux-layouts)
-- **Total releases in repo:** 1
-
----
-
-### [zellij-layouts v1.2.0 — Improve layout helpers](https://github.com/gl0bal01/zellij-layouts/releases/tag/v1.2.0)
-
-Perso Zellij layouts for multi-project development, Docker workflows, and security operations (pentest, malware   analysis, OSINT)
-
-- **Tag:** v1.2.0
-- **Published:** 2026-05-04
-- **Repository:** [zellij-layouts](https://github.com/gl0bal01/zellij-layouts)
 - **Total releases in repo:** 3
 
 ---

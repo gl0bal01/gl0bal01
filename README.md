@@ -167,14 +167,15 @@ The goal is simple: play, learn, build, and contribute useful challenges.
 <!-- releases start -->
 ## Latest Releases
 
+- [zellij-layouts v1.2.1](https://github.com/gl0bal01/zellij-layouts/releases/tag/v1.2.1) - 2026-05-30
+- [tmux-layouts v0.2.0 — tai/tproject, cwd-aware loading, tests, docs](https://github.com/gl0bal01/tmux-layouts/releases/tag/v0.2.0) - 2026-05-30
+- [omi v0.2.0](https://github.com/gl0bal01/omi/releases/tag/v0.2.0) - 2026-05-30
 - [devbox Weekly rebuild weekly-20260525](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260525) - 2026-05-25
 - [discord-osint-assistant v2.2.0 — Observability, Ops & Hardening](https://github.com/gl0bal01/discord-osint-assistant/releases/tag/v2.2.0) - 2026-05-21
-- [dorkhound v1.2.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.2.0) - 2026-05-20
-- [omi v0.1.2](https://github.com/gl0bal01/omi/releases/tag/v0.1.2) - 2026-05-18
-- [pwndocker-reverse v0.1.0 — Initial Release](https://github.com/gl0bal01/pwndocker-reverse/releases/tag/v0.1.0) - 2026-05-18
 
 *Showing 5 of 23 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
 
 
 
