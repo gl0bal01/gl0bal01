@@ -4,6 +4,26 @@ Total releases: 23
 
 ---
 
+### [pai-hermes v0.1.2 — Security review hardening](https://github.com/gl0bal01/pai-hermes/releases/tag/v0.1.2)
+
+Hermes Agent bridge for PAI ecosystem (7 skills + cron)
+
+- **Tag:** v0.1.2
+- **Published:** 2026-05-31
+- **Repository:** [pai-hermes](https://github.com/gl0bal01/pai-hermes)
+- **Total releases in repo:** 3
+
+---
+
+### [pai-anywhere v0.2.1 — security patch: gateway SSRF + reset-access ownership](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.2.1)
+
+- **Tag:** v0.2.1
+- **Published:** 2026-05-31
+- **Repository:** [pai-anywhere](https://github.com/gl0bal01/pai-anywhere)
+- **Total releases in repo:** 3
+
+---
+
 ### [zellij-layouts v1.2.1](https://github.com/gl0bal01/zellij-layouts/releases/tag/v1.2.1)
 
 Perso Zellij layouts for multi-project development, Docker workflows, and security operations (pentest, malware   analysis, OSINT)
@@ -99,26 +119,6 @@ Lightning-fast WordPress development environment for rapid plugin and theme prot
 - **Tag:** v1.1.0
 - **Published:** 2026-05-18
 - **Repository:** [wp-quick-dev](https://github.com/gl0bal01/wp-quick-dev)
-- **Total releases in repo:** 2
-
----
-
-### [pai-hermes v0.1.1 — review-driven fixes](https://github.com/gl0bal01/pai-hermes/releases/tag/v0.1.1)
-
-Hermes Agent bridge for PAI ecosystem (7 skills + cron)
-
-- **Tag:** v0.1.1
-- **Published:** 2026-05-16
-- **Repository:** [pai-hermes](https://github.com/gl0bal01/pai-hermes)
-- **Total releases in repo:** 2
-
----
-
-### [pai-anywhere v0.2.0](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.2.0)
-
-- **Tag:** v0.2.0
-- **Published:** 2026-05-14
-- **Repository:** [pai-anywhere](https://github.com/gl0bal01/pai-anywhere)
 - **Total releases in repo:** 2
 
 ---
