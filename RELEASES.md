@@ -1,6 +1,17 @@
 # All Releases
 
-Total releases: 23
+Total releases: 22
+
+---
+
+### [devbox Weekly rebuild weekly-20260601](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260601)
+
+Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
+
+- **Tag:** weekly-20260601
+- **Published:** 2026-06-01
+- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
+- **Total releases in repo:** 4
 
 ---
 
@@ -35,17 +46,6 @@ Perso Zellij layouts for multi-project development, Docker workflows, and securi
 
 ---
 
-### [tmux-layouts v0.2.0 — tai/tproject, cwd-aware loading, tests, docs](https://github.com/gl0bal01/tmux-layouts/releases/tag/v0.2.0)
-
-Perso Tmux layouts for multi-project development, Docker workflows, and security operations (pentest, malware analysis, OSINT)
-
-- **Tag:** v0.2.0
-- **Published:** 2026-05-30
-- **Repository:** [tmux-layouts](https://github.com/gl0bal01/tmux-layouts)
-- **Total releases in repo:** 2
-
----
-
 ### [omi v0.2.0](https://github.com/gl0bal01/omi/releases/tag/v0.2.0)
 
 Single static Go CLI for the 1min.ai REST API — parallel multi-model consensus panel, Unix-pipe composition, typed model registry.
@@ -54,17 +54,6 @@ Single static Go CLI for the 1min.ai REST API — parallel multi-model consensus
 - **Published:** 2026-05-30
 - **Repository:** [omi](https://github.com/gl0bal01/omi)
 - **Total releases in repo:** 4
-
----
-
-### [devbox Weekly rebuild weekly-20260525](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260525)
-
-Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
-
-- **Tag:** weekly-20260525
-- **Published:** 2026-05-25
-- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
-- **Total releases in repo:** 3
 
 ---
 
