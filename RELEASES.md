@@ -1,6 +1,28 @@
 # All Releases
 
-Total releases: 22
+Total releases: 23
+
+---
+
+### [discord-feed-watchers v1.0.0](https://github.com/gl0bal01/discord-feed-watchers/releases/tag/v1.0.0)
+
+Discord webhook feed watchers for CVE, FBI Most Wanted, Europol Most Wanted, ransomware, and daily fun feeds
+
+- **Tag:** v1.0.0
+- **Published:** 2026-06-05
+- **Repository:** [discord-feed-watchers](https://github.com/gl0bal01/discord-feed-watchers)
+- **Total releases in repo:** 1
+
+---
+
+### [bookmarklets v2.1.0 — Review Extractors](https://github.com/gl0bal01/bookmarklets/releases/tag/v2.1.0)
+
+JavaScript bookmarklets for OSINT, security research, and CTF — no install, no tracking, runs locally
+
+- **Tag:** v2.1.0
+- **Published:** 2026-06-05
+- **Repository:** [bookmarklets](https://github.com/gl0bal01/bookmarklets)
+- **Total releases in repo:** 4
 
 ---
 
@@ -164,17 +186,6 @@ Governance system for 52 specialized agents under a single contract: aligned, co
 - **Published:** 2026-04-11
 - **Repository:** [contract-agents](https://github.com/gl0bal01/contract-agents)
 - **Total releases in repo:** 5
-
----
-
-### [bookmarklets v2.0.0 — Website Recon Scanner & Documentation Overhaul](https://github.com/gl0bal01/bookmarklets/releases/tag/v2.0.0)
-
-9 JavaScript bookmarklets for OSINT, security research, and CTF — no install, no tracking, runs locally
-
-- **Tag:** v2.0.0
-- **Published:** 2026-03-20
-- **Repository:** [bookmarklets](https://github.com/gl0bal01/bookmarklets)
-- **Total releases in repo:** 3
 
 ---
 
