@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/gl0bal01/discord-watchlists/commit/3bdb1a06534c9c20d170ade87a9f57372aa632ee">3bdb1a0</a>
+- <a href="https://github.com/gl0bal01/discord-feed-watchers/commit/3bdb1a06534c9c20d170ade87a9f57372aa632ee">3bdb1a0</a>
 - <a href="https://github.com/gl0bal01/pai-hermes/commit/5de3e38386bb400bf9d3ccde84aca2c2db2604df">5de3e38</a>
 - <a href="https://github.com/gl0bal01/pai-hermes/commit/e4f8ddc9320b9937a246ccad1a88d210f7b68b13">e4f8ddc</a>
 - <a href="https://github.com/gl0bal01/pai-hermes/commit/c57f5008e722e9f44efebc21323415086f437527">c57f500</a>
