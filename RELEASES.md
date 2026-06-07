@@ -1,17 +1,6 @@
 # All Releases
 
-Total releases: 23
-
----
-
-### [discord-feed-watchers v1.0.0](https://github.com/gl0bal01/discord-feed-watchers/releases/tag/v1.0.0)
-
-Discord webhook feed watchers for CVE, FBI Most Wanted, Europol Most Wanted, ransomware, and daily fun feeds
-
-- **Tag:** v1.0.0
-- **Published:** 2026-06-05
-- **Repository:** [discord-feed-watchers](https://github.com/gl0bal01/discord-feed-watchers)
-- **Total releases in repo:** 1
+Total releases: 22
 
 ---
 
