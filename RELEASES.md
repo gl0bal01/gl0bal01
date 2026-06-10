@@ -4,14 +4,14 @@ Total releases: 22
 
 ---
 
-### [bookmarklets v2.1.0 — Review Extractors](https://github.com/gl0bal01/bookmarklets/releases/tag/v2.1.0)
+### [bookmarklets v2.2.0 — Domain TLD Scanner + Page Metadata Extractor](https://github.com/gl0bal01/bookmarklets/releases/tag/v2.2.0)
 
 JavaScript bookmarklets for OSINT, security research, and CTF — no install, no tracking, runs locally
 
-- **Tag:** v2.1.0
-- **Published:** 2026-06-05
+- **Tag:** v2.2.0
+- **Published:** 2026-06-09
 - **Repository:** [bookmarklets](https://github.com/gl0bal01/bookmarklets)
-- **Total releases in repo:** 4
+- **Total releases in repo:** 5
 
 ---
 

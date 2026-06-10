@@ -178,7 +178,7 @@ The goal is simple: play, learn, build, and contribute useful challenges.
 <!-- releases start -->
 ## Latest Releases
 
-- [bookmarklets v2.1.0 — Review Extractors](https://github.com/gl0bal01/bookmarklets/releases/tag/v2.1.0) - 2026-06-05
+- [bookmarklets v2.2.0 — Domain TLD Scanner + Page Metadata Extractor](https://github.com/gl0bal01/bookmarklets/releases/tag/v2.2.0) - 2026-06-09
 - [devbox Weekly rebuild weekly-20260601](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260601) - 2026-06-01
 - [pai-hermes v0.1.2 — Security review hardening](https://github.com/gl0bal01/pai-hermes/releases/tag/v0.1.2) - 2026-05-31
 - [pai-anywhere v0.2.1 — security patch: gateway SSRF + reset-access ownership](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.2.1) - 2026-05-31
@@ -186,6 +186,7 @@ The goal is simple: play, learn, build, and contribute useful challenges.
 
 *Showing 5 of 22 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
 
 
 
