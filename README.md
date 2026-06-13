@@ -19,9 +19,30 @@ I build tools, playbooks, bots, and platforms that help people investigate, lear
 
 ---
 
-## Featured Project: [YouArePlayer](https://youareplayer.com)
+## Featured Project: [CaseBandit.com](https://casebandit.com)
 
-[![YouArePlayer screenshot](./assets/youareplayer.png)](https://youareplayer.com)
+[![CaseBandit screenshot](./assets/casebandit.jpg)](https://casebandit.com)
+
+**Local-first OSINT investigation notes. Forensic by design.**
+
+CaseBandit is an OSINT investigation note-taking app with local-first architecture, optional cloud sync, and a browser extension for one-shortcut capture.
+
+It combines:
+
+* Auto entity extraction (emails, IPs, domains, phones, handles, ETH/BTC wallets)
+* Typed relationships with confidence, direction, and source grading
+* Admiralty NATO source grading
+* Append-only forensic audit ledger
+* Signed PDF/CSV export with chain-of-custody
+* Full-text search, timeline, and graph view
+
+[Visit casebandit.com](https://casebandit.com) · [App](https://app.casebandit.com)
+
+---
+
+## Featured Project: [YouArePlayer.com](https://youareplayer.com)
+
+[![YouArePlayer screenshot](./assets/youareplayer.jpg)](https://youareplayer.com)
 
 **Crack the code. Think outside the box.**
 
@@ -72,7 +93,6 @@ It combines:
 * [Discord AI Assistant](https://github.com/gl0bal01/discord-ai-assistant) — AI chat functionality with memory through 1min.ai.
 * [Discord Watchlists](https://github.com/gl0bal01/discord-watchlists) — ransomware, CVE, FBI, and Europol alerts inside Discord.
 * 🔒 [YAP Platform](https://about.youareplayer.com) — unified CTF challenge platform with Discord bot and web interface.
-* 🔒 CaseBandit — private OSINT investigation platform with team collaboration, cloud sync, and media storage.
 * 🔒 Character Hub — private multi-tenant Discord AI persona platform with structured Souls, routing, and durable memory.
 
 ### Developer & Infrastructure Tools
