@@ -81,6 +81,8 @@ Commits:
 - <a href="https://github.com/gl0bal01/discord-ai-assistant/commit/c9e653b21b8c6b4c4db53ee099ab6d56baa01381">c9e653b</a>
 - <a href="https://github.com/gl0bal01/bookmarklets/commit/29d18e9886eb1dedb73bbe968e210003ceb53600">29d18e9</a>
 - <a href="https://github.com/gl0bal01/bookmarklets/commit/adb8fa27ea24d28617fb4c25979b4cd57d8757cb">adb8fa2</a>
+- <a href="https://github.com/gl0bal01/gl0bal01.github.io/commit/97424f70616358e960819e573ee4ab6916472c30">97424f7</a>
+- <a href="https://github.com/gl0bal01/gl0bal01.github.io/commit/1f9fdcafe75816652dbfdfabe74e21a43c3da2ca">1f9fdca</a>
 - <a href="https://github.com/gl0bal01/games/commit/d7a4c8b262f00be3f893df86e39e06318a925217">d7a4c8b</a>
 
 
