@@ -1,6 +1,15 @@
 # All Releases
 
-Total releases: 22
+Total releases: 23
+
+---
+
+### [discord-feed-watchers v1.1.0 — RSS source + rich Discord embeds](https://github.com/gl0bal01/discord-feed-watchers/releases/tag/v1.1.0)
+
+- **Tag:** v1.1.0
+- **Published:** 2026-06-14
+- **Repository:** [discord-feed-watchers](https://github.com/gl0bal01/discord-feed-watchers)
+- **Total releases in repo:** 1
 
 ---
 

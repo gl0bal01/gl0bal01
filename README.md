@@ -204,14 +204,15 @@ The goal is simple: play, learn, build, and contribute useful challenges.
 <!-- releases start -->
 ## Latest Releases
 
+- [discord-feed-watchers v1.1.0 — RSS source + rich Discord embeds](https://github.com/gl0bal01/discord-feed-watchers/releases/tag/v1.1.0) - 2026-06-14
 - [bookmarklets v2.2.0 — Domain TLD Scanner + Page Metadata Extractor](https://github.com/gl0bal01/bookmarklets/releases/tag/v2.2.0) - 2026-06-09
 - [devbox Weekly rebuild weekly-20260601](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260601) - 2026-06-01
 - [pai-hermes v0.1.2 — Security review hardening](https://github.com/gl0bal01/pai-hermes/releases/tag/v0.1.2) - 2026-05-31
 - [pai-anywhere v0.2.1 — security patch: gateway SSRF + reset-access ownership](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.2.1) - 2026-05-31
-- [zellij-layouts v1.2.1](https://github.com/gl0bal01/zellij-layouts/releases/tag/v1.2.1) - 2026-05-30
 
-*Showing 5 of 22 releases* • [View More →](RELEASES.md)
+*Showing 5 of 23 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
 
 
 
