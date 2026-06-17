@@ -4,7 +4,7 @@
 
 I build tools, playbooks, bots, and platforms that help people investigate, learn, automate, and solve puzzles.
 
-[Website](https://gl0bal01.com) · [YouArePlayer](https://youareplayer.com) · [Le Codex](https://lecodex.xyz) · [Resources](https://start.me/u/gl0bal01) · [X](https://x.com/gl0bal01)
+[Main Links](https://gl0bal01.com/links)
 
 ![Streak](https://streak-stats.demolab.com/?user=gl0bal01&theme=dark)
 
@@ -12,8 +12,9 @@ I build tools, playbooks, bots, and platforms that help people investigate, lear
 
 ## Start Here
 
+- **CaseBandit** — OSINT investigation note-taking app: [casebandit.com](https://casebandit.com)
 - **YouArePlayer** — OSINT & cyber challenge platform: [youareplayer.com](https://youareplayer.com)
-- **Intel Codex** — investigation and security SOPs: [gl0bal01.com/intel-codex](https://gl0bal01.com/intel-codex)
+- **LeCodex** — investigation and security SOPs: [lecodex.xyz](https://lecodex.xyz) - [repo](https://gl0bal01.com/intel-codex)
 - **Knowledge base** — cyber, reverse engineering, OSINT, and cheatsheets: [gl0bal01.com](https://gl0bal01.com)
 - **Curated links** — OSINT resources and tools: [start.me/u/gl0bal01](https://start.me/u/gl0bal01)
 
