@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/gl0bal01/malware-analysis-claude-skills">gl0bal01/malware-analysis-claude-skills: ★39</a>
-* <a href="https://github.com/gl0bal01/intel-codex">gl0bal01/intel-codex: ★33</a>
+* <a href="https://github.com/gl0bal01/intel-codex">gl0bal01/intel-codex: ★34</a>
 * <a href="https://github.com/gl0bal01/bookmarklets">gl0bal01/bookmarklets: ★5</a>
 * <a href="https://github.com/gl0bal01/discord-osint-assistant">gl0bal01/discord-osint-assistant: ★4</a>
 * <a href="https://github.com/gl0bal01/llm-1minai">gl0bal01/llm-1minai: ★4</a>
