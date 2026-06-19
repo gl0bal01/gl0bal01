@@ -4,6 +4,15 @@ Total releases: 23
 
 ---
 
+### [discord-feed-watchers v1.1.1 — correct notification ordering](https://github.com/gl0bal01/discord-feed-watchers/releases/tag/v1.1.1)
+
+- **Tag:** v1.1.1
+- **Published:** 2026-06-18
+- **Repository:** [discord-feed-watchers](https://github.com/gl0bal01/discord-feed-watchers)
+- **Total releases in repo:** 2
+
+---
+
 ### [devbox Weekly rebuild weekly-20260615](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260615)
 
 Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
@@ -12,15 +21,6 @@ Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 
 - **Published:** 2026-06-15
 - **Repository:** [devbox](https://github.com/gl0bal01/devbox)
 - **Total releases in repo:** 5
-
----
-
-### [discord-feed-watchers v1.1.0 — RSS source + rich Discord embeds](https://github.com/gl0bal01/discord-feed-watchers/releases/tag/v1.1.0)
-
-- **Tag:** v1.1.0
-- **Published:** 2026-06-14
-- **Repository:** [discord-feed-watchers](https://github.com/gl0bal01/discord-feed-watchers)
-- **Total releases in repo:** 1
 
 ---
 
