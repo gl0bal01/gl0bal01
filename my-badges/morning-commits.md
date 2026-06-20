@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/gl0bal01/gl0bal01/commit/8a644392f56d83155e7c393373ae75157677a4c6">8a64439</a>
-- <a href="https://github.com/gl0bal01/gl0bal01.github.io/commit/266ea50c5121b56bd6244d886af99548ef4845e3">266ea50</a>
-- <a href="https://github.com/gl0bal01/gl0bal01.github.io/commit/5fa99ec954cd6f05019ad33027cc59ffd738c8e0">5fa99ec</a>
-- <a href="https://github.com/gl0bal01/gl0bal01.github.io/commit/822c5692a34c090d420cae7bbc237b2e7ca81f64">822c569</a>
-- <a href="https://github.com/gl0bal01/bookmarklets/commit/29d18e9886eb1dedb73bbe968e210003ceb53600">29d18e9</a>
-- <a href="https://github.com/gl0bal01/zellij-layouts/commit/389d1270bfa0ba213704e02e6fb45174d8567cd6">389d127</a>
+- <a href="https://github.com/gl0bal01/pai-hermes/commit/60682c8968e54abce85d77906cf3e993ac66d122">60682c8</a>
+- <a href="https://github.com/gl0bal01/pai-anywhere/commit/5715a087b33e2679f920b7de147b93c9106d6735">5715a08</a>
+- <a href="https://github.com/gl0bal01/pai-hermes/commit/2d81fb5e4376030cbf7e2d35019a01b1ca908e7a">2d81fb5</a>
+- <a href="https://github.com/gl0bal01/pai-hermes/commit/b45035bca9ce3c637d8250f86c2699b85d1cba19">b45035b</a>
+- <a href="https://github.com/gl0bal01/pai-anywhere/commit/64c036b5458cca6fa7deeed7d33ee948b5d6b1b5">64c036b</a>
+- <a href="https://github.com/gl0bal01/pai-anywhere/commit/15e1d53129ed40be42cb8dc97ffdfd92a9488ae5">15e1d53</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
