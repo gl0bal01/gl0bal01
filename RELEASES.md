@@ -4,6 +4,26 @@ Total releases: 23
 
 ---
 
+### [pai-hermes v0.1.3 — multi-model review hardening](https://github.com/gl0bal01/pai-hermes/releases/tag/v0.1.3)
+
+Hermes Agent bridge for PAI ecosystem (7 skills + cron)
+
+- **Tag:** v0.1.3
+- **Published:** 2026-06-19
+- **Repository:** [pai-hermes](https://github.com/gl0bal01/pai-hermes)
+- **Total releases in repo:** 4
+
+---
+
+### [pai-anywhere v0.2.2 — security hardening pass](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.2.2)
+
+- **Tag:** v0.2.2
+- **Published:** 2026-06-19
+- **Repository:** [pai-anywhere](https://github.com/gl0bal01/pai-anywhere)
+- **Total releases in repo:** 4
+
+---
+
 ### [discord-feed-watchers v1.1.1 — correct notification ordering](https://github.com/gl0bal01/discord-feed-watchers/releases/tag/v1.1.1)
 
 - **Tag:** v1.1.1
@@ -32,26 +52,6 @@ JavaScript bookmarklets for OSINT, security research, and CTF — no install, no
 - **Published:** 2026-06-09
 - **Repository:** [bookmarklets](https://github.com/gl0bal01/bookmarklets)
 - **Total releases in repo:** 5
-
----
-
-### [pai-hermes v0.1.2 — Security review hardening](https://github.com/gl0bal01/pai-hermes/releases/tag/v0.1.2)
-
-Hermes Agent bridge for PAI ecosystem (7 skills + cron)
-
-- **Tag:** v0.1.2
-- **Published:** 2026-05-31
-- **Repository:** [pai-hermes](https://github.com/gl0bal01/pai-hermes)
-- **Total releases in repo:** 3
-
----
-
-### [pai-anywhere v0.2.1 — security patch: gateway SSRF + reset-access ownership](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.2.1)
-
-- **Tag:** v0.2.1
-- **Published:** 2026-05-31
-- **Repository:** [pai-anywhere](https://github.com/gl0bal01/pai-anywhere)
-- **Total releases in repo:** 3
 
 ---
 
