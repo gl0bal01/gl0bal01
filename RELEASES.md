@@ -4,6 +4,17 @@ Total releases: 23
 
 ---
 
+### [dorkhound v1.3.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.3.0)
+
+Fast Google dork URL generator for finding missing persons and TraceLab CTF competitions
+
+- **Tag:** v1.3.0
+- **Published:** 2026-06-20
+- **Repository:** [dorkhound](https://github.com/gl0bal01/dorkhound)
+- **Total releases in repo:** 4
+
+---
+
 ### [pai-hermes v0.1.3 — multi-model review hardening](https://github.com/gl0bal01/pai-hermes/releases/tag/v0.1.3)
 
 Hermes Agent bridge for PAI ecosystem (7 skills + cron)
@@ -85,17 +96,6 @@ A powerful Discord bot for Open Source Intelligence (OSINT) gathering and analys
 - **Published:** 2026-05-21
 - **Repository:** [discord-osint-assistant](https://github.com/gl0bal01/discord-osint-assistant)
 - **Total releases in repo:** 2
-
----
-
-### [dorkhound v1.2.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.2.0)
-
-Fast Google dork URL generator for finding missing persons and TraceLab CTF competitions
-
-- **Tag:** v1.2.0
-- **Published:** 2026-05-20
-- **Repository:** [dorkhound](https://github.com/gl0bal01/dorkhound)
-- **Total releases in repo:** 3
 
 ---
 
