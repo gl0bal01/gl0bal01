@@ -1,6 +1,6 @@
 # All Releases
 
-Total releases: 23
+Total releases: 22
 
 ---
 
@@ -17,7 +17,7 @@ Fast Google dork URL generator for finding missing persons and TraceLab CTF comp
 
 ### [pai-hermes v0.1.3 — multi-model review hardening](https://github.com/gl0bal01/pai-hermes/releases/tag/v0.1.3)
 
-Hermes Agent bridge for PAI ecosystem (7 skills + cron)
+Hermes Agent bridge for the PAI ecosystem — 7 agentskills + 3 zero-cost cron jobs (cost guardrail, upstream watcher, mobile digest)
 
 - **Tag:** v0.1.3
 - **Published:** 2026-06-19
@@ -27,6 +27,8 @@ Hermes Agent bridge for PAI ecosystem (7 skills + cron)
 ---
 
 ### [pai-anywhere v0.2.2 — security hardening pass](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.2.2)
+
+Hardened, paste-installable host for Daniel Miessler's Personal AI Infrastructure (PAI) on a Linux VPS — private Tailscale access, isolated pai account, Pulse + gateway. One PAI, reachable from any device.
 
 - **Tag:** v0.2.2
 - **Published:** 2026-06-19
@@ -63,17 +65,6 @@ JavaScript bookmarklets for OSINT, security research, and CTF — no install, no
 - **Published:** 2026-06-09
 - **Repository:** [bookmarklets](https://github.com/gl0bal01/bookmarklets)
 - **Total releases in repo:** 5
-
----
-
-### [zellij-layouts v1.2.1](https://github.com/gl0bal01/zellij-layouts/releases/tag/v1.2.1)
-
-Perso Zellij layouts for multi-project development, Docker workflows, and security operations (pentest, malware   analysis, OSINT)
-
-- **Tag:** v1.2.1
-- **Published:** 2026-05-30
-- **Repository:** [zellij-layouts](https://github.com/gl0bal01/zellij-layouts)
-- **Total releases in repo:** 4
 
 ---
 

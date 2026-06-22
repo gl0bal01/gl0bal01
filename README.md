@@ -219,8 +219,9 @@ The goal is simple: play, learn, build, and contribute useful challenges.
 - [discord-feed-watchers v1.1.1 — correct notification ordering](https://github.com/gl0bal01/discord-feed-watchers/releases/tag/v1.1.1) - 2026-06-18
 - [devbox Weekly rebuild weekly-20260615](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260615) - 2026-06-15
 
-*Showing 5 of 23 releases* • [View More →](RELEASES.md)
+*Showing 5 of 22 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
 
 
 
