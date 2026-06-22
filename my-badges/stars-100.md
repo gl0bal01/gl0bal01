@@ -18,7 +18,6 @@ Repos:
 * <a href="https://github.com/gl0bal01/dyad-ai-app-builder">gl0bal01/dyad-ai-app-builder: ★1</a>
 * <a href="https://github.com/gl0bal01/docusaurus-plugin-obsidian-vault">gl0bal01/docusaurus-plugin-obsidian-vault: ★1</a>
 * <a href="https://github.com/gl0bal01/contract-agents">gl0bal01/contract-agents: ★1</a>
-* <a href="https://github.com/gl0bal01/zellij-layouts">gl0bal01/zellij-layouts: ★1</a>
 * <a href="https://github.com/gl0bal01/pwndocker-reverse">gl0bal01/pwndocker-reverse: ★1</a>
 * <a href="https://github.com/gl0bal01/pai-anywhere">gl0bal01/pai-anywhere: ★1</a>
 * <a href="https://github.com/gl0bal01/pai-hermes">gl0bal01/pai-hermes: ★1</a>

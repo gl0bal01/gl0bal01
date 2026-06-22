@@ -4,11 +4,15 @@
 
 Commits:
 
-- <a href="https://github.com/gl0bal01/contract-agents/commit/c2fed7e34b515338c220958b959d7360a7c687b1">c2fed7e</a>: chore: gitignore agent tooling scratch directories
+- <a href="https://github.com/gl0bal01/spectrum-gene-explorer/commit/9957b7dd4fbbd447f63ada3639b50803430105a1">9957b7d</a>: chore: production readiness pass — type safety, security, infra
 
-Add .cursor/, .omc/, and .opencode/ to .gitignore. These are local tool
-artifact directories that were cluttering git status and should never be
-committed.
+- Add explicit generic type parameters for mypy strict mode
+- Fix all 15 mypy errors across app.py, scoring.py, data_loader.py, traits.py, build_dataset.py
+- Add input file existence validation to build_dataset.py CLI
+- Harden Dockerfile: non-root appuser + HEALTHCHECK
+- Remove pytest from requirements.txt (dev-only dep)
+- Expand .gitignore with .mypy_cache, .ruff_cache, *.egg-info, dist, build, .omo
+- Add LICENSE, pyproject.toml, Dockerfile, .dockerignore, CI workflow
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
