@@ -78,6 +78,7 @@ It combines:
 * [Malware Analysis Claude Skills](https://github.com/gl0bal01/malware-analysis-claude-skills) — malware analysis workflow package from triage to detection rules.
 * [pwndocker-reverse](https://github.com/gl0bal01/pwndocker-reverse) — CTF pwn and reverse-engineering Docker image, ready to use.
 * [Volatility Toolkit](https://github.com/gl0bal01/volatility-toolkit) — automated Volatility 3 toolkit for Windows, Linux, and macOS memory forensics.
+* [ctfd-warboard](https://github.com/gl0bal01/ctfd-warboard) — rate-limited CTFd parser with CLI + Discord bot for small-team CTF collaboration; every action auto-syncs to a shared private git repo.
 * [Scripts](https://github.com/gl0bal01/scripts) — practical scripts for steganography, Ghidra workflows, wordlists, CIDR tools, and investigation tasks.
 
 ### AI, Agents & Automation
@@ -93,14 +94,14 @@ It combines:
 * [Discord Judge Bot](https://github.com/gl0bal01/discord-judge-bot) — challenge management, rewards, progress tracking, and automated reward distribution.
 * [Discord AI Assistant](https://github.com/gl0bal01/discord-ai-assistant) — AI chat functionality with memory through 1min.ai.
 * [Discord Watchlists](https://github.com/gl0bal01/discord-watchlists) — ransomware, CVE, FBI, and Europol alerts inside Discord.
+* 🔒 [Decorated](https://github.com/gl0bal01/decorated-issuer) — verifiable-credential badge issuer and holder wallet for [decorated.pro](https://decorated.pro). VC-JWT (RS256), magic-link claim, StatusList 2021 revocation, public JWKS verification.
 * 🔒 [YAP Platform](https://about.youareplayer.com) — unified CTF challenge platform with Discord bot and web interface.
 * 🔒 Character Hub — private multi-tenant Discord AI persona platform with structured Souls, routing, and durable memory.
 
 ### Developer & Infrastructure Tools
 
 * [DevBox](https://github.com/gl0bal01/devbox) — Tailscale-first dev, pentest, and AI station with Traefik, Ollama, Open WebUI, Docker, cosign, SBOM, and SLSA.
-* [Zellij Layouts](https://github.com/gl0bal01/zellij-layouts) — opinionated Zellij layouts for multi-project development, Docker workflows, and security operations.
-* [Tmux Layouts](https://github.com/gl0bal01/tmux-layouts) — tmux layouts for multi-project development, Docker workflows, and security operations.
+* [Terminal Layouts](https://github.com/gl0bal01/terminal-layouts) — single declarative manifest that generates both tmux (tmuxp YAML) and Zellij (KDL) workspaces from one source of truth, with parity enforced in CI.
 * [Black Box Architecture](https://github.com/gl0bal01/black-box-architecture) — turn codebases into modular, maintainable black boxes.
 * [WP Quick Dev](https://github.com/gl0bal01/wp-quick-dev) — WordPress plugin/theme development setup in under 60 seconds.
 
@@ -136,7 +137,7 @@ These are projects where I test ideas around automation, content systems, intell
 
 * [Cygnus Trading Framework](https://github.com/gl0bal01/cygnus) — multi-strategy trading framework for Interactive Brokers.
 * [Zero-Trust Lifestyle](https://github.com/gl0bal01/zero-trust-lifestyle) — Bash scripts for paranoid developer workflows.
-* [ctfd-warboard](https://github.com/gl0bal01/ctfd-warboard) — A rate-limited CTFd parser with CLI + Discord bot for small-team collaboration. Every action auto-syncs to a shared private git repo.
+* 🔒 [Spectrum Gene Explorer](https://github.com/gl0bal01/spectrum-gene-explorer) — non-diagnostic gene–phenotype literature navigator for autism, built on HPO + SFARI data with ranked candidate genes and source citations.
 
 </details>
 
