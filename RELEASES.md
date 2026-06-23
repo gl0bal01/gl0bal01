@@ -1,6 +1,17 @@
 # All Releases
 
-Total releases: 23
+Total releases: 24
+
+---
+
+### [ctfd-warboard v0.4.0](https://github.com/gl0bal01/ctfd-warboard/releases/tag/v0.4.0)
+
+A gentle CTFd parser designed to minimize load on CTF platforms. CLI + Discord bot for small-team collaboration, with automatic git sync to private repos.
+
+- **Tag:** v0.4.0
+- **Published:** 2026-06-23
+- **Repository:** [ctfd-warboard](https://github.com/gl0bal01/ctfd-warboard)
+- **Total releases in repo:** 4
 
 ---
 

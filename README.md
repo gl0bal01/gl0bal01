@@ -216,14 +216,15 @@ The goal is simple: play, learn, build, and contribute useful challenges.
 <!-- releases start -->
 ## Latest Releases
 
+- [ctfd-warboard v0.4.0](https://github.com/gl0bal01/ctfd-warboard/releases/tag/v0.4.0) - 2026-06-23
 - [pai-anywhere v0.2.3 — doctor probe fixes](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.2.3) - 2026-06-22
 - [pai-hermes v0.1.4 — pai-watch works out-of-box](https://github.com/gl0bal01/pai-hermes/releases/tag/v0.1.4) - 2026-06-22
 - [devbox Weekly rebuild weekly-20260622](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260622) - 2026-06-22
 - [terminal-layouts v0.1.0](https://github.com/gl0bal01/terminal-layouts/releases/tag/v0.1.0) - 2026-06-22
-- [dorkhound v1.3.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.3.0) - 2026-06-20
 
-*Showing 5 of 23 releases* • [View More →](RELEASES.md)
+*Showing 5 of 24 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
 
 
 
