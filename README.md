@@ -302,7 +302,7 @@ Some fun GitHub badges and milestones live here: [Achievements →](Achievements
 <a href="my-badges/alien-day.md"><img src="https://my-badges.github.io/my-badges/alien-day.png" alt="I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!" title="I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!" width="64"></a>
 <a href="my-badges/may-the-4th.md"><img src="https://my-badges.github.io/my-badges/may-the-4th.png" alt="May the 4th be with you!" title="May the 4th be with you!" width="64"></a>
 <a href="my-badges/fix-4.md"><img src="https://my-badges.github.io/my-badges/fix-4.png" alt="I did 4 sequential fixes." title="I did 4 sequential fixes." width="64"></a>
-<a href="my-badges/cafe-commit.md"><img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; 2 times." title="I pushed a commit with &quot;cafe&quot; 2 times." width="64"></a>
+<a href="my-badges/cafe-commit.md"><img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; 3 times." title="I pushed a commit with &quot;cafe&quot; 3 times." width="64"></a>
 <a href="my-badges/stars-100.md"><img src="https://my-badges.github.io/my-badges/stars-100.png" alt="I collected 100 stars." title="I collected 100 stars." width="64"></a>
 <!-- my-badges end -->
 
