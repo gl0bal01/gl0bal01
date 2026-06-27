@@ -10,7 +10,7 @@ Repos:
 * <a href="https://github.com/gl0bal01/discord-osint-assistant">gl0bal01/discord-osint-assistant: ★4</a>
 * <a href="https://github.com/gl0bal01/llm-1minai">gl0bal01/llm-1minai: ★4</a>
 * <a href="https://github.com/gl0bal01/gl0bal01">gl0bal01/gl0bal01: ★3</a>
-* <a href="https://github.com/gl0bal01/dorkhound">gl0bal01/dorkhound: ★2</a>
+* <a href="https://github.com/gl0bal01/dorkhound">gl0bal01/dorkhound: ★3</a>
 * <a href="https://github.com/gl0bal01/volatility-toolkit">gl0bal01/volatility-toolkit: ★2</a>
 * <a href="https://github.com/gl0bal01/volatility-windows-analysis">gl0bal01/volatility-windows-analysis: ★1</a>
 * <a href="https://github.com/gl0bal01/discord-ai-assistant">gl0bal01/discord-ai-assistant: ★1</a>
