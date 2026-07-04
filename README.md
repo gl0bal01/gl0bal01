@@ -227,14 +227,15 @@ The goal is simple: play, learn, build, and contribute useful challenges.
 <!-- releases start -->
 ## Latest Releases
 
+- [pai-anywhere v0.2.4 — security & code review remediation](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.2.4) - 2026-07-03
 - [pai-hermes v0.1.5 — production-grade community pass](https://github.com/gl0bal01/pai-hermes/releases/tag/v0.1.5) - 2026-07-02
 - [devbox Weekly rebuild weekly-20260629](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260629) - 2026-06-29
 - [ctfd-warboard v0.4.0](https://github.com/gl0bal01/ctfd-warboard/releases/tag/v0.4.0) - 2026-06-23
-- [pai-anywhere v0.2.3 — doctor probe fixes](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.2.3) - 2026-06-22
 - [terminal-layouts v0.1.0](https://github.com/gl0bal01/terminal-layouts/releases/tag/v0.1.0) - 2026-06-22
 
 *Showing 5 of 24 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
 
 
 

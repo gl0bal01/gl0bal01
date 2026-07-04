@@ -4,6 +4,17 @@ Total releases: 24
 
 ---
 
+### [pai-anywhere v0.2.4 — security & code review remediation](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.2.4)
+
+Hardened, paste-installable host for Daniel Miessler's Personal AI Infrastructure (PAI) on a Linux VPS — private Tailscale access, isolated pai account, Pulse + gateway. One PAI, reachable from any device.
+
+- **Tag:** v0.2.4
+- **Published:** 2026-07-03
+- **Repository:** [pai-anywhere](https://github.com/gl0bal01/pai-anywhere)
+- **Total releases in repo:** 6
+
+---
+
 ### [pai-hermes v0.1.5 — production-grade community pass](https://github.com/gl0bal01/pai-hermes/releases/tag/v0.1.5)
 
 Hermes Agent bridge for the PAI ecosystem — 7 agentskills + 3 zero-cost cron jobs (cost guardrail, upstream watcher, mobile digest)
@@ -34,17 +45,6 @@ A gentle CTFd parser designed to minimize load on CTF platforms. CLI + Discord b
 - **Published:** 2026-06-23
 - **Repository:** [ctfd-warboard](https://github.com/gl0bal01/ctfd-warboard)
 - **Total releases in repo:** 4
-
----
-
-### [pai-anywhere v0.2.3 — doctor probe fixes](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.2.3)
-
-Hardened, paste-installable host for Daniel Miessler's Personal AI Infrastructure (PAI) on a Linux VPS — private Tailscale access, isolated pai account, Pulse + gateway. One PAI, reachable from any device.
-
-- **Tag:** v0.2.3
-- **Published:** 2026-06-22
-- **Repository:** [pai-anywhere](https://github.com/gl0bal01/pai-anywhere)
-- **Total releases in repo:** 5
 
 ---
 
