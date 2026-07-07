@@ -4,6 +4,17 @@ Total releases: 24
 
 ---
 
+### [devbox Weekly rebuild weekly-20260706](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260706)
+
+Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
+
+- **Tag:** weekly-20260706
+- **Published:** 2026-07-06
+- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
+- **Total releases in repo:** 8
+
+---
+
 ### [pai-anywhere v0.2.4 — security & code review remediation](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.2.4)
 
 Hardened, paste-installable host for Daniel Miessler's Personal AI Infrastructure (PAI) on a Linux VPS — private Tailscale access, isolated pai account, Pulse + gateway. One PAI, reachable from any device.
@@ -23,17 +34,6 @@ Hermes Agent bridge for the PAI ecosystem — 7 agentskills + 3 zero-cost cron j
 - **Published:** 2026-07-02
 - **Repository:** [pai-hermes](https://github.com/gl0bal01/pai-hermes)
 - **Total releases in repo:** 6
-
----
-
-### [devbox Weekly rebuild weekly-20260629](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260629)
-
-Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
-
-- **Tag:** weekly-20260629
-- **Published:** 2026-06-29
-- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
-- **Total releases in repo:** 7
 
 ---
 
