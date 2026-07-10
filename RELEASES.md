@@ -4,6 +4,17 @@ Total releases: 24
 
 ---
 
+### [discord-osint-assistant v2.3.0 — Blockchain Tracer, Testnets & Reports Archive](https://github.com/gl0bal01/discord-osint-assistant/releases/tag/v2.3.0)
+
+A powerful Discord bot for Open Source Intelligence (OSINT) gathering and analysis
+
+- **Tag:** v2.3.0
+- **Published:** 2026-07-09
+- **Repository:** [discord-osint-assistant](https://github.com/gl0bal01/discord-osint-assistant)
+- **Total releases in repo:** 3
+
+---
+
 ### [devbox Weekly rebuild weekly-20260706](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260706)
 
 Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
@@ -98,17 +109,6 @@ Single static Go CLI for the 1min.ai REST API — parallel multi-model consensus
 - **Published:** 2026-05-30
 - **Repository:** [omi](https://github.com/gl0bal01/omi)
 - **Total releases in repo:** 4
-
----
-
-### [discord-osint-assistant v2.2.0 — Observability, Ops & Hardening](https://github.com/gl0bal01/discord-osint-assistant/releases/tag/v2.2.0)
-
-A powerful Discord bot for Open Source Intelligence (OSINT) gathering and analysis
-
-- **Tag:** v2.2.0
-- **Published:** 2026-05-21
-- **Repository:** [discord-osint-assistant](https://github.com/gl0bal01/discord-osint-assistant)
-- **Total releases in repo:** 2
 
 ---
 
