@@ -72,6 +72,7 @@ It combines:
 * [Bookmarklets](https://github.com/gl0bal01/bookmarklets) — curated bookmarklets and shortcuts for OSINT and investigations.
 * [Discord OSINT Assistant](https://github.com/gl0bal01/discord-osint-assistant) — multi-tool Discord bot for OSINT gathering and analysis.
 * [Discord AWS Rekognition](https://github.com/gl0bal01/discord-amazon-rekognition) — Discord bot using AWS Rekognition for image analysis workflows.
+* [chainmap](https://github.com/gl0bal01/chainmap) — fully client-side blockchain fund-flow graph explorer.
 
 ### Security, Forensics & CTF Tooling
 
@@ -102,6 +103,7 @@ It combines:
 
 * [DevBox](https://github.com/gl0bal01/devbox) — Tailscale-first dev, pentest, and AI station with Traefik, Ollama, Open WebUI, Docker, cosign, SBOM, and SLSA.
 * [Terminal Layouts](https://github.com/gl0bal01/terminal-layouts) — single declarative manifest that generates both tmux (tmuxp YAML) and Zellij (KDL) workspaces from one source of truth, with parity enforced in CI.
+* [Self-Hosted Secrets Stack](https://github.com/gl0bal01/selfhosted-secrets-stack) — reproducible zero-exposure vault deployment: Passbolt (humans) + Infisical (machines) behind Tailscale.
 * [Black Box Architecture](https://github.com/gl0bal01/black-box-architecture) — turn codebases into modular, maintainable black boxes.
 * [WP Quick Dev](https://github.com/gl0bal01/wp-quick-dev) — WordPress plugin/theme development setup in under 60 seconds.
 
