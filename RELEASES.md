@@ -1,6 +1,39 @@
 # All Releases
 
-Total releases: 24
+Total releases: 25
+
+---
+
+### [ctfd-warboard v0.4.1](https://github.com/gl0bal01/ctfd-warboard/releases/tag/v0.4.1)
+
+A gentle CTFd parser designed to minimize load on CTF platforms. CLI + Discord bot for small-team collaboration, with automatic git sync to private repos.
+
+- **Tag:** v0.4.1
+- **Published:** 2026-07-13
+- **Repository:** [ctfd-warboard](https://github.com/gl0bal01/ctfd-warboard)
+- **Total releases in repo:** 5
+
+---
+
+### [chainmap v1.0.1](https://github.com/gl0bal01/chainmap/releases/tag/v1.0.1)
+
+Client-side EVM fund-flow graph explorer for OSINT investigation and blockchain education. Buildless, no backend, no telemetry.
+
+- **Tag:** v1.0.1
+- **Published:** 2026-07-13
+- **Repository:** [chainmap](https://github.com/gl0bal01/chainmap)
+- **Total releases in repo:** 2
+
+---
+
+### [devbox Weekly rebuild weekly-20260713](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260713)
+
+Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
+
+- **Tag:** weekly-20260713
+- **Published:** 2026-07-13
+- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
+- **Total releases in repo:** 9
 
 ---
 
@@ -12,17 +45,6 @@ A powerful Discord bot for Open Source Intelligence (OSINT) gathering and analys
 - **Published:** 2026-07-09
 - **Repository:** [discord-osint-assistant](https://github.com/gl0bal01/discord-osint-assistant)
 - **Total releases in repo:** 3
-
----
-
-### [devbox Weekly rebuild weekly-20260706](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260706)
-
-Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
-
-- **Tag:** weekly-20260706
-- **Published:** 2026-07-06
-- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
-- **Total releases in repo:** 8
 
 ---
 
@@ -45,17 +67,6 @@ Hermes Agent bridge for the PAI ecosystem — 7 agentskills + 3 zero-cost cron j
 - **Published:** 2026-07-02
 - **Repository:** [pai-hermes](https://github.com/gl0bal01/pai-hermes)
 - **Total releases in repo:** 6
-
----
-
-### [ctfd-warboard v0.4.0](https://github.com/gl0bal01/ctfd-warboard/releases/tag/v0.4.0)
-
-A gentle CTFd parser designed to minimize load on CTF platforms. CLI + Discord bot for small-team collaboration, with automatic git sync to private repos.
-
-- **Tag:** v0.4.0
-- **Published:** 2026-06-23
-- **Repository:** [ctfd-warboard](https://github.com/gl0bal01/ctfd-warboard)
-- **Total releases in repo:** 4
 
 ---
 
