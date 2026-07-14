@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/gl0bal01/discord-feed-watchers/commit/4f6549f8df282cae244a436c07549f773a77572b">4f6549f</a>
-- <a href="https://github.com/gl0bal01/gl0bal01/commit/5fd50ac75a0e6cb2ea31eb0ea249f86eaecd7363">5fd50ac</a>
-- <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/a65056fb94bc20df100ce1a1718431476725234c">a65056f</a>
-- <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/42ed999b7bf854c3b7c968dcb819fd5593f30539">42ed999</a>
-- <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/f7932defa5d469be9dbab72d3c7aa7ff511d9601">f7932de</a>
-- <a href="https://github.com/gl0bal01/omi/commit/ec32bcd72d6d8e2ce02029d3184189c9781bffcd">ec32bcd</a>
+- <a href="https://github.com/gl0bal01/chainmap/commit/7705d6392c6e6523fa822b928c683320f7479de4">7705d63</a>
+- <a href="https://github.com/gl0bal01/chainmap/commit/6542bcf041e004af8d2cb1b3ee60d2f95e37af66">6542bcf</a>
+- <a href="https://github.com/gl0bal01/chainmap/commit/fe6273f996ea8bd5d26293a958161970c19f138a">fe6273f</a>
+- <a href="https://github.com/gl0bal01/chainmap/commit/565add63b76cc4729b716fc72ed8d6116a4bc58c">565add6</a>
+- <a href="https://github.com/gl0bal01/chainmap/commit/fcfcaec05b7803633024ed9c1aab78c65114706a">fcfcaec</a>
+- <a href="https://github.com/gl0bal01/chainmap/commit/a18df70359afb642d6e073af6ff46375eee4a41b">a18df70</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
