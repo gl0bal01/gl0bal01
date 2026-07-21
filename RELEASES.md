@@ -4,6 +4,17 @@ Total releases: 25
 
 ---
 
+### [devbox Weekly rebuild weekly-20260720](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260720)
+
+Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
+
+- **Tag:** weekly-20260720
+- **Published:** 2026-07-20
+- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
+- **Total releases in repo:** 10
+
+---
+
 ### [ctfd-warboard v0.4.1](https://github.com/gl0bal01/ctfd-warboard/releases/tag/v0.4.1)
 
 A gentle CTFd parser designed to minimize load on CTF platforms. CLI + Discord bot for small-team collaboration, with automatic git sync to private repos.
@@ -23,17 +34,6 @@ Client-side EVM fund-flow graph explorer for OSINT investigation and blockchain 
 - **Published:** 2026-07-13
 - **Repository:** [chainmap](https://github.com/gl0bal01/chainmap)
 - **Total releases in repo:** 2
-
----
-
-### [devbox Weekly rebuild weekly-20260713](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260713)
-
-Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
-
-- **Tag:** weekly-20260713
-- **Published:** 2026-07-13
-- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
-- **Total releases in repo:** 9
 
 ---
 
