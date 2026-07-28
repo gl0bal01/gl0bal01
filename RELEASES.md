@@ -4,14 +4,14 @@ Total releases: 25
 
 ---
 
-### [devbox Weekly rebuild weekly-20260720](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260720)
+### [devbox Weekly rebuild weekly-20260727](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260727)
 
 Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
 
-- **Tag:** weekly-20260720
-- **Published:** 2026-07-20
+- **Tag:** weekly-20260727
+- **Published:** 2026-07-27
 - **Repository:** [devbox](https://github.com/gl0bal01/devbox)
-- **Total releases in repo:** 10
+- **Total releases in repo:** 11
 
 ---
 

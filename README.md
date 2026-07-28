@@ -254,7 +254,7 @@ The goal is simple: play, learn, build, and contribute useful challenges.
 <!-- releases start -->
 ## Latest Releases
 
-- [devbox Weekly rebuild weekly-20260720](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260720) - 2026-07-20
+- [devbox Weekly rebuild weekly-20260727](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260727) - 2026-07-27
 - [ctfd-warboard v0.4.1](https://github.com/gl0bal01/ctfd-warboard/releases/tag/v0.4.1) - 2026-07-13
 - [chainmap v1.0.1](https://github.com/gl0bal01/chainmap/releases/tag/v1.0.1) - 2026-07-13
 - [discord-osint-assistant v2.3.0 — Blockchain Tracer, Testnets & Reports Archive](https://github.com/gl0bal01/discord-osint-assistant/releases/tag/v2.3.0) - 2026-07-09
@@ -262,6 +262,7 @@ The goal is simple: play, learn, build, and contribute useful challenges.
 
 *Showing 5 of 25 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
 
 
 
