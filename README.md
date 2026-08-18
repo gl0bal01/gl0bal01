@@ -41,6 +41,33 @@ It combines:
 
 ---
 
+## Featured Project: [LeCodex.xyz](https://lecodex.xyz)
+
+[![LeCodex screenshot](./assets/lecodex.jpg)](https://lecodex.xyz)
+
+**The operational manual for digital investigators.**
+
+Intel Codex is a field manual for OSINT practitioners, digital investigators, and security analysts: standard operating procedures you can actually run, not theory.
+
+It covers:
+
+* Platform SOPs — Twitter/X, Instagram, Telegram, Discord, LinkedIn, Reddit, TikTok, Bluesky
+* Investigation techniques — entity dossiers, collection logs, chain of custody, OPSEC planning, legal and ethics review
+* Image/video OSINT — reverse search, geolocation, metadata
+* Infrastructure analysis — web, DNS, WHOIS
+* Financial and blockchain tracing — multi-chain, address clustering, bridge read-flow, sanctions, court-admissibility
+* Mixer and privacy-pool tracing — CoinJoin clustering, Tornado Cash heuristics, cross-chain obfuscation
+* Darkweb investigation — Tor/I2P, marketplace OSINT, vendor PGP pivots, ransomware leak sites
+* Malware analysis and penetration testing methods
+* Reporting and disclosure — evidence packaging, executive summaries, disclosure protocols
+* Sensitive crime intake and escalation routes
+
+All content reflects current best practices and is actively maintained.
+
+[Read the codex](https://lecodex.xyz) · [Online mirror](https://gl0bal01.com/intel-codex) · [Repo](https://github.com/gl0bal01/intel-codex)
+
+---
+
 ## Featured Project: [YouArePlayer.com](https://youareplayer.com)
 
 [![YouArePlayer screenshot](./assets/youareplayer.jpg)](https://youareplayer.com)
@@ -61,6 +88,7 @@ It combines:
 [Play now](https://youareplayer.com) · [About](https://about.youareplayer.com) · [Join Discord](https://discord.gg/T5tc9Rq8DV)
 
 ---
+
 
 ## Main Work
 
