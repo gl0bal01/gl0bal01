@@ -308,14 +308,15 @@ The goal is simple: play, learn, build, and contribute useful challenges.
 <!-- releases start -->
 ## Latest Releases
 
+- [pai-anywhere v0.3.0 — tailnet identity binding, Serve port safety, proxy stream cap](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.3.0) - 2026-08-21
 - [devbox Weekly rebuild weekly-20260817](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260817) - 2026-08-17
 - [ctfd-warboard v0.4.1](https://github.com/gl0bal01/ctfd-warboard/releases/tag/v0.4.1) - 2026-07-13
 - [chainmap v1.0.1](https://github.com/gl0bal01/chainmap/releases/tag/v1.0.1) - 2026-07-13
 - [discord-osint-assistant v2.3.0 — Blockchain Tracer, Testnets & Reports Archive](https://github.com/gl0bal01/discord-osint-assistant/releases/tag/v2.3.0) - 2026-07-09
-- [pai-anywhere v0.2.4 — security & code review remediation](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.2.4) - 2026-07-03
 
 *Showing 5 of 25 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
+
 
 
 

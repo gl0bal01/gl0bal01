@@ -4,6 +4,17 @@ Total releases: 25
 
 ---
 
+### [pai-anywhere v0.3.0 — tailnet identity binding, Serve port safety, proxy stream cap](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.3.0)
+
+Hardened, paste-installable host for Daniel Miessler's Personal AI Infrastructure (PAI) on a Linux VPS — private Tailscale access, isolated pai account, Pulse + gateway. One PAI, reachable from any device.
+
+- **Tag:** v0.3.0
+- **Published:** 2026-08-21
+- **Repository:** [pai-anywhere](https://github.com/gl0bal01/pai-anywhere)
+- **Total releases in repo:** 7
+
+---
+
 ### [devbox Weekly rebuild weekly-20260817](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260817)
 
 Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
@@ -45,17 +56,6 @@ A powerful Discord bot for Open Source Intelligence (OSINT) gathering and analys
 - **Published:** 2026-07-09
 - **Repository:** [discord-osint-assistant](https://github.com/gl0bal01/discord-osint-assistant)
 - **Total releases in repo:** 3
-
----
-
-### [pai-anywhere v0.2.4 — security & code review remediation](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.2.4)
-
-Hardened, paste-installable host for Daniel Miessler's Personal AI Infrastructure (PAI) on a Linux VPS — private Tailscale access, isolated pai account, Pulse + gateway. One PAI, reachable from any device.
-
-- **Tag:** v0.2.4
-- **Published:** 2026-07-03
-- **Repository:** [pai-anywhere](https://github.com/gl0bal01/pai-anywhere)
-- **Total releases in repo:** 6
 
 ---
 
