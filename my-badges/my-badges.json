@@ -5,5 +5,12 @@
     "desc": "I have five or more public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-5.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/gl0bal01/selfhosted-secrets-stack/pull/6\">#6</a>: Harden restore: validate backup archives and require clean target",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   }
 ]
