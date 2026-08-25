@@ -1,6 +1,28 @@
 # All Releases
 
-Total releases: 25
+Total releases: 26
+
+---
+
+### [selfhosted-secrets-stack v1.0.0](https://github.com/gl0bal01/selfhosted-secrets-stack/releases/tag/v1.0.0)
+
+Self-hosted secrets stack: Passbolt CE + Infisical behind Caddy with DNS-01 TLS — zero inbound ports, digest-pinned images, age-encrypted backups, and a CI CVE gate (trivy/gitleaks) that blocks deployable vulnerabilities.
+
+- **Tag:** v1.0.0
+- **Published:** 2026-08-24
+- **Repository:** [selfhosted-secrets-stack](https://github.com/gl0bal01/selfhosted-secrets-stack)
+- **Total releases in repo:** 1
+
+---
+
+### [devbox Weekly rebuild weekly-20260824](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260824)
+
+Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
+
+- **Tag:** weekly-20260824
+- **Published:** 2026-08-24
+- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
+- **Total releases in repo:** 15
 
 ---
 
@@ -12,17 +34,6 @@ Hardened, paste-installable host for Daniel Miessler's Personal AI Infrastructur
 - **Published:** 2026-08-21
 - **Repository:** [pai-anywhere](https://github.com/gl0bal01/pai-anywhere)
 - **Total releases in repo:** 7
-
----
-
-### [devbox Weekly rebuild weekly-20260817](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260817)
-
-Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
-
-- **Tag:** weekly-20260817
-- **Published:** 2026-08-17
-- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
-- **Total releases in repo:** 14
 
 ---
 
