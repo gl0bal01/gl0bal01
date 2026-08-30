@@ -191,7 +191,7 @@ A powerful Discord bot that leverages AWS Rekognition.
 
 ### [intel-codex Intel Codex - v2.0.0](https://github.com/gl0bal01/intel-codex/releases/tag/v2.0.0)
 
-Comprehensive operational knowledge base: OSINT, forensics, reverse engineering,   malware analysis, cryptography, smart-contract audit, cloud/AD/web pentesting,   blockchain tracing, and intelligence frameworks for security researchers and CTF players.
+Open-source field manual for OSINT, DFIR and cybersecurity investigations. Operational SOPs, browsable online or clonable as an Obsidian vault.
 
 - **Tag:** v2.0.0
 - **Published:** 2026-04-27
