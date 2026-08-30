@@ -14,7 +14,7 @@ I build tools, playbooks, bots, and platforms that help people investigate, lear
 
 - **CaseBandit** — OSINT investigation note-taking app: [casebandit.com](https://casebandit.com)
 - **YouArePlayer** — OSINT & cyber challenge platform: [youareplayer.com](https://youareplayer.com)
-- **LeCodex** — investigation and security SOPs: [lecodex.xyz](https://lecodex.xyz) - [repo](https://gl0bal01.com/intel-codex)
+- **LeCodex** — investigation and security SOPs: [lecodex.xyz](https://lecodex.xyz) · [repo](https://github.com/gl0bal01/intel-codex)
 - **Knowledge base** — cyber, reverse engineering, OSINT, and cheatsheets: [gl0bal01.com](https://gl0bal01.com)
 - **Curated links** — OSINT resources and tools: [start.me/u/gl0bal01](https://start.me/u/gl0bal01)
 
@@ -92,10 +92,11 @@ It combines:
 
 ## Main Work
 
+> 🔒 marks a private repository. Those links are my own shortcuts and will 404 for you.
+
 ### Investigation, OSINT & Intelligence Workflows
 
-* [Intel Codex Vault](https://github.com/gl0bal01/intel-codex) — 41 SOPs for digital investigators, security analysts, and OSINT practitioners.
-* [Intel Codex Online](https://gl0bal01.com/intel-codex) — online version of my investigation and security playbooks.
+* [Intel Codex](https://github.com/gl0bal01/intel-codex) — operational SOPs for digital investigators, security analysts, and OSINT practitioners. Read it at [lecodex.xyz](https://lecodex.xyz).
 * [DorkHound](https://github.com/gl0bal01/dorkhound) — fast Google dork URL generator for missing persons, Trace Labs, and OSINT investigations.
 * [Bookmarklets](https://github.com/gl0bal01/bookmarklets) — curated bookmarklets and shortcuts for OSINT and investigations.
 * [Discord OSINT Assistant](https://github.com/gl0bal01/discord-osint-assistant) — multi-tool Discord bot for OSINT gathering and analysis.
@@ -122,7 +123,7 @@ It combines:
 
 * [Discord Judge Bot](https://github.com/gl0bal01/discord-judge-bot) — challenge management, rewards, progress tracking, and automated reward distribution.
 * [Discord AI Assistant](https://github.com/gl0bal01/discord-ai-assistant) — AI chat functionality with memory through 1min.ai.
-* [Discord Watchlists](https://github.com/gl0bal01/discord-watchlists) — ransomware, CVE, FBI, and Europol alerts inside Discord.
+* [Discord Watchlists](https://github.com/gl0bal01/discord-feed-watchers) — ransomware, CVE, FBI, and Europol alerts inside Discord.
 * 🔒 [Decorated](https://github.com/gl0bal01/decorated-issuer) — verifiable-credential badge issuer and holder wallet for [decorated.pro](https://decorated.pro). VC-JWT (RS256), magic-link claim, StatusList 2021 revocation, public JWKS verification.
 * 🔒 [YAP Platform](https://about.youareplayer.com) — unified CTF challenge platform with Discord bot and web interface.
 * 🔒 Character Hub — private multi-tenant Discord AI persona platform with structured Souls, routing, and durable memory.
@@ -146,17 +147,17 @@ These are projects where I test ideas around automation, content systems, intell
 
 ### Intelligence, Media & Automation
 
-* [Oracle](https://github.com/gl0bal01/brand-search) — French brand intelligence platform for INPI trademark search, brand directories, and sponsored media detection.
-* [Scout](https://github.com/gl0bal01/scout-contracts) — merit-based content curation using LLM-scored RSS digests.
-* [X-Bot](https://github.com/gl0bal01/x-bot) — autonomous X profile manager.
-* [Legend Engine](https://github.com/gl0bal01/legend-engine) — full-auto social presence system.
+* 🔒 [Oracle](https://github.com/gl0bal01/brand-search) — French brand intelligence platform for INPI trademark search, brand directories, and sponsored media detection.
+* 🔒 [Scout](https://github.com/gl0bal01/scout-contracts) — merit-based content curation using LLM-scored RSS digests.
+* 🔒 [X-Bot](https://github.com/gl0bal01/x-bot) — autonomous X profile manager.
+* 🔒 [Legend Engine](https://github.com/gl0bal01/legend-engine) — full-auto social presence system.
 
 ### Content Pipelines
 
-* [Pocketflow Content Generator](https://github.com/gl0bal01/pocketflow-content-generator) — 7-agent pipeline: Idea, Research, Writer, Image, SEO, Quality, and Publisher.
-* [Pocketflow Repurpose Machine](https://github.com/gl0bal01/pocketflow-repurpose-machine) — turns existing content into platform-optimized outputs.
-* [Pocketflow Thumbnail Forge](https://github.com/gl0bal01/thumbnail-forge) — click-optimized thumbnails for social platforms.
-* [Pocketflow Internal Link](https://github.com/gl0bal01/pocketflow-internal-link) — AI-powered internal linking suggestions for large editorial sites.
+* 🔒 [Pocketflow Content Generator](https://github.com/gl0bal01/pocketflow-content-generator) — 7-agent pipeline: Idea, Research, Writer, Image, SEO, Quality, and Publisher.
+* 🔒 [Pocketflow Repurpose Machine](https://github.com/gl0bal01/pocketflow-repurpose-machine) — turns existing content into platform-optimized outputs.
+* 🔒 [Pocketflow Thumbnail Forge](https://github.com/gl0bal01/thumbnail-forge) — click-optimized thumbnails for social platforms.
+* 🔒 [Pocketflow Internal Link](https://github.com/gl0bal01/pocketflow-internal-link) — AI-powered internal linking suggestions for large editorial sites.
 
 ### Docusaurus
 
@@ -165,8 +166,8 @@ These are projects where I test ideas around automation, content systems, intell
 
 ### Other
 
-* [Cygnus Trading Framework](https://github.com/gl0bal01/cygnus) — multi-strategy trading framework for Interactive Brokers.
-* [Zero-Trust Lifestyle](https://github.com/gl0bal01/zero-trust-lifestyle) — Bash scripts for paranoid developer workflows.
+* 🔒 [Cygnus Trading Framework](https://github.com/gl0bal01/cygnus) — multi-strategy trading framework for Interactive Brokers.
+* 🔒 [Zero-Trust Lifestyle](https://github.com/gl0bal01/zero-trust-lifestyle) — Bash scripts for paranoid developer workflows.
 * 🔒 [Spectrum Gene Explorer](https://github.com/gl0bal01/spectrum-gene-explorer) — non-diagnostic gene–phenotype literature navigator for autism, built on HPO + SFARI data with ranked candidate genes and source citations.
 
 </details>
@@ -177,10 +178,10 @@ These are projects where I test ideas around automation, content systems, intell
 
 Intel Codex is my structured knowledge base for investigation, OSINT, cyber analysis, and operational workflows.
 
-* [Investigations](https://gl0bal01.com/intel-codex/category/investigations)
-* [Investigation Techniques](https://gl0bal01.com/intel-codex/category/investigation-techniques)
-* [Security Analysis SOPs](https://gl0bal01.com/intel-codex/Security/Analysis/Analysis-Index)
-* [Penetration Testing SOPs](https://gl0bal01.com/intel-codex/Security/Pentesting/Pentesting-Index)
+* [Investigations](https://lecodex.xyz/Investigations/Investigations-Index)
+* [Investigation Techniques](https://lecodex.xyz/Investigations/Techniques/Techniques-Index)
+* [Security Analysis SOPs](https://lecodex.xyz/Security/Analysis/Analysis-Index)
+* [Penetration Testing SOPs](https://lecodex.xyz/Security/Pentesting/Pentesting-Index)
 
 Repository: [github.com/gl0bal01/intel-codex](https://github.com/gl0bal01/intel-codex)
 
@@ -209,108 +210,6 @@ The goal is simple: play, learn, build, and contribute useful challenges.
 <!-- blog-post end -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 <!-- releases start -->
@@ -324,108 +223,6 @@ The goal is simple: play, learn, build, and contribute useful challenges.
 
 *Showing 5 of 26 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ---
