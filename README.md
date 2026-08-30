@@ -26,18 +26,9 @@ I build tools, playbooks, bots, and platforms that help people investigate, lear
 
 **Local-first OSINT investigation notes. Forensic by design.**
 
-CaseBandit is an OSINT investigation note-taking app with local-first architecture, optional cloud sync, and a browser extension for one-shortcut capture.
+Auto entity extraction · typed relationships · Admiralty source grading · append-only audit ledger · signed export with chain of custody.
 
-It combines:
-
-* Auto entity extraction (emails, IPs, domains, phones, handles, ETH/BTC wallets)
-* Typed relationships with confidence, direction, and source grading
-* Admiralty NATO source grading
-* Append-only forensic audit ledger
-* Signed PDF/CSV export with chain-of-custody
-* Full-text search, timeline, and graph view
-
-[Visit casebandit.com](https://casebandit.com) · [App](https://app.casebandit.com)
+[casebandit.com](https://casebandit.com) · [App](https://app.casebandit.com)
 
 ---
 
@@ -47,24 +38,9 @@ It combines:
 
 **The operational manual for digital investigators.**
 
-Intel Codex is a field manual for OSINT practitioners, digital investigators, and security analysts: standard operating procedures you can actually run, not theory.
+Standard operating procedures you can actually run: OSINT platforms, blockchain and mixer tracing, darkweb, malware, pentesting, reporting and escalation.
 
-It covers:
-
-* Platform SOPs — Twitter/X, Instagram, Telegram, Discord, LinkedIn, Reddit, TikTok, Bluesky
-* Investigation techniques — entity dossiers, collection logs, chain of custody, OPSEC planning, legal and ethics review
-* Image/video OSINT — reverse search, geolocation, metadata
-* Infrastructure analysis — web, DNS, WHOIS
-* Financial and blockchain tracing — multi-chain, address clustering, bridge read-flow, sanctions, court-admissibility
-* Mixer and privacy-pool tracing — CoinJoin clustering, Tornado Cash heuristics, cross-chain obfuscation
-* Darkweb investigation — Tor/I2P, marketplace OSINT, vendor PGP pivots, ransomware leak sites
-* Malware analysis and penetration testing methods
-* Reporting and disclosure — evidence packaging, executive summaries, disclosure protocols
-* Sensitive crime intake and escalation routes
-
-All content reflects current best practices and is actively maintained.
-
-[Read the codex](https://lecodex.xyz) · [Online mirror](https://gl0bal01.com/intel-codex) · [Repo](https://github.com/gl0bal01/intel-codex)
+[Read the codex](https://lecodex.xyz) · [Repo](https://github.com/gl0bal01/intel-codex)
 
 ---
 
@@ -74,16 +50,7 @@ All content reflects current best practices and is actively maintained.
 
 **Crack the code. Think outside the box.**
 
-YouArePlayer is a CTF and OSINT challenge platform built for players, challenge creators, and Discord communities.
-
-It combines:
-
-* Web-based challenge hosting
-* Discord bot integration
-* OSINT and cyber puzzle workflows
-* Score tracking
-* Community play
-* Creator-friendly challenge publishing
+CTF and OSINT challenge platform for players, creators and Discord communities: hosted challenges, Discord bot, score tracking.
 
 [Play now](https://youareplayer.com) · [About](https://about.youareplayer.com) · [Join Discord](https://discord.gg/T5tc9Rq8DV)
 
