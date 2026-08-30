@@ -12,7 +12,23 @@ jobs:
   my-badges:
     runs-on: ubuntu-latest
     steps:
+      # update-my-badges walks every repository on the account and their commit
+      # history. secrets.GITHUB_TOKEN only reaches this one repository, so on
+      # 2026-07-23 the run judged 25 of 27 badges unearned and pruned them, then
+      # kept reporting success. MY_BADGES_TOKEN is a PAT with repo + read:user.
+      # Without it the job stops instead of silently deleting badges again.
+      - name: Require a cross-repository token
+        env:
+          MY_BADGES_TOKEN: ${{ secrets.MY_BADGES_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [ -z "${MY_BADGES_TOKEN}" ]; then
+            echo "::error::MY_BADGES_TOKEN is not set. Create a PAT with 'repo' and"
+            echo "::error::'read:user', add it as a repository secret, then re-run."
+            exit 1
+          fi
+
       - name: Update My Badges
         run: npx update-my-badges ${{github.repository_owner}}
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MY_BADGES_TOKEN }}

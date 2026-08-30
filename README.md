@@ -141,29 +141,6 @@ These are projects where I test ideas around automation, content systems, intell
 
 ---
 
-## Intel Codex
-
-Intel Codex is my structured knowledge base for investigation, OSINT, cyber analysis, and operational workflows.
-
-* [Investigations](https://lecodex.xyz/Investigations/Investigations-Index)
-* [Investigation Techniques](https://lecodex.xyz/Investigations/Techniques/Techniques-Index)
-* [Security Analysis SOPs](https://lecodex.xyz/Security/Analysis/Analysis-Index)
-* [Penetration Testing SOPs](https://lecodex.xyz/Security/Pentesting/Pentesting-Index)
-
-Repository: [github.com/gl0bal01/intel-codex](https://github.com/gl0bal01/intel-codex)
-
----
-
-## Community
-
-I run a Discord community and CTF platform for people who like OSINT, cybersecurity puzzles, investigations, and capture-the-flag challenges.
-
-The goal is simple: play, learn, build, and contribute useful challenges.
-
-[Learn & Play](https://youareplayer.com) · [Join Discord](https://discord.gg/T5tc9Rq8DV)
-
----
-
 <!-- blog-post start -->
 ## Latest Blog Posts
 
