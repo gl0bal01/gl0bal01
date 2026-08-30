@@ -2,7 +2,7 @@
 <strong>I&apos;ve starred 1 my own repositories.</strong>
 <br><br>
 
-- <a href="https://github.com/gl0bal01/games">gl0bal01/games</a>
+- <a href="https://github.com/gl0bal01/game-sources">gl0bal01/game-sources</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
