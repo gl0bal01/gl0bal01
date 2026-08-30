@@ -68,6 +68,11 @@ jobs:
 
           marker_start = readme_content.find('<!-- blog-post start -->')
           marker_end = readme_content.find('<!-- blog-post end -->') + len('<!-- blog-post end -->')
+          # The replacement re-emits the marker with its own newline, so consume
+          # the existing one here. Without this the file grew by one blank line
+          # on every run.
+          if readme_content[marker_end:marker_end + 1] == '\n':
+              marker_end += 1
 
           with open('blog_content.txt', 'r') as content_file:
               blog_section = content_file.read()

@@ -1,0 +1,3 @@
+# Agent runtime artifacts, never part of the profile.
+.omc/
+.omo/

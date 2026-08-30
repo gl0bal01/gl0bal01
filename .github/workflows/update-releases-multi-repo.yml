@@ -194,6 +194,11 @@ jobs:
 
           marker_start = readme_content.find('<!-- releases start -->')
           marker_end = readme_content.find('<!-- releases end -->') + len('<!-- releases end -->')
+          # The replacement re-emits the marker with its own newline, so consume
+          # the existing one here. Without this the file grew by one blank line
+          # on every run.
+          if readme_content[marker_end:marker_end + 1] == '\n':
+              marker_end += 1
 
           if marker_start == -1:
               print('Warning: Could not find release markers in README.md')
