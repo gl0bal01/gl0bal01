@@ -15,20 +15,28 @@ jobs:
       # update-my-badges walks every repository on the account and their commit
       # history. secrets.GITHUB_TOKEN only reaches this one repository, so on
       # 2026-07-23 the run judged 25 of 27 badges unearned and pruned them, then
-      # kept reporting success. MY_BADGES_TOKEN is a PAT with repo + read:user.
-      # Without it the job stops instead of silently deleting badges again.
+      # kept reporting success. MY_BADGES_TOKEN supplies the cross-repository
+      # read it needs. Without it the job stops instead of silently deleting
+      # badges again.
+      #
+      # Keep that token as narrow as it can be. Badges are computed from public
+      # activity, so read-only access to public repositories plus read:user is
+      # enough; a classic token with full 'repo' would hand write access to every
+      # private repository on the account to a third-party npm package that runs
+      # unattended on a schedule.
       - name: Require a cross-repository token
         env:
           MY_BADGES_TOKEN: ${{ secrets.MY_BADGES_TOKEN }}
         run: |
           set -euo pipefail
           if [ -z "${MY_BADGES_TOKEN}" ]; then
-            echo "::error::MY_BADGES_TOKEN is not set. Create a PAT with 'repo' and"
-            echo "::error::'read:user', add it as a repository secret, then re-run."
+            echo "::error::MY_BADGES_TOKEN is not set. Create a token with read-only"
+            echo "::error::access to public repositories plus read:user, add it as a"
+            echo "::error::repository secret, then re-run."
             exit 1
           fi
 
       - name: Update My Badges
-        run: npx update-my-badges ${{github.repository_owner}}
+        run: npx --yes update-my-badges@1.0.247 ${{github.repository_owner}}
         env:
           GITHUB_TOKEN: ${{ secrets.MY_BADGES_TOKEN }}
