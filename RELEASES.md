@@ -4,6 +4,17 @@ Total releases: 26
 
 ---
 
+### [omi v0.3.0](https://github.com/gl0bal01/omi/releases/tag/v0.3.0)
+
+Single static Go CLI for the 1min.ai REST API — parallel multi-model consensus panel, Unix-pipe composition, typed model registry.
+
+- **Tag:** v0.3.0
+- **Published:** 2026-09-03
+- **Repository:** [omi](https://github.com/gl0bal01/omi)
+- **Total releases in repo:** 5
+
+---
+
 ### [devbox Weekly rebuild weekly-20260831](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260831)
 
 Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
@@ -120,17 +131,6 @@ JavaScript bookmarklets for OSINT, security research, and CTF — no install, no
 - **Published:** 2026-06-09
 - **Repository:** [bookmarklets](https://github.com/gl0bal01/bookmarklets)
 - **Total releases in repo:** 5
-
----
-
-### [omi v0.2.0](https://github.com/gl0bal01/omi/releases/tag/v0.2.0)
-
-Single static Go CLI for the 1min.ai REST API — parallel multi-model consensus panel, Unix-pipe composition, typed model registry.
-
-- **Tag:** v0.2.0
-- **Published:** 2026-05-30
-- **Repository:** [omi](https://github.com/gl0bal01/omi)
-- **Total releases in repo:** 4
 
 ---
 
