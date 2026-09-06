@@ -4,6 +4,17 @@ Total releases: 26
 
 ---
 
+### [malware-analysis-claude-skills v1.3.0 — Agentic malware analysis + plugin](https://github.com/gl0bal01/malware-analysis-claude-skills/releases/tag/v1.3.0)
+
+Complete Claude skills toolkit for professional malware analysis. 5 specialized skills covering triage, dynamic analysis, detection engineering, and reporting. Works with   REMnux/FlareVM offline environments.
+
+- **Tag:** v1.3.0
+- **Published:** 2026-09-05
+- **Repository:** [malware-analysis-claude-skills](https://github.com/gl0bal01/malware-analysis-claude-skills)
+- **Total releases in repo:** 4
+
+---
+
 ### [omi v0.3.0](https://github.com/gl0bal01/omi/releases/tag/v0.3.0)
 
 Single static Go CLI for the 1min.ai REST API — parallel multi-model consensus panel, Unix-pipe composition, typed model registry.
@@ -197,17 +208,6 @@ Open-source field manual for OSINT, DFIR and cybersecurity investigations. Opera
 - **Published:** 2026-04-27
 - **Repository:** [intel-codex](https://github.com/gl0bal01/intel-codex)
 - **Total releases in repo:** 2
-
----
-
-### [malware-analysis-claude-skills v1.2.0 — Production-Readiness Pass](https://github.com/gl0bal01/malware-analysis-claude-skills/releases/tag/v1.2.0)
-
-Complete Claude skills toolkit for professional malware analysis. 5 specialized skills covering triage, dynamic analysis, detection engineering, and reporting. Works with   REMnux/FlareVM offline environments.
-
-- **Tag:** v1.2.0
-- **Published:** 2026-04-12
-- **Repository:** [malware-analysis-claude-skills](https://github.com/gl0bal01/malware-analysis-claude-skills)
-- **Total releases in repo:** 3
 
 ---
 
