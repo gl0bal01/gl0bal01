@@ -132,6 +132,11 @@ Commits:
 - <a href="https://github.com/gl0bal01/llm-1minai/commit/5b24a3ed1dfca430a5fcdd1b243cccd2a65f96d4">5b24a3e</a>
 - <a href="https://github.com/gl0bal01/llm-1minai/commit/270a8aab691ea6e6475a1ce500bed5279a595ecd">270a8aa</a>
 - <a href="https://github.com/gl0bal01/llm-1minai/commit/2f8aec76a4d3af1773a8bc0e10300216995eea79">2f8aec7</a>
+- <a href="https://github.com/gl0bal01/malware-analysis-claude-skills/commit/e1d9a1a8e18e3db8f3534436cfc763c53b6b3350">e1d9a1a</a>
+- <a href="https://github.com/gl0bal01/malware-analysis-claude-skills/commit/06c9420c79cfe97d1d3147bca17f1ff262a54115">06c9420</a>
+- <a href="https://github.com/gl0bal01/malware-analysis-claude-skills/commit/fd80b2af242b24b29a23eba135ef04f86b47462c">fd80b2a</a>
+- <a href="https://github.com/gl0bal01/malware-analysis-claude-skills/commit/2e4fd6110e8f57fddb9db306a4547e7d04a534c0">2e4fd61</a>
+- <a href="https://github.com/gl0bal01/malware-analysis-claude-skills/commit/0eb8f5d614eacaa10e47e70ba72edb92c605f2b5">0eb8f5d</a>
 - <a href="https://github.com/gl0bal01/malware-analysis-claude-skills/commit/09f91e4d69d6d15629b9fa09c889b4b93c02bed5">09f91e4</a>
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/af37ccdacb9a9dd535e6fa25e626dd9423b30f7b">af37ccd</a>
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/4f90ffde6d6c1a49f1f70d92ee9ab7198cf06208">4f90ffd</a>
