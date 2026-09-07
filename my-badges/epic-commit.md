@@ -62,6 +62,8 @@ Commits:
 - <a href="https://github.com/gl0bal01/pai-hermes/commit/e4f8ddc9320b9937a246ccad1a88d210f7b68b13">e4f8ddc</a>
 - <a href="https://github.com/gl0bal01/pai-hermes/commit/c57f5008e722e9f44efebc21323415086f437527">c57f500</a>
 - <a href="https://github.com/gl0bal01/pai-hermes/commit/83af01514deb603e5dc42c4f8710b2565b9dd4f8">83af015</a>
+- <a href="https://github.com/gl0bal01/devbox/commit/f259d383976ffc83353fa96226bf525137cead78">f259d38</a>
+- <a href="https://github.com/gl0bal01/devbox/commit/c6f83ba74a1abfb12689d0725476c5643c543626">c6f83ba</a>
 - <a href="https://github.com/gl0bal01/devbox/commit/b094b1c7572977afd5626d2116c188e984a20b16">b094b1c</a>
 - <a href="https://github.com/gl0bal01/devbox/commit/4a3a63a7c92ff4ff97b9e3eba81bbf98da290c49">4a3a63a</a>
 - <a href="https://github.com/gl0bal01/omi/commit/96f4da5395198b8e678640adbee3893a4df3d549">96f4da5</a>
