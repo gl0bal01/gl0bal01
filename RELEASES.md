@@ -1,6 +1,6 @@
 # All Releases
 
-Total releases: 26
+Total releases: 24
 
 ---
 
@@ -48,17 +48,6 @@ Self-hosted secrets stack: Passbolt CE + Infisical behind Caddy with DNS-01 TLS 
 
 ---
 
-### [pai-anywhere v0.3.0 — tailnet identity binding, Serve port safety, proxy stream cap](https://github.com/gl0bal01/pai-anywhere/releases/tag/v0.3.0)
-
-Hardened, paste-installable host for Daniel Miessler's Personal AI Infrastructure (PAI) on a Linux VPS — private Tailscale access, isolated pai account, Pulse + gateway. One PAI, reachable from any device.
-
-- **Tag:** v0.3.0
-- **Published:** 2026-08-21
-- **Repository:** [pai-anywhere](https://github.com/gl0bal01/pai-anywhere)
-- **Total releases in repo:** 7
-
----
-
 ### [ctfd-warboard v0.4.1](https://github.com/gl0bal01/ctfd-warboard/releases/tag/v0.4.1)
 
 A gentle CTFd parser designed to minimize load on CTF platforms. CLI + Discord bot for small-team collaboration, with automatic git sync to private repos.
@@ -89,17 +78,6 @@ A powerful Discord bot for Open Source Intelligence (OSINT) gathering and analys
 - **Published:** 2026-07-09
 - **Repository:** [discord-osint-assistant](https://github.com/gl0bal01/discord-osint-assistant)
 - **Total releases in repo:** 3
-
----
-
-### [pai-hermes v0.1.5 — production-grade community pass](https://github.com/gl0bal01/pai-hermes/releases/tag/v0.1.5)
-
-Hermes Agent bridge for the PAI ecosystem — 7 agentskills + 3 zero-cost cron jobs (cost guardrail, upstream watcher, mobile digest)
-
-- **Tag:** v0.1.5
-- **Published:** 2026-07-02
-- **Repository:** [pai-hermes](https://github.com/gl0bal01/pai-hermes)
-- **Total releases in repo:** 6
 
 ---
 
