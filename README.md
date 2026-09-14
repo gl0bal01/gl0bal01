@@ -172,17 +172,15 @@ Turn on-chain transactions into interactive graphs with investigation overlays a
 ---
 
 <!-- releases start -->
-
 ## Latest Releases
 
-- [malware-analysis-claude-skills v1.3.0](https://github.com/gl0bal01/malware-analysis-claude-skills/releases/tag/v1.3.0)
-- [omi v0.3.0](https://github.com/gl0bal01/omi/releases/tag/v0.3.0)
-- [DevBox weekly release](https://github.com/gl0bal01/devbox/releases)
-- [selfhosted-secrets-stack v1.0.0](https://github.com/gl0bal01/selfhosted-secrets-stack/releases/tag/v1.0.0)
-- [ctfd-warboard v0.4.1](https://github.com/gl0bal01/ctfd-warboard/releases/tag/v0.4.1)
+- [malware-analysis-claude-skills v1.3.0 — Agentic malware analysis + plugin](https://github.com/gl0bal01/malware-analysis-claude-skills/releases/tag/v1.3.0) - 2026-09-05
+- [omi v0.3.0](https://github.com/gl0bal01/omi/releases/tag/v0.3.0) - 2026-09-03
+- [devbox Weekly rebuild weekly-20260831](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260831) - 2026-08-31
+- [selfhosted-secrets-stack v1.0.0](https://github.com/gl0bal01/selfhosted-secrets-stack/releases/tag/v1.0.0) - 2026-08-24
+- [ctfd-warboard v0.4.1](https://github.com/gl0bal01/ctfd-warboard/releases/tag/v0.4.1) - 2026-07-13
 
-[View all releases →](RELEASES.md)
-
+*Showing 5 of 24 releases* • [View More →](RELEASES.md)
 <!-- releases end -->
 
 ---
