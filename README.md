@@ -156,17 +156,15 @@ Turn on-chain transactions into interactive graphs with investigation overlays a
 ---
 
 <!-- blog-post start -->
-
 ## Latest Blog Posts
 
-- **[chainmap: Turn On-Chain Transactions Into a Fund-Flow Graph](https://gl0bal01.com/blog/chainmap)** — Explore blockchain transactions as an interactive fund-flow graph directly in your browser.
-- **[Free Encrypted Postgres Backups to Cloudflare R2](https://gl0bal01.com/blog/free-postgres-backup-r2-cloudflare)** — Build automated, encrypted, off-site PostgreSQL backups within Cloudflare's free tier.
-- **[Intel Codex v2.0](https://gl0bal01.com/blog/intel-codex-v2)** — New investigation procedures for cloud forensics, SaaS logs, blockchain tracing, and container security.
-- **[pwndocker-reverse](https://gl0bal01.com/blog/pwndocker-reverse)** — One Docker image containing more than 45 tools for pwn and reverse engineering.
-- **[Volatility Toolkit v2](https://gl0bal01.com/blog/volatility-toolkit)** — Automated memory-forensics workflows for Windows, Linux, and macOS.
+- **[chainmap: Turn On-Chain Transactions Into a Fund-Flow Graph](https://gl0bal01.com/blog/chainmap)** - chainmap turns a wallet address into an interactive fund-flow graph, entirely in your browser. Follow the money on-chain without living in twenty Etherscan tabs. Live at chainmap.gl0bal01.com....
+- **[Free Encrypted Postgres Backups to Cloudflare R2](https://gl0bal01.com/blog/free-postgres-backup-r2-cloudflare)** - Set up automated, encrypted, off-site daily PostgreSQL backups to Cloudflare R2 within the free tier using a sidecar container, rclone, and client-side encryption....
+- **[Intel Codex v2.0: 41 SOPs, Cloud Forensics, and Blockchain Tracing](https://gl0bal01.com/blog/intel-codex-v2)** - Intel Codex v2.0 expands to 41 SOPs with 11 new procedures covering cloud forensics, SaaS log analysis, blockchain tracing, mixer attribution, and container/Kubernetes pentesting....
+- **[pwndocker-reverse: One Docker Image for CTF Pwn and Reverse Engineering](https://gl0bal01.com/blog/pwndocker-reverse)** - A single Dockerfile with 45+ pwn and reverse-engineering tools — 7 disassemblers, 3 GDB plugins with instant switching, AFL++, frida, and a pre-populated command history. Rebuilt weekly and signed wit...
+- **[Volatility Toolkit v2: Automated Memory Forensics for Windows, Linux, and macOS](https://gl0bal01.com/blog/volatility-toolkit)** - Automated Volatility 3 wrapper for Windows, Linux, and macOS memory dumps. Auto-detects OS, runs 30/21/20 plugins in parallel, extracts IOCs, generates structured reports with chain-of-custody checksu...
 
-[Read all articles →](https://gl0bal01.com/blog)
-
+[**View More →**](https://gl0bal01.com/blog/)
 <!-- blog-post end -->
 
 ---
