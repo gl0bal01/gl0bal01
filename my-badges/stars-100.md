@@ -22,6 +22,7 @@ Repos:
 * <a href="https://github.com/gl0bal01/docusaurus-plugin-obsidian-vault">gl0bal01/docusaurus-plugin-obsidian-vault: ★1</a>
 * <a href="https://github.com/gl0bal01/contract-agents">gl0bal01/contract-agents: ★1</a>
 * <a href="https://github.com/gl0bal01/ctfd-warboard">gl0bal01/ctfd-warboard: ★1</a>
+* <a href="https://github.com/gl0bal01/devbox">gl0bal01/devbox: ★1</a>
 * <a href="https://github.com/gl0bal01/fissure">gl0bal01/fissure: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
