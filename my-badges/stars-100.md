@@ -4,15 +4,15 @@
 
 Repos:
 
-* <a href="https://github.com/gl0bal01/intel-codex">gl0bal01/intel-codex: ★58</a>
+* <a href="https://github.com/gl0bal01/intel-codex">gl0bal01/intel-codex: ★59</a>
 * <a href="https://github.com/gl0bal01/malware-analysis-claude-skills">gl0bal01/malware-analysis-claude-skills: ★47</a>
 * <a href="https://github.com/gl0bal01/bookmarklets">gl0bal01/bookmarklets: ★8</a>
 * <a href="https://github.com/gl0bal01/discord-osint-assistant">gl0bal01/discord-osint-assistant: ★5</a>
 * <a href="https://github.com/gl0bal01/llm-1minai">gl0bal01/llm-1minai: ★5</a>
 * <a href="https://github.com/gl0bal01/dorkhound">gl0bal01/dorkhound: ★4</a>
+* <a href="https://github.com/gl0bal01/chainmap">gl0bal01/chainmap: ★4</a>
 * <a href="https://github.com/gl0bal01/gl0bal01">gl0bal01/gl0bal01: ★3</a>
 * <a href="https://github.com/gl0bal01/pwndocker-reverse">gl0bal01/pwndocker-reverse: ★3</a>
-* <a href="https://github.com/gl0bal01/chainmap">gl0bal01/chainmap: ★3</a>
 * <a href="https://github.com/gl0bal01/volatility-toolkit">gl0bal01/volatility-toolkit: ★2</a>
 * <a href="https://github.com/gl0bal01/volatility-windows-analysis">gl0bal01/volatility-windows-analysis: ★1</a>
 * <a href="https://github.com/gl0bal01/gl0bal01.github.io">gl0bal01/gl0bal01.github.io: ★1</a>
