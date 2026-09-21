@@ -26,6 +26,9 @@ Commits:
 - <a href="https://github.com/gl0bal01/discord-feed-watchers/commit/5ae1db02e7f48e2529815397c9f0e8403cff4fa3">5ae1db0</a>
 - <a href="https://github.com/gl0bal01/discord-feed-watchers/commit/5bc81a78c95445b6474e2a51f71ae712b98c9c58">5bc81a7</a>
 - <a href="https://github.com/gl0bal01/discord-feed-watchers/commit/628b65f9b6f0e62b91a544b06a7c199ae7d8c552">628b65f</a>
+- <a href="https://github.com/gl0bal01/lecodex/commit/f7ec2e91b5355196cea795498f7f2dbca88286a9">f7ec2e9</a>
+- <a href="https://github.com/gl0bal01/lecodex/commit/9b00d60a164fc08777787e778f711acc8e969834">9b00d60</a>
+- <a href="https://github.com/gl0bal01/lecodex/commit/efd11999d868de6cb44f2ab45f8b9552cee65aca">efd1199</a>
 - <a href="https://github.com/gl0bal01/lecodex/commit/f91a2ae756a6069cf1e9b566ea5af628c2acb620">f91a2ae</a>
 - <a href="https://github.com/gl0bal01/lecodex/commit/633e844e3ceb3d0c75ef6648ed8673d7ae5cd2a9">633e844</a>
 - <a href="https://github.com/gl0bal01/lecodex/commit/ce015ccb92046e416e707974480560918bd2c996">ce015cc</a>
@@ -112,6 +115,11 @@ Commits:
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/d0eb8c8c119e16838a589d4fac217d993559723c">d0eb8c8</a>
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/1fbdc95d3d08fcde319960a8e6535731cf24d057">1fbdc95</a>
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/4b482382f1ccac7444b56243fac2121fb3d69236">4b48238</a>
+- <a href="https://github.com/gl0bal01/intel-codex/commit/c02842ee04394208481df21d6c8fcda0e67a95cc">c02842e</a>
+- <a href="https://github.com/gl0bal01/intel-codex/commit/a4383dcb88bd89a01972e7830f71d4f550001969">a4383dc</a>
+- <a href="https://github.com/gl0bal01/intel-codex/commit/8cbc361fb46c8a39fff0452a23ddfd9dedb4c60f">8cbc361</a>
+- <a href="https://github.com/gl0bal01/intel-codex/commit/2e73b2cba3d5ee9e8f05f051aaa1f305306a22b5">2e73b2c</a>
+- <a href="https://github.com/gl0bal01/intel-codex/commit/515af142f96c47eb7672c9a8df7fd9f96646a72c">515af14</a>
 - <a href="https://github.com/gl0bal01/intel-codex/commit/e7cec9c091ed26ea9b6853f23696cfd4ce575d80">e7cec9c</a>
 - <a href="https://github.com/gl0bal01/intel-codex/commit/7747be05538ef5471a87053dadc72538b6b0ebc2">7747be0</a>
 - <a href="https://github.com/gl0bal01/intel-codex/commit/1e64dba265b3054825d0e8452c7e423f3fcd0379">1e64dba</a>
@@ -145,6 +153,9 @@ Commits:
 - <a href="https://github.com/gl0bal01/discord-ai-assistant/commit/c9e653b21b8c6b4c4db53ee099ab6d56baa01381">c9e653b</a>
 - <a href="https://github.com/gl0bal01/bookmarklets/commit/29d18e9886eb1dedb73bbe968e210003ceb53600">29d18e9</a>
 - <a href="https://github.com/gl0bal01/bookmarklets/commit/adb8fa27ea24d28617fb4c25979b4cd57d8757cb">adb8fa2</a>
+- <a href="https://github.com/gl0bal01/gl0bal01.github.io/commit/b4fae7495daf2753d2d93bf55464a5e2dc832599">b4fae74</a>
+- <a href="https://github.com/gl0bal01/gl0bal01.github.io/commit/585a0aea8cca326edde1f62135b94b5ca13c80fd">585a0ae</a>
+- <a href="https://github.com/gl0bal01/gl0bal01.github.io/commit/8d5de96a22bacf7b6bf663d4d7f382f9726b6266">8d5de96</a>
 - <a href="https://github.com/gl0bal01/gl0bal01.github.io/commit/d40cf74145d62603a446efbdd1e86c6ae65d067f">d40cf74</a>
 - <a href="https://github.com/gl0bal01/gl0bal01.github.io/commit/a529dfe098573ad94e5f143f32d42bac571c80f3">a529dfe</a>
 - <a href="https://github.com/gl0bal01/gl0bal01.github.io/commit/f4ba7ff5d3c2acc708d751c25ddb56b79111d7dc">f4ba7ff</a>
