@@ -7,7 +7,7 @@ Repos:
 * <a href="https://github.com/gl0bal01/intel-codex">gl0bal01/intel-codex: ★62</a>
 * <a href="https://github.com/gl0bal01/malware-analysis-claude-skills">gl0bal01/malware-analysis-claude-skills: ★49</a>
 * <a href="https://github.com/gl0bal01/bookmarklets">gl0bal01/bookmarklets: ★9</a>
-* <a href="https://github.com/gl0bal01/llm-1minai">gl0bal01/llm-1minai: ★6</a>
+* <a href="https://github.com/gl0bal01/llm-1minai">gl0bal01/llm-1minai: ★7</a>
 * <a href="https://github.com/gl0bal01/discord-osint-assistant">gl0bal01/discord-osint-assistant: ★5</a>
 * <a href="https://github.com/gl0bal01/dorkhound">gl0bal01/dorkhound: ★4</a>
 * <a href="https://github.com/gl0bal01/chainmap">gl0bal01/chainmap: ★4</a>
@@ -22,6 +22,7 @@ Repos:
 * <a href="https://github.com/gl0bal01/docusaurus-plugin-obsidian-vault">gl0bal01/docusaurus-plugin-obsidian-vault: ★1</a>
 * <a href="https://github.com/gl0bal01/contract-agents">gl0bal01/contract-agents: ★1</a>
 * <a href="https://github.com/gl0bal01/ctfd-warboard">gl0bal01/ctfd-warboard: ★1</a>
+* <a href="https://github.com/gl0bal01/omi">gl0bal01/omi: ★1</a>
 * <a href="https://github.com/gl0bal01/devbox">gl0bal01/devbox: ★1</a>
 * <a href="https://github.com/gl0bal01/fissure">gl0bal01/fissure: ★1</a>
 
