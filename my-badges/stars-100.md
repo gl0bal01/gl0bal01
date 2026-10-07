@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/gl0bal01/intel-codex">gl0bal01/intel-codex: ★62</a>
+* <a href="https://github.com/gl0bal01/intel-codex">gl0bal01/intel-codex: ★63</a>
 * <a href="https://github.com/gl0bal01/malware-analysis-claude-skills">gl0bal01/malware-analysis-claude-skills: ★50</a>
 * <a href="https://github.com/gl0bal01/bookmarklets">gl0bal01/bookmarklets: ★9</a>
 * <a href="https://github.com/gl0bal01/llm-1minai">gl0bal01/llm-1minai: ★7</a>
