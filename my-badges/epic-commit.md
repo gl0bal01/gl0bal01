@@ -80,6 +80,10 @@ Commits:
 - <a href="https://github.com/gl0bal01/ctfd-warboard/commit/c289e92d2f18cc6feaae616b9462fc9cb847840b">c289e92</a>
 - <a href="https://github.com/gl0bal01/volatility-toolkit/commit/074916d6fce610f54c889150972d39c3c80f34fd">074916d</a>
 - <a href="https://github.com/gl0bal01/volatility-toolkit/commit/88a1063ac2c1416bdf9e65ab34b9534c05d72e48">88a1063</a>
+- <a href="https://github.com/gl0bal01/dorkhound/commit/f7229aebeb7e5e8344d725b41b42f797210d02fa">f7229ae</a>
+- <a href="https://github.com/gl0bal01/dorkhound/commit/3ee49a16c28aff95090f6da65e03f87bd748084e">3ee49a1</a>
+- <a href="https://github.com/gl0bal01/dorkhound/commit/9d186ad9458447bbe64cd2a7c5ff591309fa6874">9d186ad</a>
+- <a href="https://github.com/gl0bal01/dorkhound/commit/c16156cf0f0fdfd9c5c1f448772f655924b1ade2">c16156c</a>
 - <a href="https://github.com/gl0bal01/dorkhound/commit/7e65e98881f5a8d704d7cd5e37465728b390d812">7e65e98</a>
 - <a href="https://github.com/gl0bal01/dorkhound/commit/f91a0f7f7dafc3113331b517c0ab5cf012e9e9fd">f91a0f7</a>
 - <a href="https://github.com/gl0bal01/dorkhound/commit/5e371563e12621a24ced5f402a21b0b73694d2e4">5e37156</a>
