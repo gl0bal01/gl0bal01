@@ -4,6 +4,17 @@ Total releases: 24
 
 ---
 
+### [dorkhound v1.4.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.4.0)
+
+Fast Google dork URL generator for finding missing persons and TraceLab CTF competitions
+
+- **Tag:** v1.4.0
+- **Published:** 2026-10-08
+- **Repository:** [dorkhound](https://github.com/gl0bal01/dorkhound)
+- **Total releases in repo:** 5
+
+---
+
 ### [malware-analysis-claude-skills v1.3.0 — Agentic malware analysis + plugin](https://github.com/gl0bal01/malware-analysis-claude-skills/releases/tag/v1.3.0)
 
 Complete Claude skills toolkit for professional malware analysis. 5 specialized skills covering triage, dynamic analysis, detection engineering, and reporting. Works with   REMnux/FlareVM offline environments.
@@ -89,17 +100,6 @@ One declarative manifest → reproducible tmux & Zellij workspaces. Zero drift, 
 - **Published:** 2026-06-22
 - **Repository:** [terminal-layouts](https://github.com/gl0bal01/terminal-layouts)
 - **Total releases in repo:** 1
-
----
-
-### [dorkhound v1.3.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.3.0)
-
-Fast Google dork URL generator for finding missing persons and TraceLab CTF competitions
-
-- **Tag:** v1.3.0
-- **Published:** 2026-06-20
-- **Repository:** [dorkhound](https://github.com/gl0bal01/dorkhound)
-- **Total releases in repo:** 4
 
 ---
 
