@@ -4,6 +4,17 @@ Total releases: 24
 
 ---
 
+### [devbox v2.0.0](https://github.com/gl0bal01/devbox/releases/tag/v2.0.0)
+
+Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
+
+- **Tag:** v2.0.0
+- **Published:** 2026-10-24
+- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
+- **Total releases in repo:** 17
+
+---
+
 ### [dorkhound v1.4.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.4.0)
 
 Fast Google dork URL generator for finding missing persons and TraceLab CTF competitions
@@ -34,17 +45,6 @@ Single static Go CLI for the 1min.ai REST API — parallel multi-model consensus
 - **Published:** 2026-09-03
 - **Repository:** [omi](https://github.com/gl0bal01/omi)
 - **Total releases in repo:** 5
-
----
-
-### [devbox Weekly rebuild weekly-20260831](https://github.com/gl0bal01/devbox/releases/tag/weekly-20260831)
-
-Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
-
-- **Tag:** weekly-20260831
-- **Published:** 2026-08-31
-- **Repository:** [devbox](https://github.com/gl0bal01/devbox)
-- **Total releases in repo:** 16
 
 ---
 
