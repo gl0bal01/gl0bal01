@@ -172,11 +172,11 @@ Turn on-chain transactions into interactive graphs with investigation overlays a
 <!-- releases start -->
 ## Latest Releases
 
-- [devbox v2.0.0](https://github.com/gl0bal01/devbox/releases/tag/v2.0.0) - 2026-10-24
+- [discord-amazon-rekognition v1.1.1](https://github.com/gl0bal01/discord-amazon-rekognition/releases/tag/v1.1.1) - 2026-10-25
+- [volatility-toolkit v3.0.0 — Working analysis runs, Volatility 3 2.26+ plugins, kernel symbol options](https://github.com/gl0bal01/volatility-toolkit/releases/tag/v3.0.0) - 2026-10-25
+- [devbox v2.0.1](https://github.com/gl0bal01/devbox/releases/tag/v2.0.1) - 2026-10-25
 - [dorkhound v1.4.0](https://github.com/gl0bal01/dorkhound/releases/tag/v1.4.0) - 2026-10-08
 - [malware-analysis-claude-skills v1.3.0 — Agentic malware analysis + plugin](https://github.com/gl0bal01/malware-analysis-claude-skills/releases/tag/v1.3.0) - 2026-09-05
-- [omi v0.3.0](https://github.com/gl0bal01/omi/releases/tag/v0.3.0) - 2026-09-03
-- [selfhosted-secrets-stack v1.0.0](https://github.com/gl0bal01/selfhosted-secrets-stack/releases/tag/v1.0.0) - 2026-08-24
 
 *Showing 5 of 24 releases* • [View More →](RELEASES.md)
 <!-- releases end -->

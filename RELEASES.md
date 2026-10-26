@@ -4,14 +4,36 @@ Total releases: 24
 
 ---
 
-### [devbox v2.0.0](https://github.com/gl0bal01/devbox/releases/tag/v2.0.0)
+### [discord-amazon-rekognition v1.1.1](https://github.com/gl0bal01/discord-amazon-rekognition/releases/tag/v1.1.1)
+
+A powerful Discord bot that leverages AWS Rekognition.
+
+- **Tag:** v1.1.1
+- **Published:** 2026-10-25
+- **Repository:** [discord-amazon-rekognition](https://github.com/gl0bal01/discord-amazon-rekognition)
+- **Total releases in repo:** 3
+
+---
+
+### [volatility-toolkit v3.0.0 — Working analysis runs, Volatility 3 2.26+ plugins, kernel symbol options](https://github.com/gl0bal01/volatility-toolkit/releases/tag/v3.0.0)
+
+Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolkit
+
+- **Tag:** v3.0.0
+- **Published:** 2026-10-25
+- **Repository:** [volatility-toolkit](https://github.com/gl0bal01/volatility-toolkit)
+- **Total releases in repo:** 2
+
+---
+
+### [devbox v2.0.1](https://github.com/gl0bal01/devbox/releases/tag/v2.0.1)
 
 Tailscale-first dev/pentest/AI station: Traefik + Ollama + Open WebUI on Ubuntu 24.04 + Docker. Signed weekly tarball with cosign + SBOM + SLSA.
 
-- **Tag:** v2.0.0
-- **Published:** 2026-10-24
+- **Tag:** v2.0.1
+- **Published:** 2026-10-25
 - **Repository:** [devbox](https://github.com/gl0bal01/devbox)
-- **Total releases in repo:** 17
+- **Total releases in repo:** 18
 
 ---
 
@@ -134,17 +156,6 @@ Complete CTF pwn/reverse-engineering Docker image — 45+ tools, 5 disassemblers
 
 ---
 
-### [volatility-toolkit v2.1.1 — Address code review findings](https://github.com/gl0bal01/volatility-toolkit/releases/tag/v2.1.1)
-
-Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolkit
-
-- **Tag:** v2.1.1
-- **Published:** 2026-05-18
-- **Repository:** [volatility-toolkit](https://github.com/gl0bal01/volatility-toolkit)
-- **Total releases in repo:** 1
-
----
-
 ### [wp-quick-dev v1.1.0 - Security and reliability hardening](https://github.com/gl0bal01/wp-quick-dev/releases/tag/v1.1.0)
 
 Lightning-fast WordPress development environment for rapid plugin and theme prototyping. Docker-based, cross-platform, with integrated tools for modern WordPress development.
@@ -164,17 +175,6 @@ LLM plugin providing access to AI models through 1min.ai API with web search, mi
 - **Published:** 2026-05-07
 - **Repository:** [llm-1minai](https://github.com/gl0bal01/llm-1minai)
 - **Total releases in repo:** 3
-
----
-
-### [discord-amazon-rekognition v1.1.0](https://github.com/gl0bal01/discord-amazon-rekognition/releases/tag/v1.1.0)
-
-A powerful Discord bot that leverages AWS Rekognition.
-
-- **Tag:** v1.1.0
-- **Published:** 2026-04-28
-- **Repository:** [discord-amazon-rekognition](https://github.com/gl0bal01/discord-amazon-rekognition)
-- **Total releases in repo:** 2
 
 ---
 
