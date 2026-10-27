@@ -83,6 +83,7 @@ Commits:
 - <a href="https://github.com/gl0bal01/ctfd-warboard/commit/817cda028b43f975fa421ef049a740ecf90d6b7b">817cda0</a>
 - <a href="https://github.com/gl0bal01/ctfd-warboard/commit/a498dfc39aabb597f72682269cde589f9c7dfa03">a498dfc</a>
 - <a href="https://github.com/gl0bal01/ctfd-warboard/commit/c289e92d2f18cc6feaae616b9462fc9cb847840b">c289e92</a>
+- <a href="https://github.com/gl0bal01/volatility-toolkit/commit/06afbb191ac59e7ccb2be90cd708623ab6dca308">06afbb1</a>
 - <a href="https://github.com/gl0bal01/volatility-toolkit/commit/fc0603d79fe30489ffe456e72f9ae3f6fd506299">fc0603d</a>
 - <a href="https://github.com/gl0bal01/volatility-toolkit/commit/72b484188dbe96a11788d0b281482be09f22eca0">72b4841</a>
 - <a href="https://github.com/gl0bal01/volatility-toolkit/commit/3a966cd5a53e80977e88e84eccd627d5b0090fe4">3a966cd</a>
