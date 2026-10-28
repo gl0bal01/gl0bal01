@@ -83,6 +83,7 @@ Commits:
 - <a href="https://github.com/gl0bal01/ctfd-warboard/commit/817cda028b43f975fa421ef049a740ecf90d6b7b">817cda0</a>
 - <a href="https://github.com/gl0bal01/ctfd-warboard/commit/a498dfc39aabb597f72682269cde589f9c7dfa03">a498dfc</a>
 - <a href="https://github.com/gl0bal01/ctfd-warboard/commit/c289e92d2f18cc6feaae616b9462fc9cb847840b">c289e92</a>
+- <a href="https://github.com/gl0bal01/volatility-toolkit/commit/e1b01af6e06e0ed34ca6cf1ea37910337378b0bd">e1b01af</a>
 - <a href="https://github.com/gl0bal01/volatility-toolkit/commit/06afbb191ac59e7ccb2be90cd708623ab6dca308">06afbb1</a>
 - <a href="https://github.com/gl0bal01/volatility-toolkit/commit/fc0603d79fe30489ffe456e72f9ae3f6fd506299">fc0603d</a>
 - <a href="https://github.com/gl0bal01/volatility-toolkit/commit/72b484188dbe96a11788d0b281482be09f22eca0">72b4841</a>
@@ -165,6 +166,8 @@ Commits:
 - <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/edec7899c6b045f21f543e5017e2e8723c7b741d">edec789</a>
 - <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/3c38dc4de63515c25c0bb2b57a5614d1c45fb3d5">3c38dc4</a>
 - <a href="https://github.com/gl0bal01/discord-amazon-rekognition/commit/fe1327b689742c68d0cd178f9f37fbd6ba196791">fe1327b</a>
+- <a href="https://github.com/gl0bal01/discord-ai-assistant/commit/e8bac781278e11844c09211dbd168482d28549b6">e8bac78</a>
+- <a href="https://github.com/gl0bal01/discord-ai-assistant/commit/6d9c81467562d164c799ef220601996f187dbca0">6d9c814</a>
 - <a href="https://github.com/gl0bal01/discord-ai-assistant/commit/3c6c5fad4eef6f1efb7b09c0cf93a408b77d3ef2">3c6c5fa</a>
 - <a href="https://github.com/gl0bal01/discord-ai-assistant/commit/c9e653b21b8c6b4c4db53ee099ab6d56baa01381">c9e653b</a>
 - <a href="https://github.com/gl0bal01/bookmarklets/commit/29d18e9886eb1dedb73bbe968e210003ceb53600">29d18e9</a>
