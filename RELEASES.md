@@ -4,6 +4,17 @@ Total releases: 24
 
 ---
 
+### [volatility-toolkit v4.0.0 — Hardened output directory and shutdown, look-alike hosts kept, real-dump CI](https://github.com/gl0bal01/volatility-toolkit/releases/tag/v4.0.0)
+
+Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolkit
+
+- **Tag:** v4.0.0
+- **Published:** 2026-10-29
+- **Repository:** [volatility-toolkit](https://github.com/gl0bal01/volatility-toolkit)
+- **Total releases in repo:** 3
+
+---
+
 ### [discord-amazon-rekognition v1.1.1](https://github.com/gl0bal01/discord-amazon-rekognition/releases/tag/v1.1.1)
 
 A powerful Discord bot that leverages AWS Rekognition.
@@ -12,17 +23,6 @@ A powerful Discord bot that leverages AWS Rekognition.
 - **Published:** 2026-10-25
 - **Repository:** [discord-amazon-rekognition](https://github.com/gl0bal01/discord-amazon-rekognition)
 - **Total releases in repo:** 3
-
----
-
-### [volatility-toolkit v3.0.0 — Working analysis runs, Volatility 3 2.26+ plugins, kernel symbol options](https://github.com/gl0bal01/volatility-toolkit/releases/tag/v3.0.0)
-
-Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolkit
-
-- **Tag:** v3.0.0
-- **Published:** 2026-10-25
-- **Repository:** [volatility-toolkit](https://github.com/gl0bal01/volatility-toolkit)
-- **Total releases in repo:** 2
 
 ---
 
