@@ -133,6 +133,8 @@ Commits:
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/d0eb8c8c119e16838a589d4fac217d993559723c">d0eb8c8</a>
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/1fbdc95d3d08fcde319960a8e6535731cf24d057">1fbdc95</a>
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/4b482382f1ccac7444b56243fac2121fb3d69236">4b48238</a>
+- <a href="https://github.com/gl0bal01/intel-codex/commit/a6c848e8736e00571cbd5bd842660b07062fbc5e">a6c848e</a>
+- <a href="https://github.com/gl0bal01/intel-codex/commit/491e69436485653bc10aa7a468c9493444b5e873">491e694</a>
 - <a href="https://github.com/gl0bal01/intel-codex/commit/9213a820cf5f9b3f1c9001dd6ca132719e714b11">9213a82</a>
 - <a href="https://github.com/gl0bal01/intel-codex/commit/6a335340439eba6243b90bab8d326a578c5a91f5">6a33534</a>
 - <a href="https://github.com/gl0bal01/intel-codex/commit/fc0f78d2386e37e343b95592c36c3c3b716d3826">fc0f78d</a>
