@@ -4,6 +4,28 @@ Total releases: 24
 
 ---
 
+### [llm-1minai v0.5.0 — 30 curated frontier models](https://github.com/gl0bal01/llm-1minai/releases/tag/v0.5.0)
+
+LLM plugin providing access to AI models through 1min.ai API with web search, mixed context, and persistent options
+
+- **Tag:** v0.5.0
+- **Published:** 2026-11-02
+- **Repository:** [llm-1minai](https://github.com/gl0bal01/llm-1minai)
+- **Total releases in repo:** 4
+
+---
+
+### [discord-ai-assistant v2.0.2 — Current 1min.ai Models, Safer Replies](https://github.com/gl0bal01/discord-ai-assistant/releases/tag/v2.0.2)
+
+A Discord bot using 1min api that provides AI chat functionality with multiple models including GPT-4o, Claude, Gemini...
+
+- **Tag:** v2.0.2
+- **Published:** 2026-11-02
+- **Repository:** [discord-ai-assistant](https://github.com/gl0bal01/discord-ai-assistant)
+- **Total releases in repo:** 3
+
+---
+
 ### [volatility-toolkit v4.0.0 — Hardened output directory and shutdown, look-alike hosts kept, real-dump CI](https://github.com/gl0bal01/volatility-toolkit/releases/tag/v4.0.0)
 
 Automated memory forensics for Windows, Linux, and macOS — Volatility 3 toolkit
@@ -167,17 +189,6 @@ Lightning-fast WordPress development environment for rapid plugin and theme prot
 
 ---
 
-### [llm-1minai v0.4.1 — maintenance release](https://github.com/gl0bal01/llm-1minai/releases/tag/v0.4.1)
-
-LLM plugin providing access to AI models through 1min.ai API with web search, mixed context, and persistent options
-
-- **Tag:** v0.4.1
-- **Published:** 2026-05-07
-- **Repository:** [llm-1minai](https://github.com/gl0bal01/llm-1minai)
-- **Total releases in repo:** 3
-
----
-
 ### [intel-codex Intel Codex - v2.0.0](https://github.com/gl0bal01/intel-codex/releases/tag/v2.0.0)
 
 Open-source field manual for OSINT, DFIR and cybersecurity investigations. Operational SOPs, browsable online or clonable as an Obsidian vault.
@@ -197,17 +208,6 @@ Governance system for 52 specialized agents under a single contract: aligned, co
 - **Published:** 2026-04-11
 - **Repository:** [contract-agents](https://github.com/gl0bal01/contract-agents)
 - **Total releases in repo:** 5
-
----
-
-### [discord-ai-assistant v1.1.0 — Security Hardening & Dependency Updates](https://github.com/gl0bal01/discord-ai-assistant/releases/tag/v1.1.0)
-
-A Discord bot using 1min api that provides AI chat functionality with multiple models including GPT-4o, Claude, Gemini...
-
-- **Tag:** v1.1.0
-- **Published:** 2026-03-20
-- **Repository:** [discord-ai-assistant](https://github.com/gl0bal01/discord-ai-assistant)
-- **Total releases in repo:** 2
 
 ---
 
