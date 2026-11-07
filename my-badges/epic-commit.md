@@ -133,6 +133,8 @@ Commits:
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/d0eb8c8c119e16838a589d4fac217d993559723c">d0eb8c8</a>
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/1fbdc95d3d08fcde319960a8e6535731cf24d057">1fbdc95</a>
 - <a href="https://github.com/gl0bal01/black-box-architecture/commit/4b482382f1ccac7444b56243fac2121fb3d69236">4b48238</a>
+- <a href="https://github.com/gl0bal01/intel-codex/commit/b3e9317b04a26dcd910db84d3d07e05bddba63b9">b3e9317</a>
+- <a href="https://github.com/gl0bal01/intel-codex/commit/064d5ef2a8e98343b1e53a19f2cca5c6ccb8a7f3">064d5ef</a>
 - <a href="https://github.com/gl0bal01/intel-codex/commit/777ce7692acf2a05a8ceaebc691d78257409d576">777ce76</a>
 - <a href="https://github.com/gl0bal01/intel-codex/commit/5ee2c03bc48d72978416e9c43b7e63ef6ae53daf">5ee2c03</a>
 - <a href="https://github.com/gl0bal01/intel-codex/commit/d34f5413825709b375da3943660ab30a185f5972">d34f541</a>
@@ -186,6 +188,9 @@ Commits:
 - <a href="https://github.com/gl0bal01/discord-ai-assistant/commit/c9e653b21b8c6b4c4db53ee099ab6d56baa01381">c9e653b</a>
 - <a href="https://github.com/gl0bal01/bookmarklets/commit/29d18e9886eb1dedb73bbe968e210003ceb53600">29d18e9</a>
 - <a href="https://github.com/gl0bal01/bookmarklets/commit/adb8fa27ea24d28617fb4c25979b4cd57d8757cb">adb8fa2</a>
+- <a href="https://github.com/gl0bal01/gl0bal01.github.io/commit/f999c7d37c5ccc3c64757ce4f81a7e261bb2db8d">f999c7d</a>
+- <a href="https://github.com/gl0bal01/gl0bal01.github.io/commit/79175af9522d3ed279070354fd2dc7caf81fa6f9">79175af</a>
+- <a href="https://github.com/gl0bal01/gl0bal01.github.io/commit/13f2e76cf8e824f14c9c9d531a63927a7c5e3199">13f2e76</a>
 - <a href="https://github.com/gl0bal01/gl0bal01.github.io/commit/b4fae7495daf2753d2d93bf55464a5e2dc832599">b4fae74</a>
 - <a href="https://github.com/gl0bal01/gl0bal01.github.io/commit/585a0aea8cca326edde1f62135b94b5ca13c80fd">585a0ae</a>
 - <a href="https://github.com/gl0bal01/gl0bal01.github.io/commit/8d5de96a22bacf7b6bf663d4d7f382f9726b6266">8d5de96</a>
