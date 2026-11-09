@@ -4,6 +4,17 @@ Total releases: 24
 
 ---
 
+### [intel-codex Intel Codex - v2.1.0](https://github.com/gl0bal01/intel-codex/releases/tag/v2.1.0)
+
+Open-source field manual for OSINT, DFIR and cybersecurity investigations. Operational SOPs, browsable online or clonable as an Obsidian vault.
+
+- **Tag:** v2.1.0
+- **Published:** 2026-11-08
+- **Repository:** [intel-codex](https://github.com/gl0bal01/intel-codex)
+- **Total releases in repo:** 3
+
+---
+
 ### [llm-1minai v0.5.0 — 30 curated frontier models](https://github.com/gl0bal01/llm-1minai/releases/tag/v0.5.0)
 
 LLM plugin providing access to AI models through 1min.ai API with web search, mixed context, and persistent options
@@ -185,17 +196,6 @@ Lightning-fast WordPress development environment for rapid plugin and theme prot
 - **Tag:** v1.1.0
 - **Published:** 2026-05-18
 - **Repository:** [wp-quick-dev](https://github.com/gl0bal01/wp-quick-dev)
-- **Total releases in repo:** 2
-
----
-
-### [intel-codex Intel Codex - v2.0.0](https://github.com/gl0bal01/intel-codex/releases/tag/v2.0.0)
-
-Open-source field manual for OSINT, DFIR and cybersecurity investigations. Operational SOPs, browsable online or clonable as an Obsidian vault.
-
-- **Tag:** v2.0.0
-- **Published:** 2026-04-27
-- **Repository:** [intel-codex](https://github.com/gl0bal01/intel-codex)
 - **Total releases in repo:** 2
 
 ---
