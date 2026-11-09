@@ -28,15 +28,15 @@ Admiralty source grading · append-only audit ledger · signed exports
 
 ---
 
-### [Intel Codex](https://lecodex.xyz)
+### [Intel Codex](https://gl0bal01.com/intel-codex)
 
-[![Intel Codex](https://raw.githubusercontent.com/gl0bal01/gl0bal01/main/assets/lecodex.jpg)](https://lecodex.xyz)
+[![Intel Codex](https://raw.githubusercontent.com/gl0bal01/intel-codex/main/assets/hero.jpg)](https://gl0bal01.com/intel-codex)
 
 **An operational manual for digital investigators and security practitioners.**
 
 Practical, repeatable procedures covering OSINT, cloud forensics, blockchain tracing, dark-web investigations, malware analysis, pentesting, reporting, and escalation.
 
-[Read the Codex](https://lecodex.xyz) · [View the repository](https://github.com/gl0bal01/intel-codex)
+[Read Intel Codex](https://gl0bal01.com/intel-codex) · [View the repository](https://github.com/gl0bal01/intel-codex)
 
 ---
 
