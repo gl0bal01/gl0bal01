@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/gl0bal01/intel-codex/commit/9213a820cf5f9b3f1c9001dd6ca132719e714b11">9213a82</a>
-- <a href="https://github.com/gl0bal01/discord-ai-assistant/commit/e8bac781278e11844c09211dbd168482d28549b6">e8bac78</a>
-- <a href="https://github.com/gl0bal01/discord-ai-assistant/commit/6d9c81467562d164c799ef220601996f187dbca0">6d9c814</a>
-- <a href="https://github.com/gl0bal01/volatility-toolkit/commit/e1b01af6e06e0ed34ca6cf1ea37910337378b0bd">e1b01af</a>
-- <a href="https://github.com/gl0bal01/discord-ai-assistant/commit/3c6c5fad4eef6f1efb7b09c0cf93a408b77d3ef2">3c6c5fa</a>
-- <a href="https://github.com/gl0bal01/discord-amazon-rekognition/commit/f4d7d76fb4e34d71134075c5fb107dd1f1228f4c">f4d7d76</a>
+- <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/961ebd607651b7e64c4705f6fe801a804a2be093">961ebd6</a>
+- <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/301a79f4e1ffebe19e6ca0e46189c8bee76fa66f">301a79f</a>
+- <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/43822c3e40f91fa30dd0aa7b5309142a6746a26f">43822c3</a>
+- <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/7ece2d6c22d0815cae4ace428f882928d3b777e7">7ece2d6</a>
+- <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/3ca84b80196c92b9c5b8d06b8021fbf4928a9647">3ca84b8</a>
+- <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/09b985f0d2b6a2465e5bfbf5d7c2195ecab44d26">09b985f</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
