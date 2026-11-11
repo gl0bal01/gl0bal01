@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/gl0bal01/intel-codex/commit/c7d99defc4ee6065bc0c05c89342692b60cc359f">c7d99de</a>
-- <a href="https://github.com/gl0bal01/discord-osint-assistant/commit/ef9321992b5826df21e7db8072a07ce01e28aff6">ef93219</a>
-- <a href="https://github.com/gl0bal01/intel-codex/commit/d4e0fa3493c63df57202ee032841f2f71dbbd3f4">d4e0fa3</a>
-- <a href="https://github.com/gl0bal01/intel-codex/commit/491e69436485653bc10aa7a468c9493444b5e873">491e694</a>
-- <a href="https://github.com/gl0bal01/gl0bal01/commit/8c6bded024c23d198afe8ffeb6a02a51b5363c5f">8c6bded</a>
-- <a href="https://github.com/gl0bal01/pwndocker-reverse/commit/62f7c360c8ed9106297dd8571ccc2241bef2166d">62f7c36</a>
+- <a href="https://github.com/gl0bal01/terminal-layouts/commit/83daeb7845584b325d5f5a70f9317622fad93ab9">83daeb7</a>
+- <a href="https://github.com/gl0bal01/terminal-layouts/commit/bfe2e1ac2b61619935ea70944a181954398d4623">bfe2e1a</a>
+- <a href="https://github.com/gl0bal01/terminal-layouts/commit/5011bfddd8aa0e516124ca4b07756c976d247a15">5011bfd</a>
+- <a href="https://github.com/gl0bal01/terminal-layouts/commit/629f1df7b5306d59f40311f7c9ee7af7ecf6331a">629f1df</a>
+- <a href="https://github.com/gl0bal01/terminal-layouts/commit/a6b37581e1698759fda5cd90d908821bf8e2ac20">a6b3758</a>
+- <a href="https://github.com/gl0bal01/terminal-layouts/commit/d78836a8528b3dc22c32bfd7aea21abf0fe9fae8">d78836a</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
