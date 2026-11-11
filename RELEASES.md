@@ -4,6 +4,17 @@ Total releases: 24
 
 ---
 
+### [terminal-layouts v0.2.0](https://github.com/gl0bal01/terminal-layouts/releases/tag/v0.2.0)
+
+Eight ready-made terminal workspaces (dev, AI agents, Docker, pentest, OSINT, malware analysis, CTF). One YAML manifest opens each in tmux, Zellij or Herdr.
+
+- **Tag:** v0.2.0
+- **Published:** 2026-11-10
+- **Repository:** [terminal-layouts](https://github.com/gl0bal01/terminal-layouts)
+- **Total releases in repo:** 2
+
+---
+
 ### [intel-codex Intel Codex - v2.1.0](https://github.com/gl0bal01/intel-codex/releases/tag/v2.1.0)
 
 Open-source field manual for OSINT, DFIR and cybersecurity investigations. Operational SOPs, browsable online or clonable as an Obsidian vault.
@@ -144,17 +155,6 @@ A powerful Discord bot for Open Source Intelligence (OSINT) gathering and analys
 - **Published:** 2026-07-09
 - **Repository:** [discord-osint-assistant](https://github.com/gl0bal01/discord-osint-assistant)
 - **Total releases in repo:** 3
-
----
-
-### [terminal-layouts v0.1.0](https://github.com/gl0bal01/terminal-layouts/releases/tag/v0.1.0)
-
-One declarative manifest → reproducible tmux & Zellij workspaces. Zero drift, enforced by parity tests. 7 batteries-included dev/security/research layouts.
-
-- **Tag:** v0.1.0
-- **Published:** 2026-06-22
-- **Repository:** [terminal-layouts](https://github.com/gl0bal01/terminal-layouts)
-- **Total releases in repo:** 1
 
 ---
 
