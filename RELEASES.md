@@ -4,6 +4,17 @@ Total releases: 24
 
 ---
 
+### [chainmap v1.1.0](https://github.com/gl0bal01/chainmap/releases/tag/v1.1.0)
+
+Client-side EVM fund-flow graph explorer for OSINT investigation and blockchain education. Buildless, no backend, no telemetry.
+
+- **Tag:** v1.1.0
+- **Published:** 2026-11-15
+- **Repository:** [chainmap](https://github.com/gl0bal01/chainmap)
+- **Total releases in repo:** 3
+
+---
+
 ### [terminal-layouts v0.2.0](https://github.com/gl0bal01/terminal-layouts/releases/tag/v0.2.0)
 
 Eight ready-made terminal workspaces (dev, AI agents, Docker, pentest, OSINT, malware analysis, CTF). One YAML manifest opens each in tmux, Zellij or Herdr.
@@ -133,17 +144,6 @@ A gentle CTFd parser designed to minimize load on CTF platforms. CLI + Discord b
 - **Published:** 2026-07-13
 - **Repository:** [ctfd-warboard](https://github.com/gl0bal01/ctfd-warboard)
 - **Total releases in repo:** 5
-
----
-
-### [chainmap v1.0.1](https://github.com/gl0bal01/chainmap/releases/tag/v1.0.1)
-
-Client-side EVM fund-flow graph explorer for OSINT investigation and blockchain education. Buildless, no backend, no telemetry.
-
-- **Tag:** v1.0.1
-- **Published:** 2026-07-13
-- **Repository:** [chainmap](https://github.com/gl0bal01/chainmap)
-- **Total releases in repo:** 2
 
 ---
 
