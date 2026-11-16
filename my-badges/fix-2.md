@@ -4,19 +4,14 @@
 
 Commits:
 
-- <a href="https://github.com/gl0bal01/devbox/commit/5fe74d27bb91ff3a65e2787ddcf4f8930717cd4f">5fe74d2</a>: fix: isolate the smoke test from an installed stack
+- <a href="https://github.com/gl0bal01/chainmap/commit/8eb1cbbd0b580c0f8ec65a6291acd1ba24b76833">8eb1cbb</a>: fix(load-older): graph-chain reads, error/sampling status, cursor guard
 
-The scratch copy kept the installed project names, so running it on a
-devbox host recreated the live containers and `down -v` deleted their
-volumes (models, Open WebUI database). Run under devbox-smoke-* project
-names and refuse to start when any devbox container already exists.
-- <a href="https://github.com/gl0bal01/devbox/commit/1062bd1605339d454805122e4dc12bcb041efd00">1062bd1</a>: fix: give Open WebUI room to boot; e2e dumps diagnostics on failure
-
-Open WebUI's first boot downloads and loads its RAG embedding model and
-peaks around 850 MB, so the 1g cap left no headroom and the first-run
-health check failed on the GitHub runner. Default to 2g
-(OPENWEBUI_MEM_LIMIT), allow a 120s start period probed every 5s, and
-print container state and logs whenever e2e.sh fails.
+Known-label, category, risk, search and CSV lookups use the graph's chain
+(dataChain) instead of the selector. loadOlder counts per-type fetch errors
+and the status reports them; a load shows the sampling banner. advance()
+ignores non-numeric blockNumbers. Page size re-renders details on input,
+not blur. Clearer history/complete/plan-required wording (en+fr).
+- <a href="https://github.com/gl0bal01/chainmap/commit/89a0d88fbc8057c6f1387502e8ac5091b5444f37">89a0d88</a>: fix(graph): contrasting border so the more-history dashes are visible
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/gl0bal01/chainmap/commit/ec995aeb2d7bd1bc92eddaba77526d2ca14f2267">ec995ae</a>
 - <a href="https://github.com/gl0bal01/chainmap/commit/4ca4e1215f792865299dfaf081ca6cb96ba5d30e">4ca4e12</a>
 - <a href="https://github.com/gl0bal01/chainmap/commit/943c10c87585d9cda0d37b9de48554abdcf3a8fd">943c10c</a>
 - <a href="https://github.com/gl0bal01/chainmap/commit/a5daa4178ba0b13d5ba7c3278399129698192b4d">a5daa41</a>
