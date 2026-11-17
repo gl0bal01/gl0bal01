@@ -172,7 +172,7 @@ Turn on-chain transactions into interactive graphs with investigation overlays a
 <!-- releases start -->
 ## Latest Releases
 
-- [chainmap v1.1.0](https://github.com/gl0bal01/chainmap/releases/tag/v1.1.0) - 2026-11-15
+- [chainmap v1.3.0](https://github.com/gl0bal01/chainmap/releases/tag/v1.3.0) - 2026-11-16
 - [terminal-layouts v0.2.0](https://github.com/gl0bal01/terminal-layouts/releases/tag/v0.2.0) - 2026-11-10
 - [intel-codex Intel Codex - v2.1.0](https://github.com/gl0bal01/intel-codex/releases/tag/v2.1.0) - 2026-11-08
 - [llm-1minai v0.5.0 — 30 curated frontier models](https://github.com/gl0bal01/llm-1minai/releases/tag/v0.5.0) - 2026-11-02
