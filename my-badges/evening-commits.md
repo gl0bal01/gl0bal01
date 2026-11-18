@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/gl0bal01/chainmap/commit/e4a041667cd970adb65e62cec14040a322764681">e4a0416</a>
-- <a href="https://github.com/gl0bal01/chainmap/commit/c3d7006de899d2b6fc5327019b876aa5459edb95">c3d7006</a>
-- <a href="https://github.com/gl0bal01/chainmap/commit/a4e9d7b8a94d4ca213a91c70f898d097d5dc85f8">a4e9d7b</a>
-- <a href="https://github.com/gl0bal01/chainmap/commit/c604eda242c5e1e7e4fee785b178034b43ab69df">c604eda</a>
-- <a href="https://github.com/gl0bal01/chainmap/commit/671aa525369fc029885c554b92951c150372ff1c">671aa52</a>
-- <a href="https://github.com/gl0bal01/chainmap/commit/53f0ee615b6fd19e61b4956dbf9deb86fe26df3d">53f0ee6</a>
+- <a href="https://github.com/gl0bal01/chainmap/commit/28f51e9201db2ac57c70dff92d316b12e33803a6">28f51e9</a>
+- <a href="https://github.com/gl0bal01/chainmap/commit/d986612bf5f7bf4f2fd68f89e30d669cc1bd47a3">d986612</a>
+- <a href="https://github.com/gl0bal01/chainmap/commit/5b1bc9413a86a4fee991999ca0e039ac78079ac3">5b1bc94</a>
+- <a href="https://github.com/gl0bal01/chainmap/commit/bf8aacf09e087c7f7726335cd63f567b347caac8">bf8aacf</a>
+- <a href="https://github.com/gl0bal01/chainmap/commit/c137a182c828607528fd703af2c7a7745fa333aa">c137a18</a>
+- <a href="https://github.com/gl0bal01/chainmap/commit/ff96c8d923d7f14818148cc4e3594c184252fed5">ff96c8d</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
