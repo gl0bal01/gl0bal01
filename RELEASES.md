@@ -4,14 +4,14 @@ Total releases: 24
 
 ---
 
-### [chainmap v1.3.0](https://github.com/gl0bal01/chainmap/releases/tag/v1.3.0)
+### [chainmap v1.7.0](https://github.com/gl0bal01/chainmap/releases/tag/v1.7.0)
 
 Client-side EVM fund-flow graph explorer for OSINT investigation and blockchain education. Buildless, no backend, no telemetry.
 
-- **Tag:** v1.3.0
-- **Published:** 2026-11-16
+- **Tag:** v1.7.0
+- **Published:** 2026-11-17
 - **Repository:** [chainmap](https://github.com/gl0bal01/chainmap)
-- **Total releases in repo:** 5
+- **Total releases in repo:** 9
 
 ---
 
